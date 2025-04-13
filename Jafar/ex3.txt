@@ -1,0 +1,7 @@
+•	total_cost   Correct
+•	3d_model     Not Correct because start with 3
+•	playerOne    Not Correct because don't use _ between words and stsrt One with uppercase
+•	def          Not Correct because def is key word
+•	email_address Correct
+•	first-name   Not Correct because use - not _
+•	PI           Not Correct same like Contstant
