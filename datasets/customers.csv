@@ -1,0 +1,848 @@
+CustomerID|NameStyle|Title|FirstName|MiddleName|LastName|Suffix|CompanyName|SalesPerson|EmailAddress|Phone|rowguid
+1|0|Mr.|Orlando|N.|Gee|NULL|A Bike Store|adventure-works\pamela0|orlando0@adventure-works.com|245-555-0173|3F5AE95E-B87D-4AED-95B4-C3797AFCB74F
+2|0|Mr.|Keith|NULL|Harris|NULL|Progressive Sports|adventure-works\david8|keith0@adventure-works.com|170-555-0127|E552F657-A9AF-4A7D-A645-C429D6E02491
+3|0|Ms.|Donna|F.|Carreras|NULL|Advanced Bike Components|adventure-works\jillian0|donna0@adventure-works.com|279-555-0130|130774B1-DB21-4EF3-98C8-C104BCD6ED6D
+4|0|Ms.|Janet|M.|Gates|NULL|Modular Cycle Systems|adventure-works\jillian0|janet1@adventure-works.com|710-555-0173|FF862851-1DAA-4044-BE7C-3E85583C054D
+5|0|Mr.|Lucy|NULL|Harrington|NULL|Metropolitan Sports Supply|adventure-works\shu0|lucy0@adventure-works.com|828-555-0186|83905BDC-6F5E-4F71-B162-C98DA069F38A
+6|0|Ms.|Rosmarie|J.|Carroll|NULL|Aerobic Exercise Company|adventure-works\linda3|rosmarie0@adventure-works.com|244-555-0112|1A92DF88-BFA2-467D-BD54-FCB9E647FDD7
+7|0|Mr.|Dominic|P.|Gash|NULL|Associated Bikes|adventure-works\shu0|dominic0@adventure-works.com|192-555-0173|03E9273E-B193-448E-9823-FE0C44AEED78
+10|0|Ms.|Kathleen|M.|Garza|NULL|Rural Cycle Emporium|adventure-works\josé1|kathleen0@adventure-works.com|150-555-0127|CDB6698D-2FF1-4FBA-8F22-60AD1D11DABD
+11|0|Ms.|Katherine|NULL|Harding|NULL|Sharp Bikes|adventure-works\josé1|katherine0@adventure-works.com|926-555-0159|750F3495-59C4-48A0-80E1-E37EC60E77D9
+12|0|Mr.|Johnny|A.|Caprio|Jr.|Bikes and Motorbikes|adventure-works\garrett1|johnny0@adventure-works.com|112-555-0191|947BCAF1-1F32-44F3-B9C3-0011F95FBE54
+16|0|Mr.|Christopher|R.|Beck|Jr.|Bulk Discount Store|adventure-works\jae0|christopher1@adventure-works.com|1 (11) 500 555-0132|C9381589-D31C-4EFE-8978-8D3449EB1F0F
+18|0|Mr.|David|J.|Liu|NULL|Catalog Store|adventure-works\michael9|david20@adventure-works.com|440-555-0132|C04D6B4D-94C6-4C5C-A44C-B449C0AC1B45
+19|0|Mr.|John|A.|Beaver|NULL|Center Cycle Shop|adventure-works\pamela0|john8@adventure-works.com|521-555-0195|69AE5D43-31BE-4B76-BFBB-5A23C4788BBC
+20|0|Ms.|Jean|P.|Handley|NULL|Central Discount Store|adventure-works\david8|jean1@adventure-works.com|582-555-0113|E010C10A-F1C3-4BBA-81CA-A7E083350400
+21|0|NULL|Jinghao|NULL|Liu|NULL|Chic Department Stores|adventure-works\jillian0|jinghao1@adventure-works.com|928-555-0116|564E0B42-4609-43DE-9881-914DA433D82D
+22|0|Ms.|Linda|E.|Burnett|NULL|Travel Systems|adventure-works\jillian0|linda4@adventure-works.com|121-555-0121|9774AED6-D673-412D-B481-2573E470B478
+23|0|Mr.|Kerim|NULL|Hanif|NULL|Bike World|adventure-works\shu0|kerim0@adventure-works.com|216-555-0122|733F8250-3251-4C2A-8C85-C285BB76B7B4
+24|0|Mr.|Kevin|NULL|Liu|NULL|Eastside Department Store|adventure-works\linda3|kevin5@adventure-works.com|926-555-0164|C111E51D-178D-4DBD-A6FF-F1CCBF4B1AAD
+25|0|Mr.|Donald|L.|Blanton|NULL|Coalition Bike Company|adventure-works\shu0|donald0@adventure-works.com|357-555-0161|31D03546-FB2A-4488-890E-4709A659E3F0
+28|0|Ms.|Jackie|E.|Blackwell|NULL|Commuter Bicycle Store|adventure-works\josé1|jackie0@adventure-works.com|972-555-0163|9B8A04A4-D909-4F49-B1C5-3DE317D69B2A
+29|0|Mr.|Bryan|NULL|Hamilton|NULL|Cross-Country Riding Supplies|adventure-works\josé1|bryan2@adventure-works.com|344-555-0144|ECA7C8FA-490B-4B97-9C32-043C90F789E8
+30|0|Mr.|Todd|R.|Logan|NULL|Cycle Merchants|adventure-works\garrett1|todd0@adventure-works.com|783-555-0110|2B15DFB1-831E-49E7-B337-395798B129E7
+34|0|Ms.|Barbara|J.|German|NULL|Cycles Wholesaler & Mfg.|adventure-works\jae0|barbara4@adventure-works.com|1 (11) 500 555-0181|9EDDA794-7862-4FF4-B8E2-528847CAB2BD
+37|0|Mr.|Jim|NULL|Geist|NULL|Two Bike Shops|adventure-works\pamela0|jim1@adventure-works.com|724-555-0161|C6EBB29A-CC67-459C-90E3-339E0F912906
+38|0|Ms.|Betty|M.|Haines|NULL|Finer Mart|adventure-works\david8|betty0@adventure-works.com|867-555-0114|E5EDA3F3-4EF1-4806-BD36-E61F3CB2E044
+39|0|Ms.|Sharon|J.|Looney|NULL|Fitness Hotel|adventure-works\jillian0|sharon2@adventure-works.com|377-555-0132|6808B1ED-3C9A-401D-B284-9AC31166D9EB
+40|0|Mr.|Darren|NULL|Gehring|NULL|Journey Sporting Goods|adventure-works\jillian0|darren0@adventure-works.com|417-555-0182|AA5E28F6-16C8-4D80-894E-17531F2CF972
+41|0|Ms.|Erin|M.|Hagens|NULL|Distant Inn|adventure-works\shu0|erin1@adventure-works.com|244-555-0127|E1BA20ED-DA19-4392-A8A8-C2E670438FFB
+42|0|Mr.|Jeremy|NULL|Los|NULL|Healthy Activity Store|adventure-works\linda3|jeremy0@adventure-works.com|911-555-0165|64ACD300-337D-4D39-A2C4-FD5972611934
+43|0|Ms.|Elsa|NULL|Leavitt|NULL|Frugal Bike Shop|adventure-works\shu0|elsa0@adventure-works.com|482-555-0174|9E449D3E-5D79-4F65-A4F1-10DD3B0E0766
+46|0|Mr.|David|O|Lawrence|NULL|Gear-Shift Bikes Limited|adventure-works\josé1|david19@adventure-works.com|653-555-0159|21849ECF-88C2-4574-89D5-397B84DF1D0F
+47|0|Ms.|Hattie|J.|Haemon|NULL|Greater Bike Store|adventure-works\josé1|hattie0@adventure-works.com|141-555-0172|0D9ABE85-D952-432D-831A-8BEB7F4E49D0
+48|0|Ms.|Anita|R.|Lucerne|NULL|Grand Industries|adventure-works\garrett1|anita0@adventure-works.com|164-555-0118|E656589A-198F-454F-B02F-9CE324457BDF
+52|0|Ms.|Rebecca|NULL|Laszlo|NULL|Instruments and Parts Company|adventure-works\jae0|rebecca2@adventure-works.com|1 (11) 500 555-0155|8FB34B30-B19D-4AEC-B02E-F1BE942800E5
+55|0|Mr.|Eric|NULL|Lang|NULL|Kickstands and Accessories Company|adventure-works\pamela0|eric6@adventure-works.com|932-555-0163|F5D3997B-AD06-46A0-94AF-A4460F4BE471
+56|0|Mr.|Brian|NULL|Groth|NULL|Latest Accessories Sales|adventure-works\david8|brian5@adventure-works.com|461-555-0118|570B1682-9BB1-4359-984D-8F728E3D6973
+57|0|Ms.|Judy|R.|Lundahl|NULL|Leading Sales & Repair|adventure-works\jillian0|judy1@adventure-works.com|260-555-0130|7FF17923-E670-4F42-87A3-A6D1AF18EA05
+58|0|Mr.|Peter|NULL|Kurniawan|NULL|Largest Bike Store|adventure-works\jillian0|peter4@adventure-works.com|436-555-0160|E324FEE8-1EE7-4B96-854E-CFDA7B0CBBC8
+59|0|Mr.|Douglas|NULL|Groncki|NULL|Locks Company|adventure-works\shu0|douglas2@adventure-works.com|385-555-0140|60708606-604C-44BE-90E1-3A0925B8060E
+60|0|Mr.|Sean|J.|Lunt|NULL|Main Bicycle Services|adventure-works\linda3|sean4@adventure-works.com|183-555-0111|A029F31E-433B-4FA4-B442-B291D16A1B9F
+61|0|Mr.|Jeffrey|NULL|Kurtz|NULL|Many Bikes Store|adventure-works\shu0|jeffrey3@adventure-works.com|452-555-0179|CCC53B43-66A6-47F6-A38E-5DD7CFAFEAA6
+64|0|Mr.|Vamsi|NULL|Kuppa|NULL|Metal Clearing House|adventure-works\josé1|vamsi1@adventure-works.com|290-555-0196|E6B6F92D-4AC6-4BC7-BF6B-2F3C67498DE7
+65|0|Ms.|Jane|P.|Greer|NULL|Metro Manufacturing|adventure-works\josé1|jane2@adventure-works.com|737-555-0163|7E082443-8AF6-4BB6-A0F5-1586271D1F2C
+66|0|Mr.|Alexander|J.|Deborde|NULL|Neighborhood Store|adventure-works\garrett1|alexander1@adventure-works.com|394-555-0176|E91E0048-9A25-489B-96C1-D726DA68FB7C
+70|0|Mr.|Deepak|NULL|Kumar|NULL|Outdoor Aerobic Systems Company|adventure-works\jae0|deepak0@adventure-works.com|1 (11) 500 555-0122|89E10B04-064E-4313-8203-91FA98A01B11
+73|0|Ms.|Margaret|T.|Krupka|NULL|Outdoor Sports Supply|adventure-works\pamela0|margaret1@adventure-works.com|107-555-0132|9D5C135E-BD60-46E0-B371-843391637827
+74|0|Mr.|Christopher|M.|Bright|NULL|Parcel Express Delivery Service|adventure-works\david8|christopher2@adventure-works.com|162-555-0166|73485E57-076D-4B10-BB48-6043DD873582
+75|0|Ms.|Aidan|NULL|Delaney|NULL|Paint Supply|adventure-works\jillian0|aidan0@adventure-works.com|358-555-0188|55CFED0E-1A7B-409C-9AFF-297065965870
+76|0|Mr.|James|J.|Krow|NULL|Out-of-the-Way Hotels|adventure-works\jillian0|james11@adventure-works.com|265-555-0190|5227D299-B05E-4D6C-A1C9-DA63154869BA
+77|0|Mr.|Michael|NULL|Brundage|NULL|Mechanical Products Ltd.|adventure-works\shu0|michael13@adventure-works.com|128-555-0148|B3F9113C-8FCE-47E1-9F04-38A0C68917C6
+78|0|Mr.|Stefan|NULL|Delmarco|NULL|Preferred Bikes|adventure-works\linda3|stefan0@adventure-works.com|819-555-0186|8C8083AB-7943-44FA-B1AD-8E3ABD5D66EE
+79|0|Mr.|Mitch|NULL|Kennedy|NULL|Reasonable Bicycle Sales|adventure-works\shu0|mitch0@adventure-works.com|996-555-0192|010D8AA6-CEBA-4097-9E67-3B2A9674FD5F
+82|0|Mr.|James|D.|Kramer|NULL|Refined Department Stores|adventure-works\josé1|james10@adventure-works.com|814-555-0130|92618ECE-2254-4852-B3B3-46ED2E0E3E1A
+83|0|Mr.|Eric|J.|Brumfield|NULL|Requisite Part Supply|adventure-works\josé1|eric3@adventure-works.com|644-555-0114|8E01F170-64D3-4B74-82E1-D1691AE9F37C
+84|0|Ms.|Della|F.|Demott Jr|NULL|Rewarding Activities Company|adventure-works\garrett1|della0@adventure-works.com|752-555-0185|45A614CE-3137-4A12-8296-24048C18F320
+88|0|Ms.|Pamala|M.|Kotc|NULL|Closest Bicycle Store|adventure-works\jae0|pamala0@adventure-works.com|1 (11) 500 555-0173|11FEDA31-15B6-4F08-9357-355371D4D928
+91|0|Ms.|Joy|R.|Koski|NULL|Scooters and Bikes Store|adventure-works\pamela0|joy0@adventure-works.com|810-555-0198|9F314FC3-9644-4412-A90A-5483F75F665B
+92|0|Ms.|Jovita|A.|Carmody|NULL|Sports Commodities|adventure-works\david8|jovita0@adventure-works.com|646-555-0137|672412C3-5D5D-488B-B176-E3DAFAD05D70
+93|0|Mr.|Prashanth|NULL|Desai|NULL|Stationary Bikes and Stands|adventure-works\jillian0|prashanth0@adventure-works.com|138-555-0156|249B42C2-8EAE-49F1-A560-A90837748654
+94|0|Mr.|Scott|NULL|Konersmann|NULL|Specialty Sports Store|adventure-works\jillian0|scott6@adventure-works.com|556-555-0192|65BE08DA-DFB7-4BC8-AA5C-FAD98B82524E
+95|0|Ms.|Jane|N.|Carmichael|NULL|Rural Department Store|adventure-works\shu0|jane0@adventure-works.com|716-555-0167|EA0BC621-9466-4F04-BBFF-3B361C6F9057
+96|0|Ms.|Bonnie|B.|Lepro|NULL|More Bikes!|adventure-works\linda3|bonnie2@adventure-works.com|354-555-0130|BAC5B4DA-00B0-4BF1-816A-1E39F676BF9B
+97|0|Mr.|Eugene|NULL|Kogan|NULL|Mountain Bike Center|adventure-works\shu0|eugene2@adventure-works.com|136-555-0134|355EB5D8-6B4C-4FFF-B12B-40F89CA4E31D
+100|0|Mr.|Kirk|T|King|NULL|Up-To-Date Sports|adventure-works\josé1|kirk2@adventure-works.com|979-555-0163|E789F6DD-3159-4DDC-81A8-8571C571656E
+101|0|Mr.|William|J.|Conner|NULL|Urban Sports Emporium|adventure-works\josé1|william1@adventure-works.com|383-555-0111|67AD4F37-2467-4438-A749-D947BEEC3A92
+102|0|Ms.|Linda|NULL|Leste|NULL|National Manufacturing|adventure-works\garrett1|linda7@adventure-works.com|493-555-0134|959CF74B-1004-43F5-9AB7-4CDD482C847D
+106|0|Ms.|Andrea|A.|Thomsen|NULL|West Side Mart|adventure-works\jae0|andrea1@adventure-works.com|1 (11) 500 555-0120|AAFBF7D5-8759-4962-9DEB-77C6E22875F4
+109|0|Mr.|Daniel|P.|Thompson|NULL|Travel Sports|adventure-works\pamela0|daniel2@adventure-works.com|247-555-0197|7585790B-6034-4520-A383-9FA1E8B3E76E
+110|0|Ms.|Kendra|N.|Thompson|NULL|Vintage Sport Boutique|adventure-works\david8|kendra0@adventure-works.com|464-555-0188|82C2F3F0-63B8-46CC-AEDC-3A856956EF04
+111|0|Mr.|Scott|A.|Colvin|NULL|Westside Cycle Store|adventure-works\jillian0|scott1@adventure-works.com|119-555-0144|0122151A-9140-4663-A3EB-A442D88BC1BB
+112|0|Ms.|Elsie|L.|Lewin|NULL|Town Industries|adventure-works\jillian0|elsie0@adventure-works.com|803-555-0116|5035E4D6-3758-4FA6-A462-2E2ECF52E6F0
+113|0|Mr.|Donald|M.|Thompson|NULL|Trendy Department Stores|adventure-works\shu0|donald1@adventure-works.com|273-555-0111|8A84966C-5D38-41CA-990F-AD107558A6B8
+114|0|Mr.|John|L.|Colon|NULL|Two Wheels Cycle Store|adventure-works\linda3|john14@adventure-works.com|397-555-0144|BCC5AE61-8214-44A1-A43C-FBD65C3745AE
+115|0|Mr.|George|Z.|Li|NULL|Security Racks and Locks Wholesalers|adventure-works\shu0|george3@adventure-works.com|699-555-0183|080F7047-8396-4CEC-AB43-56CF41DE4E00
+118|0|Mr.|Yale|NULL|Li|NULL|Rapid Bikes|adventure-works\josé1|yale0@adventure-works.com|316-555-0138|5FEAFBD2-4A43-4641-8E94-B3059B2A882E
+119|0|Ms.|Phyllis|A.|Thomas|NULL|Red Bicycle Company|adventure-works\josé1|phyllis2@adventure-works.com|667-555-0112|D13245EF-8267-4CB4-87C9-C23155D33E93
+120|0|Mr.|Pat|NULL|Coleman|NULL|Machines & Cycles Store|adventure-works\garrett1|pat2@adventure-works.com|292-555-0128|25863C18-4C9A-4BC9-BE0D-95F4CF67BF7D
+124|0|Ms.|Yuhong|NULL|Li|NULL|Nearby Sporting Goods|adventure-works\jae0|yuhong1@adventure-works.com|1 (11) 500 555-0176|2F614C31-ABAE-42D0-820B-193F0DDC811E
+127|0|Mr.|Joseph|M.|Lique|NULL|Front Sporting Goods|adventure-works\pamela0|joseph2@adventure-works.com|119-555-0195|EF55103F-ACC7-4BFD-89B1-20A04845E706
+128|0|Ms.|Judy|J.|Thames|NULL|Demand Distributors|adventure-works\david8|judy3@adventure-works.com|799-555-0118|03F73E74-8DE5-421E-B5AF-04B259268DD6
+129|0|Ms.|Connie|L.|Coffman|NULL|Discount Bicycle Specialists|adventure-works\jillian0|connie0@adventure-works.com|426-555-0181|E03DB34C-BF17-407D-9423-FA22DBFDD292
+130|0|Mr.|Paulo|H.|Lisboa|NULL|Elite Bikes|adventure-works\jillian0|paulo0@adventure-works.com|380-555-0116|606ECDC2-6443-4E4B-897F-32D4C17AB894
+131|0|Ms.|Vanessa|J.|Tench|NULL|Eighth Bike Store|adventure-works\shu0|vanessa0@adventure-works.com|785-555-0163|ED0DF7CC-6234-4D60-8B81-315C019F5356
+132|0|Ms.|Teanna|M.|Cobb|NULL|Another Sporting Goods Company|adventure-works\linda3|teanna0@adventure-works.com|661-555-0168|7649E8AF-3DAB-43AA-B7DF-9776F84DFB71
+133|0|Mr.|Michael|NULL|Graff|NULL|Commercial Sporting Goods|adventure-works\shu0|michael16@adventure-works.com|132-555-0150|4F61574B-8353-42EC-825C-87896E6E16A4
+136|0|Mr.|Derek|NULL|Graham|NULL|Wholesale Parts|adventure-works\josé1|derek0@adventure-works.com|674-555-0187|84CD4767-F142-4D9D-9033-AD3ADE34BF74
+137|0|NULL|Gytis|M|Barzdukas|NULL|Transportation Options|adventure-works\josé1|gytis0@adventure-works.com|257-555-0119|D6A1AEE7-25EF-4417-AB10-65BC21661864
+138|0|Ms.|Jane|NULL|Clayton|NULL|South Bike Company|adventure-works\garrett1|jane1@adventure-works.com|206-555-0195|91B9EF4B-2FA8-4936-AC71-1FA1B3624D12
+142|0|Mr.|Jon|NULL|Grande|NULL|Riding Cycles|adventure-works\jae0|jon1@adventure-works.com|1 (11) 500 555-0114|B821D13F-E9DB-4A3B-87D0-7E867A161575
+145|0|Mr.|Ted|NULL|Bremer|NULL|Raw Materials Inc|adventure-works\pamela0|ted0@adventure-works.com|962-555-0166|FEC5609D-042B-4480-B1BA-55F2D4107327
+146|0|Mr.|Richard|NULL|Bready|NULL|Latest Sports Equipment|adventure-works\david8|richard1@adventure-works.com|340-555-0131|5475E9DD-98CA-4989-B7A2-3FC929BEEA12
+147|0|Ms.|Alice|NULL|Clark|NULL|Local Hardware Factory|adventure-works\jillian0|alice1@adventure-works.com|221-555-0141|03836A0B-7AD8-4115-8D23-6EFA0D8DEEA1
+148|0|Mr.|Alan|NULL|Brewer|NULL|Lots of Bikes Storehouse|adventure-works\jillian0|alan1@adventure-works.com|494-555-0134|79355855-A002-4393-BB6E-36F90913FA4D
+149|0|Mr.|Cornelius|L.|Brandon|NULL|Initial Bike Company|adventure-works\shu0|cornelius0@adventure-works.com|229-555-0114|BAA99D94-2FC2-4A1C-8B67-2C3210EB90C3
+150|0|Ms.|Jill|J.|Christie|NULL|Fleet Bikes|adventure-works\linda3|jill1@adventure-works.com|927-555-0198|285C5DD7-75D6-460D-97BA-AA86D86637C0
+151|0|Mr.|Walter|J.|Brian|IV|Futuristic Bikes|adventure-works\shu0|walter0@adventure-works.com|163-555-0155|7F2891F7-DD88-470B-95AE-CC9A7D732B1F
+154|0|Mr.|Carlton|M.|Carlisle|NULL|Camping and Sports Store|adventure-works\josé1|carlton0@adventure-works.com|193-555-0116|4F60F75E-B20A-4056-874C-B7F3BD33BF3F
+155|0|Mr.|Joseph|N.|Castellucio|NULL|Corner Bicycle Supply|adventure-works\josé1|joseph1@adventure-works.com|180-555-0114|3B56CD66-5DDF-430C-AB41-3FF6A1836868
+156|0|Mr.|Lester|J.|Bowman|Sr.|Metal Processing Company|adventure-works\garrett1|lester0@adventure-works.com|844-555-0112|CFFFAAFB-98DC-4392-84F9-FB3229F35265
+160|0|Ms.|Brigid|F.|Cavendish|NULL|Vigorous Sports Store|adventure-works\jae0|brigid0@adventure-works.com|1 (11) 500 555-0178|B42D510D-3AE4-4911-88CF-8D90D6BD0922
+163|0|Mr.|Andrew|NULL|Cencini|NULL|Sports Merchandise|adventure-works\pamela0|andrew2@adventure-works.com|644-555-0111|989F9F3A-7CB8-4083-8CDA-291C682BE73C
+164|0|Ms.|Cindy|M.|Dodd|NULL|Suburban Cycle Shop|adventure-works\david8|cindy0@adventure-works.com|706-555-0140|5A323ACA-74A2-4CA0-AA3B-E1AE299AAD08
+165|0|Mr.|Randall|NULL|Boseman|NULL|Third Bike Store|adventure-works\jillian0|randall0@adventure-works.com|383-555-0117|3CDBD3EA-DA78-4F9A-8EEC-8DA4C050C817
+166|0|Ms.|Stacey|M.|Cereghino|NULL|Fitness Toy Store|adventure-works\jillian0|stacey0@adventure-works.com|351-555-0131|F644D9DC-4CED-49E8-8587-CE859E466DFA
+167|0|Mr.|Blaine|NULL|Dockter|NULL|Farthermost Bike Shop|adventure-works\shu0|blaine0@adventure-works.com|156-555-0187|515D4A13-4E60-4D0C-8F22-BB89A9D312AD
+168|0|Sr.|Luis|NULL|Bonifaz|NULL|Economy Bikes Company|adventure-works\linda3|luis0@adventure-works.com|688-555-0113|FCE18386-F492-4D4A-A6D2-FB7EF20C57FC
+169|0|Ms.|Brenda|NULL|Diaz|NULL|Downtown Hotel|adventure-works\shu0|brenda2@adventure-works.com|147-555-0192|2D6BBC35-BC19-4CB4-A61B-46899D3A4237
+172|0|Ms.|Gabriele|NULL|Dickmann|NULL|Certified Sports Supply|adventure-works\josé1|gabriele0@adventure-works.com|835-555-0116|324C671D-DD10-4EE2-857A-767917ACC2A3
+173|0|Mr.|Rudolph|J.|Dillon|Sr.|Sundry Sporting Goods|adventure-works\josé1|rudolph0@adventure-works.com|722-555-0169|FDC12E98-898B-4C22-972F-F0EBFBFCB7B0
+174|0|Mr.|Michael|L.|Bohling|NULL|Toy Manufacturing Inc|adventure-works\garrett1|michael12@adventure-works.com|838-555-0147|9C4DDEFA-AABD-4A51-AB90-998985FB7D2F
+178|0|Mr.|Dick|NULL|Dievendorff|NULL|Rampart Amusement Company|adventure-works\jae0|dick1@adventure-works.com|1 (11) 500 555-0193|05B8FB77-FC67-4279-AEBD-4162D21B9A11
+180|0|Ms.|Nicky|E.|Chesnut|NULL|Full-Service Bike Store|adventure-works\michael9|nicky0@adventure-works.com|264-555-0164|F7CFF29E-F164-424E-B005-BF8CF317AF27
+181|0|Mr.|Michael|J.|Lee|NULL|Family Entertainment Center|adventure-works\pamela0|michael18@adventure-works.com|396-555-0139|3D3D4CD0-7F5D-4BD9-A589-08881095BC5A
+182|0|Mr.|Stanley|A.|Alan|Jr.|Another Bicycle Company|adventure-works\david8|stanley0@adventure-works.com|156-555-0126|D3DA2FF4-51C0-4FCB-A936-1B910458D752
+183|0|Mr.|Yao-Qiang|NULL|Cheng|NULL|This Area Sporting Goods|adventure-works\jillian0|yao-qiang0@adventure-works.com|344-555-0181|B2051957-B411-44E1-BCA5-63FECB5368F2
+184|0|Ms.|Marjorie|M.|Lee|NULL|Go-cart and Bike Specialists|adventure-works\jillian0|marjorie0@adventure-works.com|306-555-0166|A65C523A-498D-4314-A727-D17A8B2779F6
+185|0|Mr.|Sandeep|NULL|Kaliyath|NULL|Weekend Bike Tours|adventure-works\shu0|sandeep1@adventure-works.com|495-555-0113|5014E91D-7B0E-495A-B429-FF915BE9D2FD
+186|0|Mr.|Pei|NULL|Chow|NULL|Thrilling Bike Tours|adventure-works\linda3|pei0@adventure-works.com|789-555-0184|48D3E26E-C051-4B24-A37F-A88F5294F25F
+187|0|Mr.|Frank|NULL|Campbell|NULL|Trailblazing Sports|adventure-works\shu0|frank4@adventure-works.com|491-555-0132|3329CE97-BB9F-4C36-9197-A6EEE803BD94
+190|0|Mr.|Mark|NULL|Lee|NULL|Racing Partners|adventure-works\josé1|mark5@adventure-works.com|371-555-0112|91154406-0118-4A11-BB1B-366EDFB5C97A
+191|0|Ms.|Sandra|T.|Kitt|NULL|Non-Slip Pedal Company|adventure-works\josé1|sandra2@adventure-works.com|303-555-0117|A2F63E12-1C66-41C2-AAC0-57D87F1861D9
+192|0|Mr.|Hao|NULL|Chen|NULL|Nuts and Bolts Mfg.|adventure-works\garrett1|hao1@adventure-works.com|117-555-0173|84401968-8977-4380-9B4E-D5149C8126C0
+196|0|Ms.|Jolie|NULL|Lenehan|NULL|Exhibition Showroom|adventure-works\jae0|jolie0@adventure-works.com|1 (11) 500 555-0126|5F0EB2D3-4691-4F71-8E9B-A3EACFA4A1D5
+197|0|Ms.|Diane|F.|Krane|NULL|Fabrikam Inc., West|adventure-works\michael9|diane4@adventure-works.com|224-555-0126|47B64828-BC4C-4940-AA23-92006BF0D7F1
+198|0|Mr.|Payton|P.|Benson|NULL|Field Trip Inc|adventure-works\michael9|payton0@adventure-works.com|528-555-0183|B17DE285-DF9A-487B-8773-75844A101CD0
+199|0|Mr.|Roger|NULL|Lengel|NULL|Authorized Bike Sales and Rental|adventure-works\pamela0|roger1@adventure-works.com|947-555-0143|F0CD52D1-B838-451E-B015-5414AB7D9154
+200|0|Ms.|Peggy|J.|Justice|NULL|Basic Bike Company|adventure-works\david8|peggy0@adventure-works.com|170-555-0189|7C96C878-A038-4B2F-825F-016C922D6407
+201|0|Ms.|Edna|J.|Benson|NULL|Unsurpassed Bikes|adventure-works\jillian0|edna0@adventure-works.com|789-555-0189|FF8EB66D-37D8-46FB-B6E2-30A1FAC37947
+202|0|NULL|A.|Francesca|Leonetti|NULL|Two-Seater Bikes|adventure-works\jillian0|a0@adventure-works.com|645-555-0193|E50D76BB-E3F7-419F-A6D2-20061538FCEA
+203|0|Ms.|Jean|NULL|Jordan|NULL|Separate Parts Corporation|adventure-works\shu0|jean3@adventure-works.com|207-555-0129|B05AAA08-ABC9-41E1-B113-65347A2EE406
+204|0|Mr.|Ido|NULL|Ben-Sachar|NULL|Traction Tire Company|adventure-works\linda3|ido0@adventure-works.com|973-555-0112|C807870F-FA5D-44CB-B373-47ECAC52C1D8
+205|0|Mr.|Frank|NULL|Mart¡nez|NULL|Rally Master Company Inc|adventure-works\shu0|frank5@adventure-works.com|171-555-0147|9DB0BD27-5CE6-4F6D-8C90-A85422B86060
+208|0|Mr.|Steve|NULL|Masters|NULL|Professional Cyclists|adventure-works\josé1|steve2@adventure-works.com|154-555-0115|6005E7A8-0101-4BE2-B8C1-F4AD936E496F
+209|0|Mr.|Robert|E.|Jones|NULL|Purple Bicycle Company|adventure-works\josé1|robert6@adventure-works.com|595-555-0131|E5A50573-0D83-4200-A80C-9F690AF69FCC
+210|0|Mr.|Josh|NULL|Barnhill|NULL|Gasless Cycle Shop|adventure-works\garrett1|josh0@adventure-works.com|584-555-0192|FF748558-EA94-4C67-A764-D1480B0F8548
+214|0|Ms.|Jennifer|J.|Maxham|NULL|Exclusive Bicycle Mart|adventure-works\jae0|jennifer1@adventure-works.com|1 (11) 500 555-0175|402E4D5F-27C3-4197-87E8-32AA42E41BB6
+217|0|Mr.|Chris|NULL|Maxwell|NULL|City Manufacturing|adventure-works\pamela0|chris6@adventure-works.com|642-555-0187|5CFC3A75-DDC6-4C65-B4C3-15BF96C92983
+218|0|Mr.|David|NULL|Johnson|NULL|Sure & Reliable Sporting Goods|adventure-works\david8|david18@adventure-works.com|476-555-0139|3C098480-0D9B-409C-8156-C7610415AC5B
+219|0|Mr.|Brian|NULL|Johnson|NULL|Extras Sporting Goods|adventure-works\jillian0|brian6@adventure-works.com|320-555-0134|D39CCCE3-C4A6-441D-8A3C-96507627746D
+220|0|Mr.|Robert|NULL|Brown|NULL|Best o' Bikes|adventure-works\jillian0|robert5@adventure-works.com|575-555-0189|81305A48-9F6E-4415-B7AA-488BA04A8F7E
+221|0|Ms.|Sandra|B.|Maynard|NULL|Bike Dealers Association|adventure-works\shu0|sandra4@adventure-works.com|993-555-0179|98EA497E-45D0-4C54-821A-4FDD9A751095
+222|0|Mr.|Barry|NULL|Johnson|NULL|Sample Bike Store|adventure-works\linda3|barry1@adventure-works.com|858-555-0140|3DB84B19-4063-4EC2-B1B4-317DEE133A25
+223|0|Ms.|Joyce|NULL|Jarvis|NULL|Paints and Solvents Company|adventure-works\shu0|joyce0@adventure-works.com|458-555-0179|994837FE-10A8-47DF-B7B8-86C4E6932FD0
+226|0|Ms.|Vance|P.|Johns|NULL|Leisure Activities|adventure-works\josé1|vance0@adventure-works.com|103-555-0151|CF860E9B-816A-406E-A64A-7965772D5487
+227|0|Ms.|Robin|M.|McGuigan|NULL|Health Spa, Limited|adventure-works\josé1|robin0@adventure-works.com|431-555-0153|1FFA0236-84EE-415A-BE61-94CE863715EA
+228|0|Ms.|Danielle|B.|Johnson|NULL|Home Town Bike Store|adventure-works\garrett1|danielle1@adventure-works.com|356-555-0190|C751DD7E-51D9-4D2D-AEED-C818EEE56CEB
+232|0|Mr.|David|NULL|Jaffe|NULL|Exceptional Cycle Services|adventure-works\jae0|david17@adventure-works.com|1 (11) 500 555-0140|AA451BD5-FFC2-436C-A295-81B350A5B899
+235|0|Ms.|Mary|NULL|Alexander|NULL|Certified Bicycle Supply|adventure-works\pamela0|mary7@adventure-works.com|344-555-0133|A4DF6D50-5068-4FA9-B4CA-A3195EB29BB6
+236|0|Ms.|Lola|M.|McCarthy|NULL|Closeout Boutique|adventure-works\david8|lola0@adventure-works.com|173-555-0151|21801FB2-6EA6-4FE5-9444-7E09E8BA907C
+237|0|Ms.|Mary|K.|Browning|NULL|Client Discount Store|adventure-works\jillian0|mary5@adventure-works.com|658-555-0146|B8F7D9D3-E498-40C2-8C7E-FB1C98C43756
+238|0|Ms.|Jodan|M.|Jacobson|NULL|A Great Bicycle Company|adventure-works\jillian0|jodan0@adventure-works.com|652-555-0189|3ECD14CB-463C-4375-B81B-D6E60A48B83D
+239|0|Ms.|Jane|A.|McCarty|NULL|Bicycle Merchandise Warehouse|adventure-works\shu0|jane3@adventure-works.com|529-555-0195|48AA4A1E-F209-4B29-A276-113EC94AA6DD
+240|0|Mr.|Jessie|E.|Valerio|NULL|Wire Baskets and Parts|adventure-works\linda3|jessie0@adventure-works.com|103-555-0179|C581A495-5772-4EB1-943A-9E94E2387814
+241|0|Mr.|Eric|A.|Jacobsen|NULL|Vale Riding Supplies|adventure-works\shu0|eric5@adventure-works.com|703-555-0120|FF342E5E-445C-4900-AA71-F15656A7D24D
+244|0|Mr.|Bronson|R.|Jacobs|NULL|Retail Discount Store|adventure-works\josé1|bronson0@adventure-works.com|697-555-0131|8FF82BED-93D5-4248-99E2-47F53055EC2D
+245|0|Mr.|James|L.|McCoy|II|Leather Seat Factory|adventure-works\josé1|james12@adventure-works.com|191-555-0151|4A122BDD-4393-42BC-AD49-37E43A0414F6
+246|0|Ms.|Esther|K.|Valle|NULL|Large Bike Shop|adventure-works\garrett1|esther0@adventure-works.com|481-555-0131|CEE9F2DF-2BE7-48B9-8E41-343ADC82F8C4
+250|0|Ms.|Denean|J.|Ison|NULL|Express Bike Services|adventure-works\jae0|denean0@adventure-works.com|1 (11) 500 555-0127|CB1ED6CB-18A1-4F7C-8079-DC400B6E506F
+253|0|Mr.|Erik|NULL|Ismert|NULL|Roving Sports|adventure-works\pamela0|erik0@adventure-works.com|116-555-0163|E09AB347-7FB1-453F-A4BD-377E68EC8C33
+254|0|Mr.|Robert|M.|Bernacchi|NULL|Safe Cycles Shop|adventure-works\david8|robert4@adventure-works.com|449-555-0176|2F89E8DD-A3C3-4ED4-A604-4B3D45DD1BEA
+255|0|Mr.|Sunil|NULL|Uppal|NULL|Swift Cycles|adventure-works\jillian0|sunil0@adventure-works.com|184-555-0187|0A21109F-02B0-4601-B4F7-2ED62C342385
+256|0|Mr.|Richard|L.|Irwin|NULL|Rental Bikes|adventure-works\jillian0|richard4@adventure-works.com|367-555-0124|0B6DB35B-B8B4-4B51-9154-C33E12B38C75
+257|0|Mr.|Matthias|NULL|Berndt|NULL|Number 1 Supply|adventure-works\shu0|matthias1@adventure-works.com|384-555-0169|A24F5A79-DD85-4EB2-A6A2-6E7026763FF8
+258|0|Mr.|Sairaj|NULL|Uddin|NULL|Quantity Discounts|adventure-works\linda3|sairaj1@adventure-works.com|767-555-0193|5549DF48-409F-4C2A-B97B-900EB598843C
+259|0|Mr.|Lucio|NULL|Iallo|NULL|Highway Bike Shop|adventure-works\shu0|lucio0@adventure-works.com|199-555-0135|2C3F7A56-819C-4E83-B791-3CE02366D3CF
+262|0|Ms.|Beth|NULL|Inghram|NULL|General Industries|adventure-works\josé1|beth0@adventure-works.com|718-555-0152|1C783210-2B1E-46E2-A2C8-23E610FEEB3C
+263|0|Mr.|Timothy|B.|Burnett|Jr.|Farthest Bike Store|adventure-works\josé1|timothy0@adventure-works.com|251-555-0172|F665A873-61A2-4B21-B9FF-B5903BEAF759
+264|0|Ms.|Phyllis|B.|Tuffield|NULL|Fasteners & Bolts Outlet|adventure-works\garrett1|phyllis3@adventure-works.com|277-555-0182|A5CE11CE-239C-4849-9683-14F37025A2C1
+268|0|Mr.|Richard|A.|Byham|NULL|Channel Outlet|adventure-works\jae0|richard2@adventure-works.com|1 (11) 500 555-0138|0C316F6F-5D54-41FD-86A3-6ECAF31A01DD
+271|0|Mr.|Jared|L.|Bustamante|NULL|Alternative Vehicles|adventure-works\pamela0|jared0@adventure-works.com|164-555-0147|F2765E86-8DEA-468B-849E-9E83AE57C381
+272|0|Mr.|Henry|L.|Campen|NULL|Metro Cycle Shop|adventure-works\david8|henry0@adventure-works.com|635-555-0126|B80F890D-A6A1-4DFC-B763-ECD7743C3C2A
+273|0|Ms.|Christie|J.|Trujillo|NULL|A Typical Bike Shop|adventure-works\jillian0|christie0@adventure-works.com|686-555-0180|736DA014-1371-40B2-A401-5BD3267A1E8B
+274|0|Ms.|Janet|J.|Gilliat|NULL|Active Systems|adventure-works\jillian0|janet2@adventure-works.com|521-555-0183|02788A66-2628-4B91-B211-1D8F7E73C500
+275|0|Mr.|Chris|NULL|Cannon|NULL|Outdoor Sporting Goods|adventure-works\shu0|chris5@adventure-works.com|118-555-0131|68DC7932-128E-47CC-80CB-CF2B1A352F3C
+276|0|Mr.|Michael John|R.|Troyer|NULL|Thrifty Parts and Sales|adventure-works\linda3|michaeljohn0@adventure-works.com|308-555-0175|09E2CB2A-B0CA-4376-ABE7-E9240EAD2C16
+277|0|Mr.|Guy|NULL|Gilbert|NULL|The Bicycle Accessories Company|adventure-works\shu0|guy0@adventure-works.com|583-555-0198|37156292-0D92-4F6B-9014-CCB0B29E9F9A
+280|0|Mr.|Frances|J.|Giglio|NULL|Standard Bikes|adventure-works\josé1|frances1@adventure-works.com|692-555-0136|73B26C19-1113-427F-BBAB-BEB6FCDA33C3
+281|0|Ms.|Suzana De Abreu|A.|Canuto|NULL|Petroleum Products Distributors|adventure-works\josé1|suzanadeabreu0@adventure-works.com|990-555-0141|B3B07166-1798-41B4-A7C2-0579292008C4
+282|0|Mr.|Billy|J.|Trent|NULL|Quick Parts and Service|adventure-works\garrett1|billy0@adventure-works.com|882-555-0115|CF04F255-D817-4EC9-9D99-4580B1ED0CE2
+286|0|Mr.|Leo|NULL|Giakoumakis|NULL|Number One Bike Co.|adventure-works\jae0|leo0@adventure-works.com|1 (11) 500 555-0169|6266CCC4-1AF0-42E0-BCA4-B33EA6838EEE
+287|0|Mr.|Grant|NULL|Culbertson|NULL|Handy Bike Services|adventure-works\michael9|grant1@adventure-works.com|859-555-0173|448CBBFE-EDDC-443D-B7C8-57AEAA463BE5
+288|0|Mr.|Robert|L.|Barker|NULL|Kickstand Sellers|adventure-works\michael9|robert3@adventure-works.com|241-555-0112|44EDC8AC-BB0E-418E-BDD3-4F7691381633
+289|0|Ms.|Gabriel|L.|Bockenkamp|NULL|Moderately-Priced Bikes Store|adventure-works\pamela0|gabriel0@adventure-works.com|763-555-0145|A42D0F51-C2BC-433D-B2BD-61C516296669
+290|0|Mr.|Scott|NULL|Culp|NULL|Friendly Bike Shop|adventure-works\david8|scott3@adventure-works.com|119-555-0167|D0DCDE2D-8C38-48FC-9D83-5EBE8A8577AE
+291|0|Mr.|Wayne|N.|Banack|NULL|Grand Bicycle Stores|adventure-works\jillian0|wayne0@adventure-works.com|640-555-0189|A5AA95AD-8C82-4E50-944F-39F6BDD0A8A8
+292|0|Mr.|Michael|Greg|Blythe|NULL|Grease and Oil Products Company|adventure-works\jillian0|michael11@adventure-works.com|126-555-0172|E1E960B9-5A86-475D-80FE-B64191AEB1DA
+293|0|Mr.|Conor|NULL|Cunningham|NULL|Fashionable Bikes and Accessories|adventure-works\shu0|conor0@adventure-works.com|115-555-0113|B37A0D83-7ED6-4C58-A476-F59B7AE4FC85
+294|0|Mr.|Alberto|F.|Baltazar|NULL|Flawless Bike Shop|adventure-works\linda3|alberto0@adventure-works.com|780-555-0114|592B130D-BFF6-4744-B0B6-02F706504993
+295|0|Mr.|Joseph|P.|Mitzner|Jr.|Engineered Bike Systems|adventure-works\shu0|joseph4@adventure-works.com|129-555-0164|BB5324B1-9ACE-4AAE-8711-41090EDCE4E0
+298|0|Mr.|Robert|NULL|Mitosinka|NULL|City Cycling|adventure-works\josé1|robert10@adventure-works.com|239-555-0198|16101465-48B9-4147-9C53-6610FEADF778
+299|0|Mr.|Thierry|NULL|D'Hers|NULL|Citywide Service and Repair|adventure-works\josé1|thierry1@adventure-works.com|680-555-0192|1CEA8D76-4A20-4D76-9DA2-A3777FD7E693
+300|0|Mr.|Daniel|NULL|Blanco|NULL|Nice Bikes|adventure-works\garrett1|daniel0@adventure-works.com|221-555-0167|7256F9B7-5253-4384-B8DE-60B6F0ADF5A6
+304|0|Ms.|Linda|NULL|Mitchell|NULL|Essential Bike Works|adventure-works\jae0|linda9@adventure-works.com|1 (11) 500 555-0182|C332C909-EE43-4312-A9D8-B2365A0160EA
+306|0|Mr.|Stephen|M.|Ayers|NULL|Work and Play Association|adventure-works\michael9|stephen1@adventure-works.com|818-555-0171|F8F2835D-F5F0-4070-8465-46BFC815153B
+307|0|Ms.|Neva|M.|Mitchell|NULL|Riding Associates|adventure-works\pamela0|neva0@adventure-works.com|992-555-0134|D11D9DAE-D5D1-440B-BE3F-48D307E942A6
+308|0|Ms.|Megan|N.|Davis|NULL|Rugged Bikes|adventure-works\david8|megan1@adventure-works.com|839-555-0198|D2B47DAD-E684-449B-992C-15DE391C0FCC
+309|0|Mr.|John|NULL|Arthur|NULL|The Gear Store|adventure-works\jillian0|john6@adventure-works.com|149-555-0113|A80B5E25-5EF4-4910-B70B-B2D1F5B207C2
+310|0|Mr.|Frank|NULL|Miller|NULL|Orange Bicycle Company|adventure-works\jillian0|frank6@adventure-works.com|118-555-0184|0D9A0E94-F5E9-4021-8E81-F7F2F18144B1
+311|0|Sr.|Alvaro|NULL|De Matos Miranda Filho|NULL|Principal Bike Company|adventure-works\shu0|alvaro0@adventure-works.com|551-555-0155|F070050E-2B33-41A2-A995-D9DF09EB3AE3
+312|0|Mr.|Thomas|B.|Armstrong|Jr.|Resale Services|adventure-works\linda3|thomas1@adventure-works.com|226-555-0146|067BB7DA-557D-4145-910C-EE0C82CAA0E4
+313|0|Mr.|Dylan|NULL|Miller|NULL|Metropolitan Manufacturing|adventure-works\shu0|dylan1@adventure-works.com|140-555-0192|2157D9A9-A284-4001-973A-27196613681A
+316|0|Mr.|Ben|NULL|Miller|NULL|Low Price Cycles|adventure-works\josé1|ben1@adventure-works.com|207-555-0167|8C95E9D8-88D0-4E6A-8149-B4C6C79E65BD
+317|0|Mr.|Jacob|N.|Dean|NULL|Finer Riding Supplies|adventure-works\josé1|jacob0@adventure-works.com|767-555-0151|5EEF4DAA-8514-43A3-B96A-D99E19E3C2E8
+318|0|Ms.|Ann|NULL|Beebe|NULL|First-Rate Outlet|adventure-works\garrett1|ann0@adventure-works.com|277-555-0169|D241D8F1-5A7A-41B3-8723-1E2B1A9FDBF6
+322|0|Mr.|Matthew|J.|Miller|NULL|Tachometers and Accessories|adventure-works\jae0|matthew5@adventure-works.com|1 (11) 500 555-0176|1C56E02D-69F4-4C0D-965B-2B7F54AA0A34
+323|0|Mr.|Jo|NULL|Brown|NULL|Metro Bike Works|adventure-works\michael9|jo2@adventure-works.com|689-555-0130|0DA4F03E-47E9-4BED-B149-9C18CEE9EB30
+325|0|Ms.|Virginia|L.|Miller|NULL|All Cycle Shop|adventure-works\pamela0|virginia0@adventure-works.com|918-555-0127|6340AC77-4FBD-4EEC-9D60-5009D428674A
+326|0|Mr.|Scott|NULL|Gode|NULL|Year-Round Sports|adventure-works\david8|scott4@adventure-works.com|164-555-0145|81C81C0D-73EB-442D-BEB0-D03AD4AF5048
+327|0|Ms.|Caroline|A.|Vicknair|NULL|World of Bikes|adventure-works\jillian0|caroline0@adventure-works.com|695-555-0158|CDD7480F-7284-453A-A7CA-910535D40583
+328|0|Mr.|Robert|R.|Vessa|NULL|Totes & Baskets Company|adventure-works\jillian0|robert13@adventure-works.com|560-555-0171|84A86A42-C9F8-4B4A-A1A6-28E4E448FB8C
+329|0|NULL|Andreas|NULL|Berglund|NULL|Unicycles, Bicycles, and Tricycles|adventure-works\shu0|andreas1@adventure-works.com|795-555-0116|35DE20D0-B72D-440B-8C55-6E8AD6643335
+330|0|Mr.|Mete|NULL|Goktepe|NULL|The New Bike Store|adventure-works\linda3|mete0@adventure-works.com|637-555-0120|09480748-3F10-4C0F-9BF1-EBEFAD6540CF
+331|0|Ms.|Wanda|F.|Vernon|NULL|Technical Parts Manufacturing|adventure-works\shu0|wanda0@adventure-works.com|433-555-0168|9B6D55BD-1BFD-489B-A09D-CA2DE42C7C16
+334|0|Ms.|Dora|P.|Verdad|NULL|Retreat Inn|adventure-works\josé1|dora0@adventure-works.com|155-555-0140|777D62E5-3C77-4CEF-8AF6-8A4648F49EB9
+335|0|Mr.|John|M.|Berger|Jr.|Scratch-Resistant Finishes Company|adventure-works\josé1|john10@adventure-works.com|156-555-0111|F8BF1985-3C65-400F-BD46-92F88008F003
+336|0|Mr.|Brian|R|Goldstein|NULL|Primary Bike Distributors|adventure-works\garrett1|brian4@adventure-works.com|495-555-0161|0341CA02-F44F-4604-8E20-A749B90FD976
+340|0|Mr.|Raja|D.|Venugopal|NULL|Nearby Cycle Shop|adventure-works\jae0|raja0@adventure-works.com|1 (11) 500 555-0195|191FE023-2354-4FBB-88D7-B57ADC3428D8
+343|0|Ms.|Patricia|M.|Vasquez|NULL|Mail-Order Outlet|adventure-works\pamela0|patricia2@adventure-works.com|490-555-0132|DAE8EF10-88DA-4F94-B6A7-A9745F250DB2
+344|0|Ms.|Karren|K.|Burkhardt|NULL|Fifth Bike Store|adventure-works\david8|karren0@adventure-works.com|652-555-0132|AA3B69DF-40CF-45B8-9250-F69EF6DB1C15
+345|0|Ms.|Abigail|J.|Gonzalez|NULL|Genial Bike Associates|adventure-works\jillian0|abigail0@adventure-works.com|121-555-0139|131056AB-E899-43BF-91E6-D92F44456655
+346|0|Mr.|Ranjit|Rudra|Varkey Chudukatil|NULL|Great Bicycle Supply|adventure-works\jillian0|ranjit1@adventure-works.com|810-555-0160|B3E143FD-F617-401E-AAD9-C50BC280ED18
+347|0|Ms.|Ingrid|K.|Burkhardt|NULL|Bike Universe|adventure-works\shu0|ingrid0@adventure-works.com|857-555-0187|2DE20D49-86F7-40C0-950D-12C93EA94B35
+348|0|Mr.|Oscar|L.|Alpuerto|NULL|Bold Bike Accessories|adventure-works\linda3|oscar0@adventure-works.com|855-555-0174|BA20E529-555E-4D2C-83F0-DCBA833230AF
+349|0|Mr.|Gary|T|Vargas|NULL|Exercise Center|adventure-works\shu0|gary6@adventure-works.com|112-555-0176|B23474BF-01CC-4A5E-902C-D6A4EB5ED777
+352|0|Mr.|Shane|S.|Kim|NULL|Twelfth Bike Store|adventure-works\josé1|shane2@adventure-works.com|155-555-0149|5617D4F8-C3A1-4408-8895-AE3F7E0EFA05
+353|0|Ms.|Joan|M.|Campbell|NULL|Two-Wheeled Transit Company|adventure-works\josé1|joan0@adventure-works.com|700-555-0155|3B2E5C36-0827-4A31-B112-F347AD588822
+354|0|Mr.|Maxwell|J.|Amland|NULL|Serious Cycles|adventure-works\garrett1|maxwell0@adventure-works.com|614-555-0134|B65DFD89-49C5-4530-B819-B6E84F3531A6
+358|0|Mr.|Joe|NULL|Kim|NULL|Mail Market|adventure-works\jae0|joe1@adventure-works.com|1 (11) 500 555-0144|3ED88E2F-3F29-4E30-93D4-CE38474DED23
+360|0|Ms.|Ramona|J.|Antrim|NULL|Novelty Bikes|adventure-works\michael9|ramona0@adventure-works.com|327-555-0148|8BE04D7D-1192-4A27-ACA3-926E5F530ABB
+361|0|Ms.|Karan|NULL|Khanna|NULL|Fitness Supplies|adventure-works\pamela0|karan1@adventure-works.com|390-555-0150|6F69F454-5199-4B15-B370-D926F8ED104C
+362|0|Ms.|Sharon|A.|Crow|NULL|Grand Cycle Store|adventure-works\david8|sharon1@adventure-works.com|889-555-0176|D9B640A6-0988-4548-8231-69CA927D49AB
+363|0|Mr.|Chris|NULL|Ashton|NULL|Immense Manufacturing Company|adventure-works\jillian0|chris3@adventure-works.com|556-555-0145|3543B21B-0DFA-40DE-998E-A9C3F2FCDA98
+364|0|Mr.|Imtiaz|NULL|Khan|NULL|District Mall|adventure-works\jillian0|imtiaz0@adventure-works.com|249-555-0179|9D91F4ED-58B5-4A59-9894-8FD17EBDFC9B
+365|0|Mr.|Jack|NULL|Creasey|NULL|Distinctive Store|adventure-works\shu0|jack2@adventure-works.com|539-555-0182|AB87B283-4B2B-48AD-9D10-6B9F2D4D0BAA
+366|0|Ms.|Teresa|NULL|Atkinson|NULL|Extended Bike Sales|adventure-works\linda3|teresa0@adventure-works.com|129-555-0110|76DA51E9-D61B-488C-A4E7-C7B87FDA2917
+367|0|Ms.|Tammy|J.|Khan|NULL|Brown Bicycle Company|adventure-works\shu0|tammy0@adventure-works.com|145-555-0166|A65D6B08-0B08-453C-B244-CB324A3DFC0C
+370|0|Ms.|Elizabeth|NULL|Keyser|NULL|Acceptable Sales & Service|adventure-works\josé1|elizabeth2@adventure-works.com|656-555-0173|7059E0F6-846D-4A52-8A97-0734CD064892
+371|0|Mr.|Bruno|NULL|Costa Da Silva|NULL|Custom Sales and Service|adventure-works\josé1|bruno0@adventure-works.com|140-555-0143|05CF6683-BC27-4062-A60D-995706BBFAB5
+372|0|Ms.|Katherine|K.|Swan|NULL|Top Bike Market|adventure-works\garrett1|katherine1@adventure-works.com|421-555-0192|F377F21A-9A29-49AF-9158-4E3FA8586FF7
+376|0|Ms.|Mary|R.|Kesslep|NULL|Commerce Bicycle Specialists|adventure-works\jae0|mary8@adventure-works.com|1 (11) 500 555-0146|D733948F-DB34-47FF-A618-06123A32E515
+377|0|Mr.|Marlin|M.|Coriell|NULL|Grand Sport Boutique|adventure-works\michael9|marlin0@adventure-works.com|941-555-0155|F728AB05-7868-493D-BEBA-F4E7DFAFFF31
+379|0|Mr.|Kevin|NULL|Kennedy|NULL|Fad Outlet|adventure-works\pamela0|kevin4@adventure-works.com|275-555-0179|083C2D9F-7CBB-4CD4-9BBF-30E80C376EE5
+380|0|Ms.|Eva|NULL|Corets|NULL|First Department Stores|adventure-works\david8|eva0@adventure-works.com|542-555-0164|5E469335-ACDD-41C8-89FE-0856ED944340
+381|0|Ms.|Julie|NULL|Taft-Rider|NULL|Bicycle Lines Distributors|adventure-works\jillian0|julie1@adventure-works.com|145-555-0194|5AA5C79E-3C99-4FD2-87E7-B0E67603D5AB
+382|0|Mr.|Robert|NULL|Kelly|NULL|Beneficial Exercises and Activities|adventure-works\jillian0|robert7@adventure-works.com|510-555-0123|7EE0371D-CEFE-4A15-9347-34C232D82AB0
+383|0|Mr.|Scott|NULL|Cooper|NULL|Vehicle Shop|adventure-works\shu0|scott2@adventure-works.com|773-555-0182|94DA916C-8E0D-405C-AD3C-CFE9C1DB699A
+384|0|Mr.|Clarence|R.|Tatman|NULL|Sparkling Paint and Finishes|adventure-works\linda3|clarence0@adventure-works.com|787-555-0128|7BC25C4C-F0E3-4471-8D8B-E0595061AF6A
+385|0|Mr.|John|NULL|Kelly|NULL|Sturdy Toys|adventure-works\shu0|john22@adventure-works.com|330-555-0116|6EDE3BE1-137D-4984-9ECB-EB871AE9059D
+388|0|Mr.|Victor|A.|Kelley|NULL|Road Way Sales and Rental|adventure-works\josé1|victor0@adventure-works.com|112-555-0195|C0C5EE7E-DD39-401D-9BF5-7EC01D57E57F
+389|0|Ms.|Dorothy|J.|Contreras|NULL|Sixth Bike Store|adventure-works\josé1|dorothy0@adventure-works.com|428-555-0176|0FC568B5-2A6B-4C9D-87BC-9B8C6313C9DA
+390|0|Mr.|Mike|M.|Taylor|NULL|Plastic Parts Company|adventure-works\garrett1|mike6@adventure-works.com|204-555-0189|D6AB0687-0DB2-460B-A4D2-34AAD4EC9F3D
+394|0|Ms.|Bonnie|NULL|Kearney|NULL|Little Sports Center|adventure-works\jae0|bonnie1@adventure-works.com|1 (11) 500 555-0116|F53F2CA8-F244-46B8-A64F-A09F657DB9DC
+395|0|Ms.|June|B.|Brunner|NULL|Online Bike Sellers|adventure-works\michael9|june0@adventure-works.com|249-555-0172|8DA056FC-494F-4FE1-8397-0B0736603201
+397|0|Mr.|Sandeep|NULL|Katyal|NULL|Capable Sales and Service|adventure-works\pamela0|sandeep2@adventure-works.com|928-555-0117|B711F333-3277-4885-AB55-5790CF41F27D
+398|0|Ms.|Shirley|R.|Bruner|NULL|Commendable Bikes|adventure-works\david8|shirley0@adventure-works.com|383-555-0155|E47537DD-645F-458C-A410-A520D38DD7B9
+399|0|Mr.|Chad|J.|Tedford|NULL|Big Cycle Mall|adventure-works\jillian0|chad1@adventure-works.com|588-555-0128|BC98B78E-3068-475A-8EAD-FBA537DDE9B9
+400|0|Mr.|Peter|NULL|Houston|NULL|Local Sales and Rental|adventure-works\jillian0|peter3@adventure-works.com|632-555-0171|40984282-13F9-4B14-90B3-E7A17180195D
+401|0|Mr.|Tom|H|Johnston|NULL|Brightwork Company|adventure-works\shu0|tom1@adventure-works.com|883-555-0177|CC76F684-79AD-4A66-A30E-1B7FB5C917C5
+402|0|Ms.|Marian|M.|Berch|NULL|Pro Sporting Goods|adventure-works\linda3|marian0@adventure-works.com|640-555-0198|48941CAA-5B39-497E-AD56-EFD9172D372E
+403|0|Ms.|Juanita|J.|Holman|NULL|Affordable Sports Equipment|adventure-works\shu0|juanita0@adventure-works.com|996-555-0196|0484601B-6A04-41BF-9554-3EB22D5B4DC1
+406|0|Mr.|Eddie|M.|Holmes|NULL|The Commissary|adventure-works\josé1|eddie0@adventure-works.com|570-555-0199|04C17472-C4DA-40B1-82FA-B08D3828B863
+407|0|Mr.|Robert|A.|Avalos|NULL|Workout Emporium|adventure-works\josé1|robert2@adventure-works.com|665-555-0198|5A2338D1-158F-4386-8C30-EFF2BF990669
+408|0|Mr.|Alexander|J.|Berger|II|Odometers and Accessories Company|adventure-works\garrett1|alexander0@adventure-works.com|519-555-0151|A845D318-D6C0-4E69-B509-83686BD409A6
+412|0|Ms.|Jean|J.|Holloway|NULL|Leisure Clearing House|adventure-works\jae0|jean2@adventure-works.com|1 (11) 500 555-0181|BD823AB5-6077-41D3-86C7-7BFA90602024
+415|0|Mr.|Greg|NULL|Chapman|NULL|Imaginary Toys|adventure-works\pamela0|greg1@adventure-works.com|708-555-0169|01289F01-9785-4DEA-A896-92592F1F90B2
+416|0|Ms.|Angela|NULL|Barbariol|NULL|Impromptu Trips|adventure-works\david8|angela1@adventure-works.com|134-555-0182|6B7FF7E6-4028-491E-AC2A-DFBB6278CA57
+417|0|Ms.|Ruth|A.|Choin|NULL|Genuine Bike Shop|adventure-works\jillian0|ruth1@adventure-works.com|273-555-0181|B8B12910-9CE7-4E71-902C-CF267A30FD3B
+418|0|Mr.|Lee|J.|Chapla|NULL|Good Bike Shop|adventure-works\jillian0|lee0@adventure-works.com|223-555-0184|C6A84BC4-4131-4F49-9865-1F05530318CD
+419|0|Mr.|Darrell|M.|Banks|NULL|Exertion Activities Club|adventure-works\shu0|darrell0@adventure-works.com|816-555-0118|8FE888A7-82D6-4A5A-A7F4-4E69B9D62838
+420|0|Mr.|Anthony|NULL|Chor|NULL|Extreme Riding Supplies|adventure-works\linda3|anthony0@adventure-works.com|429-555-0145|E4E565BB-00FF-494A-B31F-4BFE14EC2950
+421|0|Mr.|Forrest|J.|Chandler|NULL|Fitness Cycling|adventure-works\shu0|forrest0@adventure-works.com|448-555-0179|B70D3CF0-B999-46E6-A004-E551C302EF24
+424|0|Mr.|Eli|NULL|Bowen|NULL|Bikes for Two|adventure-works\josé1|eli0@adventure-works.com|371-555-0143|1907F0A4-BFFE-4A3B-BEC8-76D0AECB2D30
+425|0|Mr.|Stephen|Yuan|Jiang|NULL|Bikes for Kids and Adults|adventure-works\josé1|stephen3@adventure-works.com|910-555-0116|B1508150-5C6B-436B-8FF4-41171E6CD517
+426|0|Mr.|Dirk|J.|Bruno|NULL|Custom Accessories Company|adventure-works\garrett1|dirk0@adventure-works.com|817-555-0114|76ECB325-F500-4D90-A4FD-F2A2F8971379
+430|0|Sr.|Gustavo|NULL|Camargo|NULL|Uttermost Bike Shop|adventure-works\jae0|gustavo1@adventure-works.com|1 (11) 500 555-0118|D18DFA60-7D7E-4900-A0B6-78DF78E4DEEF
+431|0|Mr.|Douglas|A.|Baldwin|Jr.|Small Cycle Store|adventure-works\michael9|douglas1@adventure-works.com|583-555-0130|730AF72E-62CC-43C0-B790-975FB1F2DF0D
+433|0|Ms.|Lindsey|R.|Camacho|NULL|Thorough Parts and Repair Services|adventure-works\pamela0|lindsey0@adventure-works.com|827-555-0143|EB0B1054-FF23-4E35-BCFC-10B84B47EA47
+434|0|Mr.|James|B.|Bailey|Jr.|Road-Way Mart|adventure-works\david8|james3@adventure-works.com|234-555-0112|0A748427-CCAF-4E93-9551-8F06B976DCAD
+435|0|Ms.|Carol|B.|Elliott|NULL|Satin Finish Company|adventure-works\jillian0|carol2@adventure-works.com|847-555-0151|7624B525-F236-4771-8D0B-FFC8EF75AFA7
+436|0|Ms.|Barbara|J.|Calone|NULL|Sheet Metal Manufacturing|adventure-works\jillian0|barbara2@adventure-works.com|145-555-0152|506DD7E7-E6D0-49E7-ADDC-5CD6C811DD35
+437|0|Ms.|Megan|E.|Burke|NULL|Professional Cycle Store|adventure-works\shu0|megan0@adventure-works.com|148-555-0149|7EE44449-7164-4637-96FE-264004DD31A0
+438|0|Mr.|Cory|K.|Booth|NULL|Remarkable Bike Store|adventure-works\linda3|cory0@adventure-works.com|121-555-0157|3F98F477-0DB0-44D4-9155-15243B8FD480
+439|0|Ms.|Shannon|P.|Elliott|NULL|Regional Manufacturing|adventure-works\shu0|shannon0@adventure-works.com|425-555-0158|2B10BD49-1D5C-4E73-A492-95AE4C03C312
+442|0|Ms.|Jauna|E.|Elson|NULL|Original Bicycle Supply Company|adventure-works\josé1|jauna0@adventure-works.com|185-555-0190|F41036BB-C3BA-4935-9F16-10DEC1A55C33
+443|0|Sra.|Janaina Barreiro Gambaro|NULL|Bueno|NULL|Courteous Bicycle Specialists|adventure-works\josé1|janainabarreirogambaro0@adventure-works.com|476-555-0184|133CE995-D294-47EE-94CB-468E147214D4
+444|0|Mr.|Shaun|NULL|Beasley|NULL|Finer Cycle Shop|adventure-works\garrett1|shaun0@adventure-works.com|396-555-0187|A83D6923-A2DF-4C6F-9D39-AF9DE01320DC
+448|0|Mr.|Terry|NULL|Eminhizer|NULL|Action Bicycle Specialists|adventure-works\jae0|terry1@adventure-works.com|1 (11) 500 555-0176|722AEE8F-6B89-4712-BB35-6861AF3065CD
+451|0|Mr.|John|NULL|Emory|NULL|Roadway Bike Emporium|adventure-works\pamela0|john16@adventure-works.com|691-555-0149|D5AE552E-FAFD-49AB-AC05-014484CA1139
+452|0|Ms.|Olga|J.|Trau|NULL|A Cycle Shop|adventure-works\david8|olga0@adventure-works.com|398-555-0167|A0328ADC-2DBD-47AE-9648-CBAF845EBF74
+453|0|Mr.|Jon|NULL|Ganio|NULL|Unique Bikes|adventure-works\jillian0|jon0@adventure-works.com|672-555-0112|E165218F-456F-4D59-BF10-ACCF3911AE3C
+454|0|Ms.|Gail|NULL|Erickson|NULL|Sleek Bikes |adventure-works\jillian0|gail1@adventure-works.com|834-555-0132|D0CC43E1-CF3E-47EA-87F7-2B64C899C56D
+455|0|Mr.|James|R.|Tran|NULL|Timely Shipping Service|adventure-works\shu0|james15@adventure-works.com|740-555-0159|B4200F93-711C-438E-975D-FCCA43632D20
+456|0|Mr.|Michael|NULL|Galos|NULL|Riding Excursions|adventure-works\linda3|michael15@adventure-works.com|912-555-0149|71FCE014-2BD7-4072-A163-B67CF0217325
+457|0|Mr.|Mark|B|Erickson|NULL|Retail Sporting Equipment|adventure-works\shu0|mark2@adventure-works.com|962-555-0112|2E58399C-F9B5-406A-A91A-2D7416E697E4
+460|0|Ms.|Martha|R.|Espinoza|NULL|Price-Cutter Discount Bikes|adventure-works\josé1|martha0@adventure-works.com|753-555-0179|E7069C91-9479-4CC0-BE91-991AA1447AF6
+461|0|Mr.|Glenn|J.|Track|II|Active Life Toys|adventure-works\josé1|glenn0@adventure-works.com|907-555-0170|25EE1C59-AA4A-44E6-AD18-70F2B8FDE302
+462|0|Mr.|Bob|NULL|Gage|NULL|General Riding Supplies|adventure-works\garrett1|bob1@adventure-works.com|962-555-0175|5C085E79-91EE-4855-92C2-BA36CD6980E0
+466|0|Sra.|Janeth|NULL|Esteves|NULL|Central Bicycle Specialists|adventure-works\jae0|janeth1@adventure-works.com|1 (11) 500 555-0136|94B95997-FD84-4632-BB16-6F21FE706051
+468|0|Mr.|Paul|J.|Fulton|NULL|Blue Bicycle Company|adventure-works\michael9|paul3@adventure-works.com|492-555-0146|ED1FF0E0-836D-42B3-A9DC-F8FAAF32ADBA
+469|0|Ms.|Twanna|R.|Evans|NULL|Vast Bike Sales and Rental|adventure-works\pamela0|twanna0@adventure-works.com|554-555-0124|F9EEC39E-A3A3-41AB-8ABD-1AB31C0B729B
+470|0|Ms.|Delia|B.|Toone|NULL|Wingtip Toys|adventure-works\david8|delia0@adventure-works.com|328-555-0192|D7B637CF-C957-41C1-AE45-590A1A9F4527
+471|0|Mr.|John|NULL|Ford|NULL|Social Activities Club|adventure-works\jillian0|john19@adventure-works.com|596-555-0153|7578FA92-B7BF-4FA8-94E3-186B08221382
+472|0|Ms.|Ann|R.|Evans|NULL|Summer Sports Place|adventure-works\jillian0|ann1@adventure-works.com|252-555-0127|DCEDC9D8-C1FD-4720-95F2-4BE8C5A8B5D1
+473|0|Ms.|Kay|E.|Krane|NULL|Racing Toys|adventure-works\shu0|kay0@adventure-works.com|731-555-0187|BDC2CD6E-0FF5-4AF8-A5B2-EEAF07B882E5
+474|0|Mr.|Mihail|NULL|Frintu|NULL|Retail Cycle Shop|adventure-works\linda3|mihail1@adventure-works.com|777-555-0163|9437F421-4E1A-4223-8D41-B3008BC7BBC9
+475|0|Mr.|John|NULL|Evans|NULL|Real Sporting Goods|adventure-works\shu0|john17@adventure-works.com|581-555-0172|14CA36FA-E45C-421C-BB5A-22CDE0946AEA
+478|0|Ms.|Ruby Sue|R.|Styles|NULL|Major Cycling|adventure-works\josé1|rubysue0@adventure-works.com|512-555-0122|E76A3EC3-581B-456B-9415-5853EE013816
+479|0|Ms.|Lori|NULL|Kane|NULL|General Supplies|adventure-works\josé1|lori2@adventure-works.com|765-555-0141|DDF27582-0D9B-45A9-B605-AB01D2C1C3B8
+480|0|Ms.|Susan|E.|French|NULL|General Bike Corporation|adventure-works\garrett1|susan3@adventure-works.com|994-555-0194|3AECCDDA-2012-468E-858E-3BE516A77FA0
+484|0|Mr.|Gary|J.|Suess|NULL|Downhill Bicycle Specialists|adventure-works\jae0|gary5@adventure-works.com|1 (11) 500 555-0199|37398B37-B78B-4460-B012-665828C6B9EC
+487|0|Ms.|Ruth|J.|Suffin|NULL|Bike Experts|adventure-works\pamela0|ruth2@adventure-works.com|924-555-0195|4EE55CA2-F2AC-4E5B-BCEC-B23C09FB345B
+488|0|Ms.|Margaret|J.|Smith|NULL|Bicycle Accessories and Kits|adventure-works\david8|margaret0@adventure-works.com|959-555-0151|C4647E94-EB39-4FE5-B856-FA982709A6DA
+489|0|Ms.|Dorothy|J.|Fox|NULL|Cash & Carry Bikes|adventure-works\jillian0|dorothy1@adventure-works.com|191-555-0198|2B107C53-4450-4179-A330-516FF82E4744
+490|0|Ms.|Elizabeth|J.|Sullivan|NULL|Extraordinary Bike Works|adventure-works\jillian0|elizabeth4@adventure-works.com|306-555-0112|AB26F88E-ABDE-4122-B772-34940B143427
+491|0|Ms.|Frances|B.|Adams|NULL|Area Bike Accessories|adventure-works\shu0|frances0@adventure-works.com|991-555-0183|28A9945C-B9B3-4A24-B367-D17BCC0AE82E
+492|0|Mr.|Garth|NULL|Fort|NULL|Basic Sports Equipment|adventure-works\linda3|garth0@adventure-works.com|768-555-0125|8194B68E-AF15-4EDC-B403-6C8F7475492B
+493|0|Mr.|Michael|NULL|Sullivan|NULL|Valley Bicycle Distributors|adventure-works\shu0|michael24@adventure-works.com|323-555-0113|B143978A-3FC9-4077-A70A-DB4DFACEDC79
+496|0|Ms.|Marcia|J.|Sultan|NULL|Top Sports Supply|adventure-works\josé1|marcia0@adventure-works.com|613-555-0116|9D1A7488-6CD7-4866-A0A4-DD3A8A850ED0
+497|0|Ms.|Amy|E.|Alberts|NULL|Valley Toy Store|adventure-works\josé1|amy1@adventure-works.com|727-555-0115|9FC698D8-A5D6-4971-BFB4-9A4D8988DB58
+498|0|Ms.|Kelly|NULL|Focht|NULL|Quick Delivery Service|adventure-works\garrett1|kelly0@adventure-works.com|272-555-0123|E3A756B3-EE63-4AC7-A799-B1FA170EDDE6
+502|0|Mr.|Krishna|NULL|Sunkammurali|NULL|Metropolitan Bicycle Supply|adventure-works\jae0|krishna1@adventure-works.com|1 (11) 500 555-0177|E8DD8339-8804-46F2-AC6C-BCE931FF0831
+504|0|Ms.|Mae|M.|Black|NULL|Historic Bicycle Sales|adventure-works\michael9|mae1@adventure-works.com|264-555-0143|240578AC-2179-4ACA-83D8-C647C8F668CD
+505|0|Mr.|Brad|NULL|Sutton|NULL|Honest Repair Service|adventure-works\pamela0|brad0@adventure-works.com|688-555-0115|4F32A900-A34B-4448-A72C-196A1C553073
+506|0|Mr.|François|NULL|Ferrier|NULL|Great Bikes |adventure-works\david8|françois1@adventure-works.com|571-555-0128|794AA83A-293D-4A91-BCF5-D40471B46569
+507|0|Mr.|Mary|NULL|Bishop|NULL|Global Sporting Goods|adventure-works\jillian0|mary4@adventure-works.com|176-555-0136|2C2F6363-D05A-4ED4-8896-E321413D4FF3
+508|0|Mr.|Martin|J.|Svoboda|IV|Designer Department Stores|adventure-works\jillian0|martin1@adventure-works.com|132-555-0149|4DA216F0-E0FC-43F1-847B-C0445EBFDA46
+509|0|Mr.|Robert|E.|Ahlering|NULL|Fun Toys and Bikes|adventure-works\shu0|robert1@adventure-works.com|678-555-0175|78ED169F-C38F-44F9-9ABC-2A65D87C7F7D
+510|0|Mr.|Jimmy|NULL|Bischoff|NULL|World Bike Discount Store|adventure-works\linda3|jimmy1@adventure-works.com|992-555-0111|6EE9D652-6F65-4F4D-AF0B-3A82CB34C5F1
+511|0|Mr.|Abraham|L.|Swearengin|NULL|Wheel Gallery|adventure-works\shu0|abraham0@adventure-works.com|926-555-0136|39A1E62C-4669-4731-9D99-F74D0A4979D7
+514|0|Mr.|Ryan|NULL|Calafato|NULL|Retail Mall|adventure-works\josé1|ryan1@adventure-works.com|726-555-0155|F7FA597E-BE0A-4488-9101-A6CD272DBF47
+515|0|Mr.|Dragan|NULL|Tomic|NULL|Rural Bicycle Supply|adventure-works\josé1|dragan1@adventure-works.com|833-555-0167|0D4A67DB-594A-4131-A3C8-51C76265B3C5
+516|0|Mr.|Thomas|R.|Michaels|NULL|Seats and Saddles Company|adventure-works\garrett1|thomas2@adventure-works.com|162-555-0174|3E567502-B73A-49CB-BFA4-89E32F3BF89D
+520|0|Ms.|Mari|B.|Caldwell|NULL|Metro Metals Co.|adventure-works\jae0|mari0@adventure-works.com|1 (11) 500 555-0118|34C094D7-8C79-47A5-B192-9597826BD55D
+523|0|Ms.|Mary|M.|Gimmi|NULL|Futuristic Sport Distributors|adventure-works\shu0|mary6@adventure-works.com|149-555-0196|ED034862-2FAA-4C55-AFB3-052D06A2191E
+526|0|Mr.|David|L.|Givens|NULL|Finer Sales and Service|adventure-works\josé1|david15@adventure-works.com|605-555-0111|34242469-AE37-497E-920E-AD364D7EFF4C
+527|0|Ms.|Diane|NULL|Tibbott|NULL|Fun Times Club|adventure-works\shu0|diane5@adventure-works.com|847-555-0184|B43C442C-796E-4B1F-85F3-233A02F5F7ED
+528|0|Ms.|Helen|M.|Meyer|NULL|Alpine Ski House|adventure-works\linda3|helen2@adventure-works.com|519-555-0112|1264D83B-3ABB-4A87-B473-E30B96F55BB6
+529|0|Ms.|Jeanie|R.|Glenn|PhD|Big-Time Bike Store|adventure-works\shu0|jeanie0@adventure-works.com|669-555-0149|7BA3FEF2-3B40-4490-9601-3D5705B0FF7A
+532|0|Ms.|Diane|R.|Glimp|NULL|The Showroom|adventure-works\josé1|diane3@adventure-works.com|898-555-0137|60E33181-3EE5-4F24-B543-90F7CA6CFDC2
+533|0|Ms.|Yuping|NULL|Tian|NULL|Tenth Bike Store|adventure-works\josé1|yuping0@adventure-works.com|744-555-0123|89E3BBB3-134C-465B-A2BD-558EA54D3D9E
+534|0|Mr.|Stephen|A.|Mew|NULL|Recommended Bicycles|adventure-works\garrett1|stephen4@adventure-works.com|399-555-0114|24A6A509-B31C-49F5-BF0D-6A0C40B5B740
+538|0|Mr.|John|R.|Brooks|NULL|Prosperous Tours|adventure-works\jae0|john12@adventure-works.com|1 (11) 500 555-0179|35E95974-7000-4081-A041-64011DE880A2
+541|0|Mr.|Willie|P.|Brooks|Jr.|Nonskid Tire Company|adventure-works\pamela0|willie0@adventure-works.com|525-555-0174|889515AC-044F-41E5-9D12-B82D6E32EAB6
+542|0|Mr.|Andrew|P.|Kobylinski|NULL|Finer Parts Shop|adventure-works\david8|andrew5@adventure-works.com|129-555-0185|6AF61284-02DF-41BA-A0E0-2B1728B2CF7A
+543|0|Mr.|R. Morgan|L.|Mendoza|NULL|Friendly Neighborhood Bikes|adventure-works\jillian0|rmorgan0@adventure-works.com|963-555-0146|C26F1F97-AF69-4F04-90EB-CAD58466F730
+544|0|Mr.|Jay|NULL|Adams|NULL|Valley Bicycle Specialists|adventure-works\jillian0|jay1@adventure-works.com|158-555-0142|70259E78-E301-494B-B26D-40D663DBB3DE
+545|0|Mr.|Christian|NULL|Kleinerman|NULL|Finish and Sealant Products|adventure-works\shu0|christian1@adventure-works.com|362-555-0177|7118CA63-B79E-4E8A-B70D-7DF409B7F23A
+546|0|Mr.|Anton|NULL|Kirilov|NULL|Field Trip Store|adventure-works\linda3|anton0@adventure-works.com|608-555-0162|298DE006-BED6-4E13-B659-3F9422750943
+547|0|Ms.|Gladys|F.|Mendiola|NULL|Curbside Sporting Goods|adventure-works\shu0|gladys0@adventure-works.com|535-555-0189|522CDA1C-21B1-4316-8FD6-654EB8A043BD
+550|0|Ms.|Raquel|NULL|Mello|NULL|Remote Bicycle Specialists|adventure-works\josé1|raquel0@adventure-works.com|723-555-0124|DEFE32C0-E965-40EE-A991-69DCA4BEDCE6
+551|0|Mr.|Samuel|N.|Agcaoili|NULL|Vinyl and Plastic Goods Corporation|adventure-works\josé1|samuel0@adventure-works.com|554-555-0110|85A3A976-A059-4FB9-BAB9-569C4EAD0869
+552|0|Mr.|Tim|NULL|Kim|NULL|Consolidated Messenger|adventure-works\garrett1|tim0@adventure-works.com|244-555-0115|B6D14407-6E95-452D-9ED4-D72D111A5BE7
+556|0|Ms.|Nancy|A.|McPhearson|NULL|Variety Cycling|adventure-works\jae0|nancy3@adventure-works.com|1 (11) 500 555-0195|AF0745DF-2902-4BDE-9F2B-48CA6A81CEEF
+559|0|Ms.|Nkenge|NULL|McLin|NULL|Some Discount Store|adventure-works\pamela0|nkenge0@adventure-works.com|158-555-0123|487EDB3A-23A8-4D1D-B1FF-FCDDCBDBC97E
+560|0|Mr.|Paul|L.|Alcorn|NULL|Major Sport Suppliers|adventure-works\david8|paul2@adventure-works.com|331-555-0162|B4402FBC-ADE6-41E7-BAEF-11BF1157F658
+561|0|Mr.|Marvin|N.|Allen|NULL|Mountain Toy Store|adventure-works\jillian0|marvin0@adventure-works.com|447-555-0110|E8C7FF14-1BED-4405-8E3A-B744C8A29CD8
+562|0|Ms.|Yvonne|NULL|McKay|NULL|Practical Bike Supply Company|adventure-works\jillian0|yvonne1@adventure-works.com|623-555-0144|CDFD5261-BA2C-46D1-9CE3-D083483A5CD2
+563|0|Mr.|Sean|P.|Jacobson|NULL|Systematic Sales|adventure-works\shu0|sean2@adventure-works.com|555-555-0162|64A38F14-8B74-4798-91A0-56CB5D01AD1D
+564|0|Ms.|Michelle|NULL|Alexander|NULL|Imported and Domestic Cycles|adventure-works\linda3|michelle0@adventure-works.com|115-555-0175|7F79FF5A-E220-46F7-BEC3-E6FFDABEBB2C
+565|0|Mr.|Richard|M.|Bentley|Jr.|Metallic Paint and Overcoat Co|adventure-works\shu0|richard0@adventure-works.com|911-555-0153|795FED3E-6216-4F65-870B-ACA2E485AD97
+568|0|Mr.|Curtis|P.|Howard|NULL|Economy Center|adventure-works\josé1|curtis0@adventure-works.com|555-555-0162|4CE1F27A-361E-4C9D-9C89-D5E0104EBB96
+569|0|Mr.|Cecil|J.|Allison|NULL|Designated Distributors|adventure-works\josé1|cecil0@adventure-works.com|699-555-0155|3BC5888D-DAB7-44EA-91DB-A50E0EC70BA5
+570|0|Mr.|Gregory|F.|Alderson|NULL|Family's Favorite Bike Shop|adventure-works\garrett1|gregory0@adventure-works.com|968-555-0153|8F7E5659-CA92-4048-BAFF-F4B6E80A8801
+574|0|Ms.|Janice|K.|Hows|NULL|Area Sheet Metal Supply|adventure-works\jae0|janice1@adventure-works.com|1 (11) 500 555-0119|570C76DB-C00E-420C-AF27-40E55457FFD4
+577|0|Mr.|George|M.|Huckaby|NULL|Synthetic Materials Manufacturing|adventure-works\pamela0|george1@adventure-works.com|851-555-0127|4FD75307-57E3-44B4-99F7-FB0206F5222E
+578|0|Ms.|Carolyn|NULL|Farino|NULL|The Bike Shop|adventure-works\david8|carolyn0@adventure-works.com|957-555-0125|82B2F273-C9F6-4B40-B0DA-F1AE0D6CB581
+579|0|Ms.|Kim|NULL|Abercrombie|NULL|Riders Company|adventure-works\jillian0|kim2@adventure-works.com|334-555-0137|ADA28DF5-683F-47E6-9D05-7C22DD329440
+580|0|Mr.|Joshua|J.|Huff|NULL|Rural Sales and Service|adventure-works\jillian0|joshua0@adventure-works.com|190-555-0186|FE870DE4-818A-495D-BA9E-875CB8212233
+581|0|Ms.|Geri|P.|Farrell|NULL|Safe Toys|adventure-works\shu0|geri0@adventure-works.com|329-555-0183|DE11580B-02D7-4DB2-AEEC-ECA3E3CCFDC9
+582|0|Ms.|Catherine|R.|Abel|NULL|Professional Sales and Service|adventure-works\linda3|catherine0@adventure-works.com|747-555-0171|D05CCF47-0563-44EE-8CC9-ECBC5A5A3BEB
+583|0|Ms.|Laura|C.|Steele|NULL|Professional Containers and Packaging Co.|adventure-works\shu0|laura3@adventure-works.com|741-555-0173|16ACF91D-EF89-41CC-86CE-72A39B05E97D
+586|0|Ms.|Shanay|B.|Steelman|NULL|One Bike Company|adventure-works\josé1|shanay0@adventure-works.com|797-555-0118|A99CAE9B-1011-4551-976C-EC06A5EDF5D7
+587|0|Ms.|Rhoda|J.|Finley|NULL|Our Sporting Goods Store|adventure-works\josé1|rhoda0@adventure-works.com|920-555-0191|D4D20D5D-C11E-41D9-8FB7-11CC69AA3FE4
+588|0|Mr.|Pat|A.|Chambers|NULL|General Cycle Storehouse|adventure-works\garrett1|pat1@adventure-works.com|127-555-0124|41DDDC8E-86E3-4073-9868-25DCF32918B3
+592|0|Mr.|Stefano|NULL|Stefani|NULL|Cycling Goods|adventure-works\jae0|stefano0@adventure-works.com|1 (11) 500 555-0115|13F01A4D-69BE-4DC7-9BFC-2339B0011D37
+595|0|Mr.|Alan|NULL|Steiner|NULL|Cycle Clearance|adventure-works\pamela0|alan4@adventure-works.com|792-555-0194|9C979E0C-9613-4D25-A2FB-F11DB162FE11
+596|0|Ms.|Kathie|NULL|Flood|NULL|Coho Sports|adventure-works\david8|kathie1@adventure-works.com|627-555-0192|45E57628-05C0-4CF7-B920-446DB8449713
+597|0|Mr.|Bob|NULL|Hodges|NULL|All Seasons Sports Supply|adventure-works\jillian0|bob2@adventure-works.com|129-555-0120|544A635A-DBDF-4352-8654-EAC27DC3B3E0
+598|0|Mr.|Derik|NULL|Stenerson|NULL|Black Bicycle Company|adventure-works\jillian0|derik0@adventure-works.com|441-555-0144|677DA2FB-A3EF-4EB3-A520-23AFBBF29226
+599|0|Mr.|Raul|E.|Casts|NULL|Westside Plaza|adventure-works\shu0|raul0@adventure-works.com|362-555-0162|3B2D46BA-B6E4-44CB-8148-1217A3CCFA89
+600|0|Ms.|Holly|J.|Holt|NULL|Strenuous Exercise Shop|adventure-works\linda3|holly1@adventure-works.com|654-555-0150|676F1FB0-E203-4E91-A603-B23A7916A565
+601|0|Mr.|Vassar|J.|Stern|NULL|Transport Bikes|adventure-works\shu0|vassar0@adventure-works.com|328-555-0123|9B833B71-5745-4582-A38D-8C23A0DD4837
+604|0|Ms.|Wathalee|R.|Steuber|NULL|Sellers of Cycles|adventure-works\pamela0|wathalee0@adventure-works.com|517-555-0120|16A45C72-62FB-4A9F-BAE7-BFEA490BD4C4
+605|0|Mr.|Matthew|J.|Cavallari|NULL|Outstanding Cycles|adventure-works\david8|matthew1@adventure-works.com|695-555-0161|0938B90F-1DC9-4F5E-B37D-3DFF2DBCD276
+606|0|Ms.|Helge|NULL|Hoeing|NULL|Little Bicycle Supply Shop|adventure-works\jillian0|helge0@adventure-works.com|850-555-0198|EFB59C1A-467F-4946-BCE9-72EA3E3E2236
+607|0|Ms.|Alice|M.|Steiner|NULL|Maintenance and Repair for Bicycles|adventure-works\jillian0|alice4@adventure-works.com|355-555-0180|0592BD1D-8A90-4BBC-A5FA-5B10B60B6A3F
+608|0|Mr.|Steven|B.|Brown|IV|Golf and Cycle Store|adventure-works\shu0|steven1@adventure-works.com|280-555-0124|2405C543-8822-44AD-98C6-6FB653FD9A07
+609|0|Mr.|David|NULL|Hodgson|NULL|Good Toys|adventure-works\linda3|david16@adventure-works.com|969-555-0117|907AF75B-4DBD-4E50-A0C8-3205595987B4
+610|0|Ms.|Liza Marie|N.|Stevens|NULL|Fitness Department Stores|adventure-works\shu0|lizamarie0@adventure-works.com|366-555-0110|383EBD5E-A839-4FC1-95BF-C40FF1245204
+613|0|Mr.|Jim|NULL|Stewart|NULL|Famous Bike Shop|adventure-works\garrett1|jim5@adventure-works.com|226-555-0110|05B7B25A-0E97-4F07-9A87-0627F354A45F
+617|0|Ms.|Arlene|NULL|Huff|NULL|Tubeless Tire Company|adventure-works\jae0|arlene0@adventure-works.com|1 (11) 500 555-0146|44F580C3-4D01-41C8-964D-24DE6CBE51FC
+620|0|Mr.|Matthew|M.|Hunter|NULL|Tires and Tubes|adventure-works\pamela0|matthew4@adventure-works.com|482-555-0188|401C7B5F-4FF0-4E29-9102-319CB883C11D
+621|0|Mr.|Matthew|NULL|Hink|NULL|Running and Cycling Gear|adventure-works\david8|matthew3@adventure-works.com|146-555-0176|A8ACF94D-2B05-4EF4-96EA-87B3466619C5
+622|0|Mr.|Robert|B.|Stotka|NULL|Gift and Toy Store|adventure-works\jillian0|robert12@adventure-works.com|493-555-0185|E9A23E4B-7EFE-43AD-9B10-789511309827
+623|0|Ms.|Phyllis|R.|Huntsman|NULL|Hardware Components|adventure-works\jillian0|phyllis1@adventure-works.com|153-555-0195|9DEF17D4-B251-405F-A854-70A33DEBBBE9
+624|0|Mr.|Mike|NULL|Hines|NULL|First Cycle Store|adventure-works\shu0|mike3@adventure-works.com|454-555-0160|EB4B75A2-CA46-4B7D-BCBB-EAA8D41E8659
+625|0|Ms.|Kayla|M.|Stotler|NULL|Major Sporting Goods|adventure-works\linda3|kayla0@adventure-works.com|315-555-0131|8E200319-3DBD-43A6-8AAA-82D7866314A9
+626|0|Mr.|Lawrence|E.|Hurkett|NULL|Retail Sporting Goods|adventure-works\shu0|lawrence0@adventure-works.com|129-555-0185|03363CF0-DF23-4060-B0E1-E023CDF7BE08
+629|0|Mr.|Ryan|NULL|Ihrig|NULL|Efficient Cycling|adventure-works\josé1|ryan4@adventure-works.com|809-555-0152|2B7A6FF6-7BD4-4E4E-896C-42A76AC54270
+630|0|Mr.|Andrew|R.|Hill|NULL|Eastside Parts Shop|adventure-works\josé1|andrew4@adventure-works.com|194-555-0149|05B08B9B-B1EA-469E-B314-C43E5A3EFE1A
+631|0|Mr.|Robert|P.|Lyeba|NULL|Tandem Sales and Service|adventure-works\garrett1|robert8@adventure-works.com|631-555-0155|FB9DC661-95E0-4E69-9AF7-4122CB8AA87A
+635|0|Mr.|Roger|NULL|Van Houten|NULL|Sports Store|adventure-works\jae0|roger2@adventure-works.com|1 (11) 500 555-0110|7F84FF66-311C-4396-A5BA-D2470EAADA21
+637|0|Mr.|Robert|NULL|Lyon|NULL|Reliable Retail Center|adventure-works\garrett1|robert9@adventure-works.com|666-555-0143|65C25750-C07B-431C-9519-BBCAA7AA6B34
+641|0|Ms.|Rose|M.|Vandenouer|NULL|Extended Tours|adventure-works\jae0|rose1@adventure-works.com|1 (11) 500 555-0140|321EBC1B-7B5A-449C-8288-26AD3A2D1CAA
+643|0|Ms.|Denise|R.|Maccietto|NULL|Friendly Bike Shop|adventure-works\michael9|denise1@adventure-works.com|537-555-0190|A7B5B085-69A9-47D6-BD8C-262910496BBF
+644|0|Mr.|Gregory|T.|Vanderbout|Jr.|Convenient Sales and Service|adventure-works\pamela0|gregory1@adventure-works.com|684-555-0134|9CCD22E6-5ACF-4378-BA69-1FE722239354
+645|0|Mr.|Ronald|K.|Heymsfield|NULL|Superior Hardware Distributors|adventure-works\david8|ronald1@adventure-works.com|784-555-0120|6AA86A45-3E16-4C00-AB99-1E429A1C4026
+646|0|Mr.|Scott|NULL|MacDonald|NULL|Yellow Bicycle Company|adventure-works\jillian0|scott7@adventure-works.com|470-555-0171|78D632CB-9993-46AC-AA5C-45B2F807F681
+647|0|Mr.|Michael|NULL|Vanderhyde|NULL|Solid Bike Parts|adventure-works\jillian0|michael25@adventure-works.com|918-555-0141|F36E88F4-27E1-4636-9BD4-24DAF44C4141
+648|0|Ms.|Cheryl|M.|Herring|NULL|Small Bike Shop|adventure-works\shu0|cheryl0@adventure-works.com|158-555-0154|A47D117D-1878-4160-8A37-0B1581D441D6
+649|0|Mr.|Walter|J.|Mays|Sr.|Sports Products Store|adventure-works\linda3|walter1@adventure-works.com|245-555-0191|6E4F5184-9CA2-4009-A867-331DB4B4628A
+650|0|Ms.|Margaret|J.|Vanderkamp|NULL|Permanent Finish Products|adventure-works\shu0|margaret2@adventure-works.com|265-555-0143|D903D48A-5B03-472E-B802-8500A3C81305
+653|0|Ms.|Kara|N.|Vanderlinden|NULL|Mercantile Outlet|adventure-works\josé1|kara0@adventure-works.com|680-555-0160|8BDB709B-17BF-4604-A512-26DCE6EF0443
+654|0|Mr.|Jésus|NULL|Hernandez|NULL|Online Bike Warehouse|adventure-works\josé1|jésus0@adventure-works.com|214-555-0145|1A357CAC-E4F2-4880-BE31-487D92071128
+655|0|Ms.|Irene|J.|Hernandez|NULL|Operational Manufacturing|adventure-works\garrett1|irene0@adventure-works.com|790-555-0197|35645D53-FF5D-4A0E-9F3A-8024A0D90726
+659|0|Mr.|Ajay|NULL|Manchepalli|NULL|Shipping Specialists|adventure-works\jae0|ajay0@adventure-works.com|1 (11) 500 555-0174|A2098F7B-3D3A-4894-90D7-C79C118845D5
+660|0|Mr.|Nieves|J.|Vargas|II|Exhilarating Cycles|adventure-works\michael9|nieves0@adventure-works.com|371-555-0184|9B35A7E0-C72F-4C28-9EF9-9A8124DF7215
+661|0|Mr.|Kari|NULL|Hensien|NULL|General Department Stores|adventure-works\garrett1|kari0@adventure-works.com|143-555-0129|AC14C556-2FCC-4578-AD66-D2F31FCA6C51
+665|0|Mr.|Tomas|M.|Manzanares|II|Authentic Sales and Service|adventure-works\jae0|tomas0@adventure-works.com|1 (11) 500 555-0178|1FBCCC49-197B-4A5F-9AAD-42B8AE9EE999
+668|0|Ms.|Kathy|R.|Marcovecchio|NULL|Official Parts Shop|adventure-works\pamela0|kathy0@adventure-works.com|942-555-0141|91A24A87-81CE-4BDB-B233-0CC9936CCB5A
+669|0|Ms.|Patricia|NULL|Doyle|NULL|Racing Bike Outlet|adventure-works\david8|patricia0@adventure-works.com|899-555-0134|C8D30FD5-43D3-4D5C-B54E-3561113CAF43
+670|0|Ms.|Valerie|M.|Hendricks|NULL|First Bike Store|adventure-works\jillian0|valerie0@adventure-works.com|859-555-0140|F1D69FBE-3932-4B31-A092-6C778D9CD194
+671|0|Ms.|Jill|K.|Markwood|NULL|Contoso, Ltd.|adventure-works\jillian0|jill2@adventure-works.com|747-555-0113|BF1718C1-A06B-49D9-AFFA-B445E82B2B9A
+672|0|Mr.|Gerald|M.|Drury|NULL|Utilitarian Sporting Goods|adventure-works\shu0|gerald0@adventure-works.com|169-555-0178|6C3F1514-0E59-467C-AD84-1FCAB936E521
+673|0|Mr.|John|NULL|Hanson|NULL|Countryside Company|adventure-works\linda3|john20@adventure-works.com|107-555-0117|45CF2A2C-3D06-45F4-9009-FCD4ABC19427
+674|0|Ms.|Melissa|R.|Marple|NULL|Discount Tours|adventure-works\shu0|melissa0@adventure-works.com|685-555-0117|821FF209-815B-4EAA-806F-9106F3FE9424
+677|0|Ms.|Cecelia|L.|Marshall|NULL|Tire Exchange|adventure-works\josé1|cecelia0@adventure-works.com|394-555-0168|143625ED-18D6-43ED-A1C9-BA18BB5F80C9
+678|0|Mr.|Reuben|NULL|D'sa|NULL|Vigorous Exercise Company|adventure-works\josé1|reuben1@adventure-works.com|916-555-0137|9AE2B1F8-8F7D-4439-99FE-2B67E38DE4EE
+679|0|Ms.|Brenda|F.|Heaney|NULL|Superb Sales and Repair|adventure-works\garrett1|brenda3@adventure-works.com|393-555-0167|DAFE6766-1849-4209-9379-4EAE7A05B932
+683|0|Ms.|Linda|NULL|Martin|NULL|Oils and Fluids Warehouse|adventure-works\jae0|linda8@adventure-works.com|1 (11) 500 555-0137|243EF1F5-74D0-4E3C-9B0D-C7AA926F3D64
+685|0|Mr.|James|B.|Haugh|Jr.|Family Cycle Store|adventure-works\garrett1|james8@adventure-works.com|763-555-0120|8559A2D6-B981-41B4-85F9-5507BFF4DD6E
+689|0|Ms.|Sandra|I.|Martinez|NULL|Consumer Equipment|adventure-works\jae0|sandra3@adventure-works.com|1 (11) 500 555-0113|AF583E23-093C-4232-B886-A1EE64BCD3C9
+692|0|Ms.|Bev|L.|Desalvo|NULL|Successful Sales Company|adventure-works\pamela0|bev0@adventure-works.com|143-555-0113|9EE96279-78D5-49B7-AC4A-1C43CFB80249
+693|0|Mr.|Bart|NULL|Duncan|NULL|Stock Parts and Supplies|adventure-works\david8|bart0@adventure-works.com|539-555-0121|3B38D4CB-9573-4686-A202-9179DBEFC7B8
+694|0|Ms.|Ann|T.|Hass|NULL|The Accessories Store|adventure-works\jillian0|ann2@adventure-works.com|713-555-0168|D3E874DC-A10C-4055-B943-9DBD5CFE8C89
+695|0|Mr.|Rob|NULL|Caron|NULL|Responsible Bike Dealers|adventure-works\jillian0|rob2@adventure-works.com|620-555-0117|77A62D9C-4ED6-4266-AE35-40CC330ACC5E
+696|0|Mr.|Maciej|NULL|Dusza|NULL|Roadway Supplies|adventure-works\shu0|maciej1@adventure-works.com|962-555-0144|A0140DD4-4D10-4091-9D89-95873DAE9BB7
+697|0|Mr.|Roger|NULL|Harui|NULL|Brakes and Gears|adventure-works\linda3|roger0@adventure-works.com|774-555-0133|B30CE5B4-BBFA-4A57-B5C2-EED1EF13E0BE
+698|0|Mr.|Andy|NULL|Carothers|NULL|Western Bike Supplies|adventure-works\shu0|andy1@adventure-works.com|944-555-0148|6BC4FF5A-0696-4C2A-88F9-08D1DBA91B74
+701|0|Ms.|Linda|R.|Ecoffey|NULL|Future Bikes|adventure-works\josé1|linda5@adventure-works.com|674-555-0188|61AE9625-8BD8-48B7-B171-8A90CBBA494C
+29485|0|Ms.|Catherine|R.|Abel|NULL|Professional Sales and Service|adventure-works\linda3|catherine0@adventure-works.com|747-555-0171|392AE773-D7EC-48AC-B8D0-6E65B770285C
+29486|0|Ms.|Kim|NULL|Abercrombie|NULL|Riders Company|adventure-works\jillian0|kim2@adventure-works.com|334-555-0137|2A5ABA2E-8DB0-4856-A773-21D185F1679E
+29489|0|Ms.|Frances|B.|Adams|NULL|Area Bike Accessories|adventure-works\shu0|frances0@adventure-works.com|991-555-0183|C353FE38-6147-40A3-944D-3736F6297B8C
+29490|0|Ms.|Margaret|J.|Smith|NULL|Bicycle Accessories and Kits|adventure-works\david8|margaret0@adventure-works.com|959-555-0151|7F2D6183-6AEE-4AD1-973D-F45A19B70BF7
+29492|0|Mr.|Jay|NULL|Adams|NULL|Valley Bicycle Specialists|adventure-works\jillian0|jay1@adventure-works.com|158-555-0142|7A2EB695-B6B9-48D4-BAD2-BD33E8CE8CA1
+29494|0|Mr.|Samuel|N.|Agcaoili|NULL|Vinyl and Plastic Goods Corporation|adventure-works\josé1|samuel0@adventure-works.com|554-555-0110|66D2DC13-4220-43B8-B2C7-131183CAEC34
+29496|0|Mr.|Robert|E.|Ahlering|NULL|Fun Toys and Bikes|adventure-works\shu0|robert1@adventure-works.com|678-555-0175|44E51EC2-9D0B-40CC-B725-1A3E81DF9519
+29497|0|Mr.|François|NULL|Ferrier|NULL|Great Bikes |adventure-works\david8|françois1@adventure-works.com|571-555-0128|EEEF3C65-08F9-49C6-AE12-A2FCDEDACAF5
+29499|0|Ms.|Amy|E.|Alberts|NULL|Valley Toy Store|adventure-works\josé1|amy1@adventure-works.com|727-555-0115|29CD70BE-D5E5-4A7A-A1D5-521BCCE2193D
+29502|0|Mr.|Paul|L.|Alcorn|NULL|Major Sport Suppliers|adventure-works\david8|paul2@adventure-works.com|331-555-0162|F193D485-3A5A-415A-9D3E-4A5DB8B4A2A0
+29503|0|Mr.|Gregory|F.|Alderson|NULL|Family's Favorite Bike Shop|adventure-works\garrett1|gregory0@adventure-works.com|968-555-0153|76F035BE-E0E4-47A9-A873-BE3012B15C00
+29505|0|Ms.|Michelle|NULL|Alexander|NULL|Imported and Domestic Cycles|adventure-works\linda3|michelle0@adventure-works.com|115-555-0175|E8AB6307-CD3C-4C36-9FE6-B5DA7BBAB0A1
+29506|0|Mr.|Sean|P.|Jacobson|NULL|Systematic Sales|adventure-works\shu0|sean2@adventure-works.com|555-555-0162|6A1A593C-5424-43A3-AC77-948F6CB19707
+29508|0|Mr.|Marvin|N.|Allen|NULL|Mountain Toy Store|adventure-works\jillian0|marvin0@adventure-works.com|447-555-0110|273ECF85-4243-4DFF-9286-EE65CEFB404C
+29510|0|Mr.|Cecil|J.|Allison|NULL|Designated Distributors|adventure-works\josé1|cecil0@adventure-works.com|699-555-0155|CF861030-DC7A-4287-8FFC-5A349BBFE08A
+29511|0|Mr.|Oscar|L.|Alpuerto|NULL|Bold Bike Accessories|adventure-works\linda3|oscar0@adventure-works.com|855-555-0174|B812BC01-6796-4B5A-9D7C-C8E7C6057799
+29515|0|Mr.|Maxwell|J.|Amland|NULL|Serious Cycles|adventure-works\garrett1|maxwell0@adventure-works.com|614-555-0134|BBC286A2-31CF-406B-86A0-584C1C48E171
+29517|0|Ms.|Ramona|J.|Antrim|NULL|Novelty Bikes|adventure-works\michael9|ramona0@adventure-works.com|327-555-0148|40035342-3797-4F30-AF6C-9C56FC31315A
+29521|0|Mr.|Tom|H|Johnston|NULL|Brightwork Company|adventure-works\shu0|tom1@adventure-works.com|883-555-0177|C1E8581A-065B-42E4-A934-71FAD25CFB80
+29522|0|Mr.|Thomas|B.|Armstrong|Jr.|Resale Services|adventure-works\linda3|thomas1@adventure-works.com|226-555-0146|4862835C-7661-41FB-9745-80F275B9723A
+29523|0|Mr.|John|NULL|Arthur|NULL|The Gear Store|adventure-works\jillian0|john6@adventure-works.com|149-555-0113|7D7D6D52-79E3-4CE4-9F68-2D8B6BF4854D
+29524|0|Mr.|Chris|NULL|Ashton|NULL|Immense Manufacturing Company|adventure-works\jillian0|chris3@adventure-works.com|556-555-0145|7901EC05-A4C0-49E4-AC89-9118B3B5EC8B
+29525|0|Ms.|Teresa|NULL|Atkinson|NULL|Extended Bike Sales|adventure-works\linda3|teresa0@adventure-works.com|129-555-0110|AD907F95-DD96-4D69-A8D0-C72F64203CCA
+29527|0|Mr.|Robert|A.|Avalos|NULL|Workout Emporium|adventure-works\josé1|robert2@adventure-works.com|665-555-0198|36702D8C-0756-4B16-B0DA-8C97103D8B90
+29528|0|Mr.|Stephen|M.|Ayers|NULL|Work and Play Association|adventure-works\michael9|stephen1@adventure-works.com|818-555-0171|82C1FBD9-E2A5-4CD2-B07C-FE803B57B0C9
+29530|0|Mr.|Daniel|NULL|Blanco|NULL|Nice Bikes|adventure-works\garrett1|daniel0@adventure-works.com|221-555-0167|EA3D7FC9-B1D0-4D83-8B1D-F47CCA131B0B
+29531|0|Mr.|Cory|K.|Booth|NULL|Remarkable Bike Store|adventure-works\linda3|cory0@adventure-works.com|121-555-0157|75D00AA7-752F-41C9-9C5D-899E8E3061BD
+29532|0|Mr.|James|B.|Bailey|Jr.|Road-Way Mart|adventure-works\david8|james3@adventure-works.com|234-555-0112|C5AAE356-0B32-4293-B09F-656EE3B5C04F
+29533|0|Mr.|Douglas|A.|Baldwin|Jr.|Small Cycle Store|adventure-works\michael9|douglas1@adventure-works.com|583-555-0130|83DE2678-7DBC-4B56-9EC6-682CE7652FF3
+29535|0|Mr.|Wayne|N.|Banack|NULL|Grand Bicycle Stores|adventure-works\jillian0|wayne0@adventure-works.com|640-555-0189|772BAC57-52AF-492A-97DA-30EC59DAC03B
+29536|0|Mr.|Robert|L.|Barker|NULL|Kickstand Sellers|adventure-works\michael9|robert3@adventure-works.com|241-555-0112|8AA94321-8937-4950-AA00-504988E0A124
+29539|0|Mr.|Josh|NULL|Barnhill|NULL|Gasless Cycle Shop|adventure-works\garrett1|josh0@adventure-works.com|584-555-0192|69DF26EC-38FB-4588-AE26-5987EDCCABF2
+29541|0|NULL|Gytis|M|Barzdukas|NULL|Transportation Options|adventure-works\josé1|gytis0@adventure-works.com|257-555-0119|6048EA4A-07F5-4FC6-9638-878F76822941
+29544|0|Mr.|Shaun|NULL|Beasley|NULL|Finer Cycle Shop|adventure-works\garrett1|shaun0@adventure-works.com|396-555-0187|A9A96153-F3F1-4049-872E-592B6E674BC3
+29545|0|Mr.|John|A.|Beaver|NULL|Center Cycle Shop|adventure-works\pamela0|john8@adventure-works.com|521-555-0195|38DC2574-509C-4F65-B73A-68187F11B787
+29546|0|Mr.|Christopher|R.|Beck|Jr.|Bulk Discount Store|adventure-works\jae0|christopher1@adventure-works.com|1 (11) 500 555-0132|228A34A5-66EF-4A18-BEF2-BE74BEB84191
+29548|0|Ms.|Ann|NULL|Beebe|NULL|First-Rate Outlet|adventure-works\garrett1|ann0@adventure-works.com|277-555-0169|00CFDBC0-CDD2-4436-B0AE-DD248F4E4371
+29550|0|Mr.|Stanley|A.|Alan|Jr.|Another Bicycle Company|adventure-works\david8|stanley0@adventure-works.com|156-555-0126|2B89C6ED-7F4E-4986-9408-38528091D899
+29553|0|Ms.|Edna|J.|Benson|NULL|Unsurpassed Bikes|adventure-works\jillian0|edna0@adventure-works.com|789-555-0189|F7267A9A-0DB3-4A74-A652-A23EC874AB11
+29554|0|Mr.|Payton|P.|Benson|NULL|Field Trip Inc|adventure-works\michael9|payton0@adventure-works.com|528-555-0183|3A972EED-6DB6-47EC-963C-C52C7E256B82
+29557|0|Mr.|Alexander|J.|Berger|II|Odometers and Accessories Company|adventure-works\garrett1|alexander0@adventure-works.com|519-555-0151|2BE64FF5-7723-44D0-86E2-2AFFD80B0281
+29558|0|Mr.|John|M.|Berger|Jr.|Scratch-Resistant Finishes Company|adventure-works\josé1|john10@adventure-works.com|156-555-0111|2C9DD7E4-7832-4954-87D2-94461D750BB1
+29559|0|Mr.|Robert|M.|Bernacchi|NULL|Safe Cycles Shop|adventure-works\david8|robert4@adventure-works.com|449-555-0176|F21A8178-0E5B-4E88-94AE-1D46914CB020
+29560|0|Mr.|Matthias|NULL|Berndt|NULL|Number 1 Supply|adventure-works\shu0|matthias1@adventure-works.com|384-555-0169|ADD0CC30-6294-45CF-87FB-8E27833FB38C
+29562|0|Mr.|Steven|B.|Brown|IV|Golf and Cycle Store|adventure-works\shu0|steven1@adventure-works.com|280-555-0124|A1427A83-0D0C-4541-8823-42DFE2838756
+29565|0|Mr.|Jimmy|NULL|Bischoff|NULL|World Bike Discount Store|adventure-works\linda3|jimmy1@adventure-works.com|992-555-0111|271B27D9-E905-4FCE-BD85-C9C4184E3E9E
+29566|0|Ms.|Mae|M.|Black|NULL|Historic Bicycle Sales|adventure-works\michael9|mae1@adventure-works.com|264-555-0143|2A455D51-93B4-4BD7-82F3-832A1264BCA1
+29567|0|Ms.|Jackie|E.|Blackwell|NULL|Commuter Bicycle Store|adventure-works\josé1|jackie0@adventure-works.com|972-555-0163|D8CB0E62-2423-4521-B8E1-0488855775A1
+29568|0|Mr.|Donald|L.|Blanton|NULL|Coalition Bike Company|adventure-works\shu0|donald0@adventure-works.com|357-555-0161|D8B39163-B4B4-428D-ACD7-1DF795D801DC
+29569|0|Ms.|Linda|E.|Burnett|NULL|Travel Systems|adventure-works\jillian0|linda4@adventure-works.com|121-555-0121|EB9D1CEC-596E-4775-AD51-ABD597A2679A
+29570|0|Mr.|Michael|Greg|Blythe|NULL|Grease and Oil Products Company|adventure-works\jillian0|michael11@adventure-works.com|126-555-0172|CE40D69C-5141-4B37-921F-749C22722B9F
+29571|0|Ms.|Gabriel|L.|Bockenkamp|NULL|Moderately-Priced Bikes Store|adventure-works\pamela0|gabriel0@adventure-works.com|763-555-0145|0A854F09-FBE8-4BF2-BD46-7A6180CB96D0
+29573|0|Sr.|Luis|NULL|Bonifaz|NULL|Economy Bikes Company|adventure-works\linda3|luis0@adventure-works.com|688-555-0113|473731FF-4260-43FD-9BAE-DECEE582420E
+29574|0|Mr.|Randall|NULL|Boseman|NULL|Third Bike Store|adventure-works\jillian0|randall0@adventure-works.com|383-555-0117|B4A76396-2351-4B5B-8FEE-18F97D6FE030
+29576|0|Mr.|Eli|NULL|Bowen|NULL|Bikes for Two|adventure-works\josé1|eli0@adventure-works.com|371-555-0143|19E3AD5C-CAA8-41F6-9781-D56C651B4133
+29577|0|Mr.|Lester|J.|Bowman|Sr.|Metal Processing Company|adventure-works\garrett1|lester0@adventure-works.com|844-555-0112|D6567177-9AEC-400B-9097-F3F33124242A
+29579|0|Mr.|Cornelius|L.|Brandon|NULL|Initial Bike Company|adventure-works\shu0|cornelius0@adventure-works.com|229-555-0114|AF37EBFF-FE33-4CC9-8141-E0D4594F50E2
+29580|0|Mr.|Richard|NULL|Bready|NULL|Latest Sports Equipment|adventure-works\david8|richard1@adventure-works.com|340-555-0131|041C42B9-857B-4B3F-B314-3BF29999AD48
+29582|0|Mr.|Ted|NULL|Bremer|NULL|Raw Materials Inc|adventure-works\pamela0|ted0@adventure-works.com|962-555-0166|3EA30AEA-3C37-4450-A3AD-97EA44B21FF6
+29583|0|Mr.|Alan|NULL|Brewer|NULL|Lots of Bikes Storehouse|adventure-works\jillian0|alan1@adventure-works.com|494-555-0134|63797367-055A-48FC-97C0-2C4D8573585E
+29584|0|Mr.|Walter|J.|Brian|IV|Futuristic Bikes|adventure-works\shu0|walter0@adventure-works.com|163-555-0155|BD077ADD-F8F5-471C-A5FD-31A61303F41F
+29585|0|Mr.|Christopher|M.|Bright|NULL|Parcel Express Delivery Service|adventure-works\david8|christopher2@adventure-works.com|162-555-0166|11E65E98-1980-4D9F-A6C0-A6DD2885B673
+29587|0|Mr.|John|R.|Brooks|NULL|Prosperous Tours|adventure-works\jae0|john12@adventure-works.com|1 (11) 500 555-0179|8916316F-55E7-453E-9C82-F59B5FC32913
+29588|0|Mr.|Willie|P.|Brooks|Jr.|Nonskid Tire Company|adventure-works\pamela0|willie0@adventure-works.com|525-555-0174|DEB25F8C-1D9F-442A-B686-6A505DE0C1BF
+29590|0|Mr.|Jo|NULL|Brown|NULL|Metro Bike Works|adventure-works\michael9|jo2@adventure-works.com|689-555-0130|7E529A97-2B5C-4339-883F-3ECCFB85E411
+29591|0|Mr.|Robert|NULL|Brown|NULL|Best o' Bikes|adventure-works\jillian0|robert5@adventure-works.com|575-555-0189|74AA6608-703F-4F37-A447-BBF9879C0D4F
+29593|0|Ms.|Mary|K.|Browning|NULL|Client Discount Store|adventure-works\jillian0|mary5@adventure-works.com|658-555-0146|C610F872-6183-4D98-ADA3-E3A5B1A3588D
+29596|0|Mr.|Eric|J.|Brumfield|NULL|Requisite Part Supply|adventure-works\josé1|eric3@adventure-works.com|644-555-0114|A6172F3E-C548-45CB-B1D7-79CA27AC267B
+29598|0|Mr.|Michael|NULL|Brundage|NULL|Mechanical Products Ltd.|adventure-works\shu0|michael13@adventure-works.com|128-555-0148|5411839C-DAA1-4827-A995-1856C8217DE2
+29599|0|Ms.|Shirley|R.|Bruner|NULL|Commendable Bikes|adventure-works\david8|shirley0@adventure-works.com|383-555-0155|985B33BB-5EB3-4CBA-87FB-250F05471374
+29600|0|Ms.|June|B.|Brunner|NULL|Online Bike Sellers|adventure-works\michael9|june0@adventure-works.com|249-555-0172|2E9E3D6C-F361-49DD-885F-95E36BCDD2A2
+29601|0|Mr.|Dirk|J.|Bruno|NULL|Custom Accessories Company|adventure-works\garrett1|dirk0@adventure-works.com|817-555-0114|18BCB5D4-14FB-4AF6-A8C2-AF791B677F6C
+29603|0|Sra.|Janaina Barreiro Gambaro|NULL|Bueno|NULL|Courteous Bicycle Specialists|adventure-works\josé1|janainabarreirogambaro0@adventure-works.com|476-555-0184|C8099813-1F08-41C6-8567-025CAB01F0FA
+29605|0|Ms.|Megan|E.|Burke|NULL|Professional Cycle Store|adventure-works\shu0|megan0@adventure-works.com|148-555-0149|216795C5-FBC9-4CFF-8CE3-2400E7679FA6
+29606|0|Ms.|Karren|K.|Burkhardt|NULL|Fifth Bike Store|adventure-works\david8|karren0@adventure-works.com|652-555-0132|3CEF570C-26DD-478E-9F28-015037841EE2
+29608|0|Mr.|Timothy|B.|Burnett|Jr.|Farthest Bike Store|adventure-works\josé1|timothy0@adventure-works.com|251-555-0172|EEE846BE-2EDC-4353-BCEC-756C9BC94AC1
+29611|0|Mr.|Jared|L.|Bustamante|NULL|Alternative Vehicles|adventure-works\pamela0|jared0@adventure-works.com|164-555-0147|76D4BBBD-3474-487B-9090-20F86FF81608
+29612|0|Mr.|Richard|A.|Byham|NULL|Channel Outlet|adventure-works\jae0|richard2@adventure-works.com|1 (11) 500 555-0138|768148E4-4D17-4B9B-86CA-76F5122FC107
+29614|0|Mr.|Ryan|NULL|Calafato|NULL|Retail Mall|adventure-works\josé1|ryan1@adventure-works.com|726-555-0155|1722BE43-305B-4275-8863-F6D54343F12A
+29615|0|Ms.|Mari|B.|Caldwell|NULL|Metro Metals Co.|adventure-works\jae0|mari0@adventure-works.com|1 (11) 500 555-0118|C7E5D895-EABA-4CC6-A7AB-50B8569541D3
+29616|0|Ms.|Barbara|J.|Calone|NULL|Sheet Metal Manufacturing|adventure-works\jillian0|barbara2@adventure-works.com|145-555-0152|21DF3FF8-0A8F-434B-9290-E562B7DA6DCA
+29617|0|Ms.|Lindsey|R.|Camacho|NULL|Thorough Parts and Repair Services|adventure-works\pamela0|lindsey0@adventure-works.com|827-555-0143|96E154EB-8F02-4651-A117-5E248685341D
+29618|0|Sr.|Gustavo|NULL|Camargo|NULL|Uttermost Bike Shop|adventure-works\jae0|gustavo1@adventure-works.com|1 (11) 500 555-0118|89BE0FA2-162C-400D-9D8B-F2E557242088
+29620|0|Ms.|Joan|M.|Campbell|NULL|Two-Wheeled Transit Company|adventure-works\josé1|joan0@adventure-works.com|700-555-0155|A2268D9A-2511-43C3-95CC-D7DE094109F1
+29622|0|Mr.|Henry|L.|Campen|NULL|Metro Cycle Shop|adventure-works\david8|henry0@adventure-works.com|635-555-0126|EA5EA0F8-67B9-4D47-9D52-220F951FC446
+29623|0|Mr.|Chris|NULL|Cannon|NULL|Outdoor Sporting Goods|adventure-works\shu0|chris5@adventure-works.com|118-555-0131|E9B77812-22B3-427A-8A5A-EA8275ED7B21
+29625|0|Ms.|Suzana De Abreu|A.|Canuto|NULL|Petroleum Products Distributors|adventure-works\josé1|suzanadeabreu0@adventure-works.com|990-555-0141|6E7DD825-A7CD-439E-BC06-7C90AACBC553
+29627|0|Mr.|Johnny|A.|Caprio|Jr.|Bikes and Motorbikes|adventure-works\garrett1|johnny0@adventure-works.com|112-555-0191|50AEA181-60F3-4B91-BC52-238B7CF7A9DB
+29629|0|Mr.|Carlton|M.|Carlisle|NULL|Camping and Sports Store|adventure-works\josé1|carlton0@adventure-works.com|193-555-0116|2B0CF9C8-2517-4763-99E1-324422DF67E1
+29631|0|Ms.|Jane|N.|Carmichael|NULL|Rural Department Store|adventure-works\shu0|jane0@adventure-works.com|716-555-0167|88B75A1F-858D-4750-A864-717F49A2DE10
+29632|0|Ms.|Jovita|A.|Carmody|NULL|Sports Commodities|adventure-works\david8|jovita0@adventure-works.com|646-555-0137|B162868C-2CA6-4FF6-9DD0-6FA6C03D1B99
+29635|0|Mr.|Rob|NULL|Caron|NULL|Responsible Bike Dealers|adventure-works\jillian0|rob2@adventure-works.com|620-555-0117|77FDC952-805B-4997-8363-EDE49A55D31F
+29636|0|Mr.|Andy|NULL|Carothers|NULL|Western Bike Supplies|adventure-works\shu0|andy1@adventure-works.com|944-555-0148|625F2B1D-2F34-4020-88B8-032310645B2E
+29637|0|Ms.|Donna|F.|Carreras|NULL|Advanced Bike Components|adventure-works\jillian0|donna0@adventure-works.com|279-555-0130|DF795C3F-BC55-4362-B8AD-3A4DCDCB2FF5
+29638|0|Ms.|Rosmarie|J.|Carroll|NULL|Aerobic Exercise Company|adventure-works\linda3|rosmarie0@adventure-works.com|244-555-0112|3611A221-A20A-463A-AC19-265DB991CCC0
+29639|0|Mr.|Joseph|N.|Castellucio|NULL|Corner Bicycle Supply|adventure-works\josé1|joseph1@adventure-works.com|180-555-0114|16864FBF-49C0-46CA-AC6C-530EB20CAD1B
+29641|0|Mr.|Raul|E.|Casts|NULL|Westside Plaza|adventure-works\shu0|raul0@adventure-works.com|362-555-0162|BD94E4F9-A355-4CDA-8988-9D7B91637F13
+29643|0|Mr.|Matthew|J.|Cavallari|NULL|Outstanding Cycles|adventure-works\david8|matthew1@adventure-works.com|695-555-0161|0396A776-C530-4F99-87DA-FF732F486D85
+29644|0|Ms.|Brigid|F.|Cavendish|NULL|Vigorous Sports Store|adventure-works\jae0|brigid0@adventure-works.com|1 (11) 500 555-0178|D28AA7E1-F125-44AD-A121-544332C2254F
+29645|0|Mr.|Andrew|NULL|Cencini|NULL|Sports Merchandise|adventure-works\pamela0|andrew2@adventure-works.com|644-555-0111|0AB26819-705B-44AD-8B7D-514BE2632220
+29646|0|Ms.|Stacey|M.|Cereghino|NULL|Fitness Toy Store|adventure-works\jillian0|stacey0@adventure-works.com|351-555-0131|F21027CE-0506-4EB6-98D6-6D4E08F7087E
+29649|0|Mr.|Pat|A.|Chambers|NULL|General Cycle Storehouse|adventure-works\garrett1|pat1@adventure-works.com|127-555-0124|895CED36-42B7-44E8-A1E4-81AE5F721A37
+29650|0|Mr.|Forrest|J.|Chandler|NULL|Fitness Cycling|adventure-works\shu0|forrest0@adventure-works.com|448-555-0179|0BA6EC0D-0B9F-4B40-AE69-3079A9EF9B22
+29651|0|Mr.|Lee|J.|Chapla|NULL|Good Bike Shop|adventure-works\jillian0|lee0@adventure-works.com|223-555-0184|50F790E6-1C54-49D1-A0BD-687A3E381C28
+29653|0|Mr.|Pei|NULL|Chow|NULL|Thrilling Bike Tours|adventure-works\linda3|pei0@adventure-works.com|789-555-0184|16FFB394-535A-428D-AA61-96863A7AC191
+29654|0|Mr.|Yao-Qiang|NULL|Cheng|NULL|This Area Sporting Goods|adventure-works\jillian0|yao-qiang0@adventure-works.com|344-555-0181|F92CE3CA-13DD-4E50-B882-8CA0CC320DCB
+29655|0|Ms.|Nicky|E.|Chesnut|NULL|Full-Service Bike Store|adventure-works\michael9|nicky0@adventure-works.com|264-555-0164|A456FE6E-DFFD-4BB0-9585-ABD9229194F8
+29659|0|Ms.|Ruth|A.|Choin|NULL|Genuine Bike Shop|adventure-works\jillian0|ruth1@adventure-works.com|273-555-0181|293F44D5-8949-4FD0-9337-DDACD20FD948
+29660|0|Mr.|Anthony|NULL|Chor|NULL|Extreme Riding Supplies|adventure-works\linda3|anthony0@adventure-works.com|429-555-0145|E24193F1-F5DF-481E-AC1A-BAB86BD72C54
+29662|0|Ms.|Jill|J.|Christie|NULL|Fleet Bikes|adventure-works\linda3|jill1@adventure-works.com|927-555-0198|E4665260-D5A1-4B3D-B727-09407FD598F1
+29663|0|Ms.|Alice|NULL|Clark|NULL|Local Hardware Factory|adventure-works\jillian0|alice1@adventure-works.com|221-555-0141|E7DA5DB3-117A-49F9-A4C7-4D24D1FB75BF
+29666|0|Ms.|Jane|NULL|Clayton|NULL|South Bike Company|adventure-works\garrett1|jane1@adventure-works.com|206-555-0195|D59815EC-776C-403F-AB1F-90712BBAD966
+29668|0|Ms.|Connie|L.|Coffman|NULL|Discount Bicycle Specialists|adventure-works\jillian0|connie0@adventure-works.com|426-555-0181|02628723-F551-4361-A033-76C438616397
+29671|0|Mr.|Pat|NULL|Coleman|NULL|Machines & Cycles Store|adventure-works\garrett1|pat2@adventure-works.com|292-555-0128|1D66E73C-E136-417F-AF0B-AC224D8A7AA3
+29673|0|Mr.|John|L.|Colon|NULL|Two Wheels Cycle Store|adventure-works\linda3|john14@adventure-works.com|397-555-0144|82FF1AAC-744A-447D-87D6-7FAC7C2BAF89
+29674|0|Mr.|Scott|A.|Colvin|NULL|Westside Cycle Store|adventure-works\jillian0|scott1@adventure-works.com|119-555-0144|F786CFB2-375C-4669-BEFC-42832C09F36A
+29677|0|Mr.|William|J.|Conner|NULL|Urban Sports Emporium|adventure-works\josé1|william1@adventure-works.com|383-555-0111|55C0550F-92F6-49BF-A5F9-B88FBF037B04
+29680|0|Ms.|Dorothy|J.|Contreras|NULL|Sixth Bike Store|adventure-works\josé1|dorothy0@adventure-works.com|428-555-0176|E81EFE51-E6D6-4178-822B-280BEF4A62E6
+29682|0|Mr.|Scott|NULL|Cooper|NULL|Vehicle Shop|adventure-works\shu0|scott2@adventure-works.com|773-555-0182|6E0D2D51-9957-4449-A625-2F1493A0419E
+29683|0|Ms.|Eva|NULL|Corets|NULL|First Department Stores|adventure-works\david8|eva0@adventure-works.com|542-555-0164|F5594FBF-D2E8-4D1D-A522-A5F003470401
+29684|0|Mr.|Marlin|M.|Coriell|NULL|Grand Sport Boutique|adventure-works\michael9|marlin0@adventure-works.com|941-555-0155|E2E14D3C-C100-4541-AD38-9CD1BB8C7B9A
+29686|0|Mr.|Jack|NULL|Creasey|NULL|Distinctive Store|adventure-works\shu0|jack2@adventure-works.com|539-555-0182|6F023446-D4C3-43EB-9AD2-1DCE20948111
+29688|0|Mr.|Grant|NULL|Culbertson|NULL|Handy Bike Services|adventure-works\michael9|grant1@adventure-works.com|859-555-0173|D60AE47B-4A9F-44B5-A7AE-3D1091040242
+29689|0|Mr.|Scott|NULL|Culp|NULL|Friendly Bike Shop|adventure-works\david8|scott3@adventure-works.com|119-555-0167|AFD514C0-D0B3-4DFE-A637-BA1622FAE8A1
+29690|0|Mr.|Conor|NULL|Cunningham|NULL|Fashionable Bikes and Accessories|adventure-works\shu0|conor0@adventure-works.com|115-555-0113|BFADDEE5-D70C-4325-9C87-34D99C449391
+29692|0|Mr.|Thierry|NULL|D'Hers|NULL|Citywide Service and Repair|adventure-works\josé1|thierry1@adventure-works.com|680-555-0192|F5589EF1-277F-449E-A042-71571B86449A
+29695|0|Ms.|Megan|N.|Davis|NULL|Rugged Bikes|adventure-works\david8|megan1@adventure-works.com|839-555-0198|27B23835-1295-4527-8FB5-FCA7D91A4C8F
+29696|0|Sr.|Alvaro|NULL|De Matos Miranda Filho|NULL|Principal Bike Company|adventure-works\shu0|alvaro0@adventure-works.com|551-555-0155|C7CBB299-403E-4C27-BAC7-AB690CB7891A
+29698|0|Mr.|Jacob|N.|Dean|NULL|Finer Riding Supplies|adventure-works\josé1|jacob0@adventure-works.com|767-555-0151|68D9D7F4-4E7C-4752-AB9F-EF90CFEDB111
+29699|0|Mr.|Alexander|J.|Deborde|NULL|Neighborhood Store|adventure-works\garrett1|alexander1@adventure-works.com|394-555-0176|719C6825-24A8-4982-8CF6-E7886C4983E7
+29702|0|Ms.|Aidan|NULL|Delaney|NULL|Paint Supply|adventure-works\jillian0|aidan0@adventure-works.com|358-555-0188|0836CDF2-523B-40C5-A491-F9E5D3736333
+29703|0|Mr.|Stefan|NULL|Delmarco|NULL|Preferred Bikes|adventure-works\linda3|stefan0@adventure-works.com|819-555-0186|5A341978-F3D1-4812-BF75-EB00CA9682E3
+29705|0|Ms.|Della|F.|Demott Jr|NULL|Rewarding Activities Company|adventure-works\garrett1|della0@adventure-works.com|752-555-0185|52E54E40-7914-4340-B5D8-F460753F849D
+29708|0|Mr.|Prashanth|NULL|Desai|NULL|Stationary Bikes and Stands|adventure-works\jillian0|prashanth0@adventure-works.com|138-555-0156|633E70BB-508F-45A9-9E1B-94AFD9513A01
+29709|0|Ms.|Bev|L.|Desalvo|NULL|Successful Sales Company|adventure-works\pamela0|bev0@adventure-works.com|143-555-0113|139742BF-9980-4D0A-9A76-1E8C9701504B
+29710|0|Ms.|Brenda|NULL|Diaz|NULL|Downtown Hotel|adventure-works\shu0|brenda2@adventure-works.com|147-555-0192|A37A4F71-12A9-4055-BCA8-C18B79098AF1
+29711|0|Ms.|Gabriele|NULL|Dickmann|NULL|Certified Sports Supply|adventure-works\josé1|gabriele0@adventure-works.com|835-555-0116|B34DF238-E77E-4832-8184-487F0321F98F
+29713|0|Mr.|Dick|NULL|Dievendorff|NULL|Rampart Amusement Company|adventure-works\jae0|dick1@adventure-works.com|1 (11) 500 555-0193|31D75DE8-5F8D-4513-AB55-4269D29BAFFD
+29714|0|Mr.|Rudolph|J.|Dillon|Sr.|Sundry Sporting Goods|adventure-works\josé1|rudolph0@adventure-works.com|722-555-0169|DF3FEDCE-E229-4EE7-8F01-402C29B7187F
+29716|0|Mr.|Blaine|NULL|Dockter|NULL|Farthermost Bike Shop|adventure-works\shu0|blaine0@adventure-works.com|156-555-0187|803D1CD3-8C99-48F1-945B-85EDBE393AF8
+29717|0|Ms.|Cindy|M.|Dodd|NULL|Suburban Cycle Shop|adventure-works\david8|cindy0@adventure-works.com|706-555-0140|3E2C8BED-D9A3-43E1-88C9-D99BB37DECF2
+29719|0|Ms.|Patricia|NULL|Doyle|NULL|Racing Bike Outlet|adventure-works\david8|patricia0@adventure-works.com|899-555-0134|D839E525-0420-4FF9-858F-8226EABE8C70
+29720|0|Mr.|Gerald|M.|Drury|NULL|Utilitarian Sporting Goods|adventure-works\shu0|gerald0@adventure-works.com|169-555-0178|780CC0A0-5F32-4A54-9CF9-BD4E6090BF69
+29722|0|Mr.|Reuben|NULL|D'sa|NULL|Vigorous Exercise Company|adventure-works\josé1|reuben1@adventure-works.com|916-555-0137|68396E18-907F-4CD5-A5F8-84D7969DAC11
+29727|0|Mr.|Bart|NULL|Duncan|NULL|Stock Parts and Supplies|adventure-works\david8|bart0@adventure-works.com|539-555-0121|CA138A8B-0D82-45B4-92E2-4DE3A3FDC2F6
+29728|0|Mr.|Maciej|NULL|Dusza|NULL|Roadway Supplies|adventure-works\shu0|maciej1@adventure-works.com|962-555-0144|E7FB711F-AC12-408A-A6F1-8AF3428DDACB
+29730|0|Ms.|Linda|R.|Ecoffey|NULL|Future Bikes|adventure-works\josé1|linda5@adventure-works.com|674-555-0188|651C8184-9BF1-4A57-982D-E0F35E06FCEA
+29732|0|Ms.|Carol|B.|Elliott|NULL|Satin Finish Company|adventure-works\jillian0|carol2@adventure-works.com|847-555-0151|6515368A-C51E-4B53-858F-377067379799
+29733|0|Ms.|Shannon|P.|Elliott|NULL|Regional Manufacturing|adventure-works\shu0|shannon0@adventure-works.com|425-555-0158|E8F81644-1D44-4D25-9756-5897E20FBAAE
+29734|0|Ms.|Jauna|E.|Elson|NULL|Original Bicycle Supply Company|adventure-works\josé1|jauna0@adventure-works.com|185-555-0190|789F3CEE-056D-48CB-8805-1F69B61D020F
+29736|0|Mr.|Terry|NULL|Eminhizer|NULL|Action Bicycle Specialists|adventure-works\jae0|terry1@adventure-works.com|1 (11) 500 555-0176|2252470B-71F6-4077-A744-613525A2DF0D
+29737|0|Mr.|John|NULL|Emory|NULL|Roadway Bike Emporium|adventure-works\pamela0|john16@adventure-works.com|691-555-0149|31F1935F-6C9A-43D7-8308-4EE7CD05AC56
+29738|0|Ms.|Gail|NULL|Erickson|NULL|Sleek Bikes |adventure-works\jillian0|gail1@adventure-works.com|834-555-0132|45670EE4-0A61-4029-BB82-CBF857D17C3F
+29739|0|Mr.|Mark|B|Erickson|NULL|Retail Sporting Equipment|adventure-works\shu0|mark2@adventure-works.com|962-555-0112|230503E0-1713-45AF-AB88-E424CB7EE88F
+29740|0|Ms.|Martha|R.|Espinoza|NULL|Price-Cutter Discount Bikes|adventure-works\josé1|martha0@adventure-works.com|753-555-0179|AE422EA0-D7C2-4804-8E11-3354822A72AE
+29741|0|Sra.|Janeth|NULL|Esteves|NULL|Central Bicycle Specialists|adventure-works\jae0|janeth1@adventure-works.com|1 (11) 500 555-0136|7D8C6B41-4D65-4F2C-AB91-5FCE276B5BF5
+29742|0|Ms.|Twanna|R.|Evans|NULL|Vast Bike Sales and Rental|adventure-works\pamela0|twanna0@adventure-works.com|554-555-0124|6E7EB054-AB8E-4F7B-9B94-36010B817829
+29743|0|Ms.|Ann|R.|Evans|NULL|Summer Sports Place|adventure-works\jillian0|ann1@adventure-works.com|252-555-0127|E67FFF84-4C4B-4DA1-BECB-F9D46C8532F0
+29744|0|Mr.|John|NULL|Evans|NULL|Real Sporting Goods|adventure-works\shu0|john17@adventure-works.com|581-555-0172|05B8AF66-8AB7-4DEB-9A8B-55F5BE12E0CF
+29747|0|Ms.|Carolyn|NULL|Farino|NULL|The Bike Shop|adventure-works\david8|carolyn0@adventure-works.com|957-555-0125|6DA910EF-E6F8-438D-AB3C-82725C41BC6D
+29748|0|Ms.|Geri|P.|Farrell|NULL|Safe Toys|adventure-works\shu0|geri0@adventure-works.com|329-555-0183|A33442C5-66E8-4FE6-8956-DF59E10C31FC
+29750|0|Ms.|Rhoda|J.|Finley|NULL|Our Sporting Goods Store|adventure-works\josé1|rhoda0@adventure-works.com|920-555-0191|6ABBCF8F-46D6-4643-938F-F36CEACD4385
+29753|0|Ms.|Kathie|NULL|Flood|NULL|Coho Sports|adventure-works\david8|kathie1@adventure-works.com|627-555-0192|F9FEE375-1E4C-433F-BA88-6289A7572081
+29755|0|Ms.|Kelly|NULL|Focht|NULL|Quick Delivery Service|adventure-works\garrett1|kelly0@adventure-works.com|272-555-0123|470125B0-0659-4794-A945-6F726920C983
+29757|0|Mr.|Garth|NULL|Fort|NULL|Basic Sports Equipment|adventure-works\linda3|garth0@adventure-works.com|768-555-0125|F90748FF-6A57-4A62-80D9-BDB134E1408D
+29758|0|Ms.|Dorothy|J.|Fox|NULL|Cash & Carry Bikes|adventure-works\jillian0|dorothy1@adventure-works.com|191-555-0198|2FE3A6BA-4D59-4BCE-83FC-98A8471DAB30
+29761|0|Ms.|Susan|E.|French|NULL|General Bike Corporation|adventure-works\garrett1|susan3@adventure-works.com|994-555-0194|C994CD65-AC9D-4560-909C-6F2090A516FF
+29763|0|Mr.|Mihail|NULL|Frintu|NULL|Retail Cycle Shop|adventure-works\linda3|mihail1@adventure-works.com|777-555-0163|4611605F-4D45-4DD1-80FD-B418FE4AF0BA
+29764|0|Mr.|John|NULL|Ford|NULL|Social Activities Club|adventure-works\jillian0|john19@adventure-works.com|596-555-0153|9EABC427-1257-4628-8BEB-88A9990A601C
+29765|0|Mr.|Paul|J.|Fulton|NULL|Blue Bicycle Company|adventure-works\michael9|paul3@adventure-works.com|492-555-0146|97C380B3-7CCF-4E10-8D3F-2F0734C9AB0A
+29766|0|Mr.|Bob|NULL|Gage|NULL|General Riding Supplies|adventure-works\garrett1|bob1@adventure-works.com|962-555-0175|9EFB3752-7F40-4E64-B9E2-383A6DF6AEFA
+29768|0|Mr.|Michael|NULL|Galos|NULL|Riding Excursions|adventure-works\linda3|michael15@adventure-works.com|912-555-0149|C5614F21-602E-49E6-9021-B405BE529B46
+29769|0|Mr.|Jon|NULL|Ganio|NULL|Unique Bikes|adventure-works\jillian0|jon0@adventure-works.com|672-555-0112|8C81DD5F-EA36-47B0-A5F1-7583BC5DABC2
+29770|0|Ms.|Kathleen|M.|Garza|NULL|Rural Cycle Emporium|adventure-works\josé1|kathleen0@adventure-works.com|150-555-0127|7B3994CC-51C3-4C0A-9665-3A3D71F85677
+29771|0|Mr.|Dominic|P.|Gash|NULL|Associated Bikes|adventure-works\shu0|dominic0@adventure-works.com|192-555-0173|281316F0-4FA6-42FD-8B3A-B532B38A7F84
+29772|0|Ms.|Janet|M.|Gates|NULL|Modular Cycle Systems|adventure-works\jillian0|janet1@adventure-works.com|710-555-0173|949E9AC8-F8F6-4F7F-BA2D-87187AC56919
+29773|0|Mr.|Orlando|N.|Gee|NULL|A Bike Store|adventure-works\pamela0|orlando0@adventure-works.com|245-555-0173|B956A64D-040C-4230-AC9B-B927F7DD1BA7
+29774|0|Mr.|Darren|NULL|Gehring|NULL|Journey Sporting Goods|adventure-works\jillian0|darren0@adventure-works.com|417-555-0182|244B87FF-CD2F-4993-913E-685BFC4ADD83
+29775|0|Mr.|Jim|NULL|Geist|NULL|Two Bike Shops|adventure-works\pamela0|jim1@adventure-works.com|724-555-0161|A305BDD1-9295-4F69-9D6F-44DF37B99E21
+29776|0|Ms.|Barbara|J.|German|NULL|Cycles Wholesaler & Mfg.|adventure-works\jae0|barbara4@adventure-works.com|1 (11) 500 555-0181|94389425-D35B-4F7B-A116-CA067050B8D5
+29778|0|Mr.|Leo|NULL|Giakoumakis|NULL|Number One Bike Co.|adventure-works\jae0|leo0@adventure-works.com|1 (11) 500 555-0169|6ACC4810-DDDF-4202-9DAA-8261B2FFE2C6
+29780|0|Mr.|Frances|J.|Giglio|NULL|Standard Bikes|adventure-works\josé1|frances1@adventure-works.com|692-555-0136|CB6D6A16-6722-457B-94BF-03F5CAC268A3
+29781|0|Mr.|Guy|NULL|Gilbert|NULL|The Bicycle Accessories Company|adventure-works\shu0|guy0@adventure-works.com|583-555-0198|68835187-35C9-4C57-A0CF-CB9EB2E713D7
+29782|0|Ms.|Janet|J.|Gilliat|NULL|Active Systems|adventure-works\jillian0|janet2@adventure-works.com|521-555-0183|A96F3B09-7114-4335-93B5-35463F4D4063
+29783|0|Ms.|Mary|M.|Gimmi|NULL|Futuristic Sport Distributors|adventure-works\shu0|mary6@adventure-works.com|149-555-0196|805255FB-6C18-45AE-88F3-C70D3D9F04CD
+29784|0|Ms.|Jeanie|R.|Glenn|PhD|Big-Time Bike Store|adventure-works\shu0|jeanie0@adventure-works.com|669-555-0149|45F0A45D-6EC0-4F4C-A5AB-00B128AF62FD
+29785|0|Ms.|Diane|R.|Glimp|NULL|The Showroom|adventure-works\josé1|diane3@adventure-works.com|898-555-0137|0C3EF14A-932C-45F0-8B28-5867136C07BA
+29787|0|Mr.|Scott|NULL|Gode|NULL|Year-Round Sports|adventure-works\david8|scott4@adventure-works.com|164-555-0145|1A5A9944-00ED-40B0-8193-1CC44ECC390A
+29788|0|Mr.|Mete|NULL|Goktepe|NULL|The New Bike Store|adventure-works\linda3|mete0@adventure-works.com|637-555-0120|32D1FAB8-B86B-4C09-8140-E169AF24850C
+29789|0|Mr.|Brian|R|Goldstein|NULL|Primary Bike Distributors|adventure-works\garrett1|brian4@adventure-works.com|495-555-0161|30B8D273-0502-4641-AABD-FF4097F0B9D1
+29792|0|Ms.|Abigail|J.|Gonzalez|NULL|Genial Bike Associates|adventure-works\jillian0|abigail0@adventure-works.com|121-555-0139|656B9F38-EC67-459A-B467-E2119D0504D0
+29793|0|Mr.|Michael|NULL|Graff|NULL|Commercial Sporting Goods|adventure-works\shu0|michael16@adventure-works.com|132-555-0150|07BEBA09-2CEB-434B-A9A5-EB864C0E88D2
+29794|0|Mr.|Derek|NULL|Graham|NULL|Wholesale Parts|adventure-works\josé1|derek0@adventure-works.com|674-555-0187|672D41A8-2F15-474A-AD2F-934E2BDA6A4B
+29796|0|Mr.|Jon|NULL|Grande|NULL|Riding Cycles|adventure-works\jae0|jon1@adventure-works.com|1 (11) 500 555-0114|A580DD97-441A-4CF8-9D9E-7E1EBE6CEC43
+29797|0|Ms.|Jane|P.|Greer|NULL|Metro Manufacturing|adventure-works\josé1|jane2@adventure-works.com|737-555-0163|C96F6AC7-EECE-4218-8B74-8607255F5CF9
+29799|0|Mr.|Douglas|NULL|Groncki|NULL|Locks Company|adventure-works\shu0|douglas2@adventure-works.com|385-555-0140|93813C3C-DDBD-4CEA-814D-2AEAE1483709
+29800|0|Mr.|Brian|NULL|Groth|NULL|Latest Accessories Sales|adventure-works\david8|brian5@adventure-works.com|461-555-0118|F9C425CC-9DC8-468C-AC9D-6D7170C46CAC
+29803|0|Ms.|Hattie|J.|Haemon|NULL|Greater Bike Store|adventure-works\josé1|hattie0@adventure-works.com|141-555-0172|DE649D6B-0F40-4170-A584-4AF87DF50083
+29805|0|Ms.|Erin|M.|Hagens|NULL|Distant Inn|adventure-works\shu0|erin1@adventure-works.com|244-555-0127|3E2CC8AF-269E-4554-B536-C3CF0E8E8995
+29806|0|Ms.|Betty|M.|Haines|NULL|Finer Mart|adventure-works\david8|betty0@adventure-works.com|867-555-0114|1DFC1ABB-AC04-4940-8882-2231B67208FA
+29807|0|Mr.|Bryan|NULL|Hamilton|NULL|Cross-Country Riding Supplies|adventure-works\josé1|bryan2@adventure-works.com|344-555-0144|0F507872-3457-4BCC-B201-FA56CB4EAC34
+29809|0|Mr.|Kerim|NULL|Hanif|NULL|Bike World|adventure-works\shu0|kerim0@adventure-works.com|216-555-0122|D1453537-6387-4312-B6A9-6FF3688B074A
+29810|0|Ms.|Jean|P.|Handley|NULL|Central Discount Store|adventure-works\david8|jean1@adventure-works.com|582-555-0113|9A2FC10A-6B58-4B39-8BF9-DA3ABE5D58FA
+29813|0|Ms.|Katherine|NULL|Harding|NULL|Sharp Bikes|adventure-works\josé1|katherine0@adventure-works.com|926-555-0159|7FDA6311-55EB-4F2B-ADEB-050332BFAC56
+29815|0|Mr.|Lucy|NULL|Harrington|NULL|Metropolitan Sports Supply|adventure-works\shu0|lucy0@adventure-works.com|828-555-0186|83810B74-5BAD-481C-9035-12CD5124F5D5
+29816|0|Mr.|Keith|NULL|Harris|NULL|Progressive Sports|adventure-works\david8|keith0@adventure-works.com|170-555-0127|E10291DA-B850-451C-9A22-DD4E1DBA22CC
+29818|0|Mr.|Roger|NULL|Harui|NULL|Brakes and Gears|adventure-works\linda3|roger0@adventure-works.com|774-555-0133|A57036D7-1E64-41DF-9FF5-DA7340A9EAC5
+29819|0|Ms.|Ann|T.|Hass|NULL|The Accessories Store|adventure-works\jillian0|ann2@adventure-works.com|713-555-0168|6980C636-0E9D-41CE-8FBD-3B07AFC1A681
+29822|0|Mr.|James|B.|Haugh|Jr.|Family Cycle Store|adventure-works\garrett1|james8@adventure-works.com|763-555-0120|EFDB88D8-C3B7-4F83-AC33-1E85AE65D6B9
+29824|0|Ms.|Brenda|F.|Heaney|NULL|Superb Sales and Repair|adventure-works\garrett1|brenda3@adventure-works.com|393-555-0167|491A2969-9914-4234-8C1D-9F0349F02C55
+29826|0|Mr.|John|NULL|Hanson|NULL|Countryside Company|adventure-works\linda3|john20@adventure-works.com|107-555-0117|2C442176-E8EA-4613-A237-308E90E8A387
+29827|0|Ms.|Valerie|M.|Hendricks|NULL|First Bike Store|adventure-works\jillian0|valerie0@adventure-works.com|859-555-0140|E62A4E9F-FF47-419B-9A27-54B849611F87
+29830|0|Mr.|Kari|NULL|Hensien|NULL|General Department Stores|adventure-works\garrett1|kari0@adventure-works.com|143-555-0129|6BB1B29F-7821-4344-AD8F-6D0EA72FF6E4
+29831|0|Ms.|Irene|J.|Hernandez|NULL|Operational Manufacturing|adventure-works\garrett1|irene0@adventure-works.com|790-555-0197|89A6DC5E-0D18-43EF-B959-232F9599DF30
+29832|0|Mr.|Jésus|NULL|Hernandez|NULL|Online Bike Warehouse|adventure-works\josé1|jésus0@adventure-works.com|214-555-0145|B6CC3146-FFE6-49A6-9D8E-1879EF993BF4
+29834|0|Ms.|Cheryl|M.|Herring|NULL|Small Bike Shop|adventure-works\shu0|cheryl0@adventure-works.com|158-555-0154|15A5CC63-89D5-4348-857F-C8EAF4F856C2
+29835|0|Mr.|Ronald|K.|Heymsfield|NULL|Superior Hardware Distributors|adventure-works\david8|ronald1@adventure-works.com|784-555-0120|1AB8FDBD-5DE5-4978-8CBA-1F11E9B088D8
+29840|0|Mr.|Andrew|R.|Hill|NULL|Eastside Parts Shop|adventure-works\josé1|andrew4@adventure-works.com|194-555-0149|5DD7F0FD-E9EB-4F47-ADFE-E8AA50608C64
+29842|0|Mr.|Mike|NULL|Hines|NULL|First Cycle Store|adventure-works\shu0|mike3@adventure-works.com|454-555-0160|5D6433E4-A1A5-43EB-9056-78F234C9150E
+29843|0|Mr.|Matthew|NULL|Hink|NULL|Running and Cycling Gear|adventure-works\david8|matthew3@adventure-works.com|146-555-0176|F2C13E63-AE28-4A72-B011-D6377449AB90
+29847|0|Mr.|David|NULL|Hodgson|NULL|Good Toys|adventure-works\linda3|david16@adventure-works.com|969-555-0117|FDD7D9CB-9A81-40FC-BAF6-FACDE8DA4923
+29848|0|Ms.|Helge|NULL|Hoeing|NULL|Little Bicycle Supply Shop|adventure-works\jillian0|helge0@adventure-works.com|850-555-0198|142B9355-5D6B-4E97-9091-9459B32B1F33
+29850|0|Mr.|Bob|NULL|Hodges|NULL|All Seasons Sports Supply|adventure-works\jillian0|bob2@adventure-works.com|129-555-0120|2790EC9D-DA39-4AE2-9FF8-E810A3B61CD5
+29851|0|Ms.|Jean|J.|Holloway|NULL|Leisure Clearing House|adventure-works\jae0|jean2@adventure-works.com|1 (11) 500 555-0181|7B7381B3-75E4-4017-A79C-07E195AC97CD
+29852|0|Mr.|Eddie|M.|Holmes|NULL|The Commissary|adventure-works\josé1|eddie0@adventure-works.com|570-555-0199|E889CC1C-4CA1-4684-97BC-26E65D7CE755
+29853|0|Ms.|Juanita|J.|Holman|NULL|Affordable Sports Equipment|adventure-works\shu0|juanita0@adventure-works.com|996-555-0196|29804847-B115-4EE5-BF5D-370C178900DE
+29854|0|Mr.|Peter|NULL|Houston|NULL|Local Sales and Rental|adventure-works\jillian0|peter3@adventure-works.com|632-555-0171|08719008-3F75-4722-A65D-B179B6B1DC15
+29855|0|Mr.|Curtis|P.|Howard|NULL|Economy Center|adventure-works\josé1|curtis0@adventure-works.com|555-555-0162|68A5104E-08B0-41E8-92D0-494A00818E1D
+29857|0|Ms.|Janice|K.|Hows|NULL|Area Sheet Metal Supply|adventure-works\jae0|janice1@adventure-works.com|1 (11) 500 555-0119|5DCBABCC-3118-4B84-A488-A9FADA3A15F1
+29858|0|Mr.|George|M.|Huckaby|NULL|Synthetic Materials Manufacturing|adventure-works\pamela0|george1@adventure-works.com|851-555-0127|44A21C41-BFC8-4551-89AD-344C26966A74
+29859|0|Mr.|Joshua|J.|Huff|NULL|Rural Sales and Service|adventure-works\jillian0|joshua0@adventure-works.com|190-555-0186|B5E28EBD-35EC-4B57-B606-3E05DBCA429C
+29860|0|Ms.|Arlene|NULL|Huff|NULL|Tubeless Tire Company|adventure-works\jae0|arlene0@adventure-works.com|1 (11) 500 555-0146|F9CFD187-277B-410A-939A-3BC608987DC6
+29861|0|Ms.|Phyllis|R.|Huntsman|NULL|Hardware Components|adventure-works\jillian0|phyllis1@adventure-works.com|153-555-0195|80633C99-08B5-4672-B4C2-F3C64CECC98F
+29862|0|Mr.|Lawrence|E.|Hurkett|NULL|Retail Sporting Goods|adventure-works\shu0|lawrence0@adventure-works.com|129-555-0185|C45CC725-AA9A-46A8-8254-84577705A94F
+29863|0|Mr.|Ryan|NULL|Ihrig|NULL|Efficient Cycling|adventure-works\josé1|ryan4@adventure-works.com|809-555-0152|9A89286E-FC9B-4A12-B2FE-BD1422CA061E
+29864|0|Ms.|Beth|NULL|Inghram|NULL|General Industries|adventure-works\josé1|beth0@adventure-works.com|718-555-0152|7DD63C65-3017-4787-A09E-57EFCDB7A1FA
+29865|0|Mr.|Lucio|NULL|Iallo|NULL|Highway Bike Shop|adventure-works\shu0|lucio0@adventure-works.com|199-555-0135|319FECC0-A652-417F-AF3A-4AA99B2FF8DC
+29866|0|Mr.|Richard|L.|Irwin|NULL|Rental Bikes|adventure-works\jillian0|richard4@adventure-works.com|367-555-0124|5F5BE7AD-3CD2-481C-93D2-66208B113DF8
+29867|0|Mr.|Erik|NULL|Ismert|NULL|Roving Sports|adventure-works\pamela0|erik0@adventure-works.com|116-555-0163|8F805F22-745B-42AD-8130-AD8A7967B011
+29868|0|Ms.|Denean|J.|Ison|NULL|Express Bike Services|adventure-works\jae0|denean0@adventure-works.com|1 (11) 500 555-0127|50B31B69-D44A-48A5-9B9B-6939D52B6CCA
+29870|0|Mr.|Bronson|R.|Jacobs|NULL|Retail Discount Store|adventure-works\josé1|bronson0@adventure-works.com|697-555-0131|2B812910-AA99-4AE3-9A79-D39F0C95987A
+29871|0|Mr.|Eric|A.|Jacobsen|NULL|Vale Riding Supplies|adventure-works\shu0|eric5@adventure-works.com|703-555-0120|AA2D309C-61D0-4DDF-A8E3-725E5763B6FF
+29872|0|Ms.|Jodan|M.|Jacobson|NULL|A Great Bicycle Company|adventure-works\jillian0|jodan0@adventure-works.com|652-555-0189|D6A9A137-A2D8-4DDF-8490-A54B1112CB39
+29873|0|Ms.|Mary|NULL|Alexander|NULL|Certified Bicycle Supply|adventure-works\pamela0|mary7@adventure-works.com|344-555-0133|26EDD45C-0D00-48FE-9E65-8DDD0F813ACD
+29874|0|Mr.|David|NULL|Jaffe|NULL|Exceptional Cycle Services|adventure-works\jae0|david17@adventure-works.com|1 (11) 500 555-0140|50C6EB16-1E62-4E5E-BD58-363288ECEAEA
+29876|0|Ms.|Vance|P.|Johns|NULL|Leisure Activities|adventure-works\josé1|vance0@adventure-works.com|103-555-0151|356088D1-23E5-4D45-86F2-E73D843CA4F5
+29877|0|Ms.|Joyce|NULL|Jarvis|NULL|Paints and Solvents Company|adventure-works\shu0|joyce0@adventure-works.com|458-555-0179|C2E1E791-19C2-4E4B-81D1-96B98537FD41
+29879|0|Mr.|Stephen|Yuan|Jiang|NULL|Bikes for Kids and Adults|adventure-works\josé1|stephen3@adventure-works.com|910-555-0116|26C5A2AA-E63E-4207-BA56-AA3A6EECA363
+29881|0|Ms.|Danielle|B.|Johnson|NULL|Home Town Bike Store|adventure-works\garrett1|danielle1@adventure-works.com|356-555-0190|15C9A0F9-C354-4EF3-87F6-A97398114F51
+29883|0|Mr.|Barry|NULL|Johnson|NULL|Sample Bike Store|adventure-works\linda3|barry1@adventure-works.com|858-555-0140|7814ACA5-869E-4DF2-B7C9-61B001F90F04
+29884|0|Mr.|Brian|NULL|Johnson|NULL|Extras Sporting Goods|adventure-works\jillian0|brian6@adventure-works.com|320-555-0134|0BA43373-59D8-4B12-9723-60C6A2BDAF17
+29885|0|Mr.|David|NULL|Johnson|NULL|Sure & Reliable Sporting Goods|adventure-works\david8|david18@adventure-works.com|476-555-0139|26C1FA1F-BF3D-40C7-BAE0-6DFD2FB3709B
+29889|0|Ms.|Jean|NULL|Jordan|NULL|Separate Parts Corporation|adventure-works\shu0|jean3@adventure-works.com|207-555-0129|CB6B9285-24EE-4795-8A96-499A11746331
+29890|0|Ms.|Peggy|J.|Justice|NULL|Basic Bike Company|adventure-works\david8|peggy0@adventure-works.com|170-555-0189|D52D3EEA-DD3F-499C-9772-87DC5F43C6AE
+29891|0|Ms.|Diane|F.|Krane|NULL|Fabrikam Inc., West|adventure-works\michael9|diane4@adventure-works.com|224-555-0126|D4B5CF9D-EE5F-4615-92E0-8574B5DFA705
+29892|0|Ms.|Sandra|T.|Kitt|NULL|Non-Slip Pedal Company|adventure-works\josé1|sandra2@adventure-works.com|303-555-0117|916F4D7F-0CEA-40FE-8B4C-7C274813B876
+29893|0|Mr.|Sandeep|NULL|Kaliyath|NULL|Weekend Bike Tours|adventure-works\shu0|sandeep1@adventure-works.com|495-555-0113|4593AED0-75D0-4BCD-9AA0-8F2DF04BB8CC
+29895|0|Ms.|Lori|NULL|Kane|NULL|General Supplies|adventure-works\josé1|lori2@adventure-works.com|765-555-0141|DB806B71-4B0C-472B-B77B-F72B8A10F2E5
+29897|0|Ms.|Kay|E.|Krane|NULL|Racing Toys|adventure-works\shu0|kay0@adventure-works.com|731-555-0187|91592DA3-A8EB-4604-A95C-0AE09D2D31B6
+29898|0|Mr.|Sandeep|NULL|Katyal|NULL|Capable Sales and Service|adventure-works\pamela0|sandeep2@adventure-works.com|928-555-0117|2B2B0574-1062-4867-A352-18198B0F271A
+29900|0|Mr.|Victor|A.|Kelley|NULL|Road Way Sales and Rental|adventure-works\josé1|victor0@adventure-works.com|112-555-0195|B38782B7-6B43-4CA2-9069-5AF4359E97B3
+29901|0|Mr.|John|NULL|Kelly|NULL|Sturdy Toys|adventure-works\shu0|john22@adventure-works.com|330-555-0116|8CE51EE0-13B9-4A4E-9B47-3A02439089A7
+29902|0|Mr.|Robert|NULL|Kelly|NULL|Beneficial Exercises and Activities|adventure-works\jillian0|robert7@adventure-works.com|510-555-0123|723A4C7F-288A-4E05-A895-41F170C44162
+29903|0|Mr.|Kevin|NULL|Kennedy|NULL|Fad Outlet|adventure-works\pamela0|kevin4@adventure-works.com|275-555-0179|7492859B-F990-4993-96FD-861217EB4825
+29904|0|Ms.|Mary|R.|Kesslep|NULL|Commerce Bicycle Specialists|adventure-works\jae0|mary8@adventure-works.com|1 (11) 500 555-0146|81464994-524B-4735-A5A7-1E88770AE0B0
+29905|0|Ms.|Elizabeth|NULL|Keyser|NULL|Acceptable Sales & Service|adventure-works\josé1|elizabeth2@adventure-works.com|656-555-0173|B7428672-4B4E-4917-BBE5-80932183E7DB
+29906|0|Mr.|Imtiaz|NULL|Khan|NULL|District Mall|adventure-works\jillian0|imtiaz0@adventure-works.com|249-555-0179|FD02037F-6C68-43AE-8007-797A28CFD117
+29907|0|Ms.|Karan|NULL|Khanna|NULL|Fitness Supplies|adventure-works\pamela0|karan1@adventure-works.com|390-555-0150|274AD75A-5647-4DC9-81C9-4FB6919375DB
+29908|0|Mr.|Joe|NULL|Kim|NULL|Mail Market|adventure-works\jae0|joe1@adventure-works.com|1 (11) 500 555-0144|F02107B3-5F5C-48D2-AEDB-58FC3E25C652
+29910|0|Mr.|Shane|S.|Kim|NULL|Twelfth Bike Store|adventure-works\josé1|shane2@adventure-works.com|155-555-0149|2F9D7A0F-E131-438E-9B03-D813329B3A3C
+29911|0|Mr.|Tim|NULL|Kim|NULL|Consolidated Messenger|adventure-works\garrett1|tim0@adventure-works.com|244-555-0115|55A68202-60E6-4439-BFCC-8C0A69AA7EBD
+29913|0|Mr.|Anton|NULL|Kirilov|NULL|Field Trip Store|adventure-works\linda3|anton0@adventure-works.com|608-555-0162|C705B4C9-B341-4327-8635-DE0D0C879075
+29914|0|Mr.|Christian|NULL|Kleinerman|NULL|Finish and Sealant Products|adventure-works\shu0|christian1@adventure-works.com|362-555-0177|A4ED5B4F-19A2-4C26-A323-E952A84E6DD7
+29915|0|Mr.|Andrew|P.|Kobylinski|NULL|Finer Parts Shop|adventure-works\david8|andrew5@adventure-works.com|129-555-0185|57C6F330-66ED-4B3E-8FBF-C01932E3C175
+29918|0|Mr.|Kirk|T|King|NULL|Up-To-Date Sports|adventure-works\josé1|kirk2@adventure-works.com|979-555-0163|8F6A1402-DD2E-4098-821A-9A58FD67B3F7
+29919|0|Mr.|Eugene|NULL|Kogan|NULL|Mountain Bike Center|adventure-works\shu0|eugene2@adventure-works.com|136-555-0134|5D0FA571-03D2-4614-8309-ABB42881AE6A
+29920|0|Mr.|Scott|NULL|Konersmann|NULL|Specialty Sports Store|adventure-works\jillian0|scott6@adventure-works.com|556-555-0192|849BF03B-C4E8-4267-9B6F-D9EF87ADCF11
+29921|0|Ms.|Joy|R.|Koski|NULL|Scooters and Bikes Store|adventure-works\pamela0|joy0@adventure-works.com|810-555-0198|D4EFE5EE-0773-4D09-92F9-A7192D7F7F39
+29922|0|Ms.|Pamala|M.|Kotc|NULL|Closest Bicycle Store|adventure-works\jae0|pamala0@adventure-works.com|1 (11) 500 555-0173|D532C98A-DB1A-46D5-8F34-A2E2D63DF722
+29924|0|Mr.|Mitch|NULL|Kennedy|NULL|Reasonable Bicycle Sales|adventure-works\shu0|mitch0@adventure-works.com|996-555-0192|E2EE9816-381F-400F-905A-59DCB42BE29B
+29925|0|Ms.|Margaret|T.|Krupka|NULL|Outdoor Sports Supply|adventure-works\pamela0|margaret1@adventure-works.com|107-555-0132|13322D86-46C0-4E9C-A8BE-C67843616D80
+29926|0|Mr.|Deepak|NULL|Kumar|NULL|Outdoor Aerobic Systems Company|adventure-works\jae0|deepak0@adventure-works.com|1 (11) 500 555-0122|25036429-A092-4D75-BF32-4136C15C3C1A
+29928|0|Mr.|Vamsi|NULL|Kuppa|NULL|Metal Clearing House|adventure-works\josé1|vamsi1@adventure-works.com|290-555-0196|3CE63665-21B9-4502-9AEC-6C7D73328850
+29929|0|Mr.|Jeffrey|NULL|Kurtz|NULL|Many Bikes Store|adventure-works\shu0|jeffrey3@adventure-works.com|452-555-0179|AE0F0317-2254-4D4F-9F4D-B01BBB10B3A0
+29930|0|Mr.|Peter|NULL|Kurniawan|NULL|Largest Bike Store|adventure-works\jillian0|peter4@adventure-works.com|436-555-0160|5DEF9D3E-0485-4CBE-9EC1-E5B1F01B3003
+29931|0|Mr.|Eric|NULL|Lang|NULL|Kickstands and Accessories Company|adventure-works\pamela0|eric6@adventure-works.com|932-555-0163|7A417F32-0878-45FF-A994-34ED19C5BB11
+29932|0|Ms.|Rebecca|NULL|Laszlo|NULL|Instruments and Parts Company|adventure-works\jae0|rebecca2@adventure-works.com|1 (11) 500 555-0155|998BB200-E2AD-4E26-8266-CE8BF95CA4DE
+29934|0|Mr.|David|O|Lawrence|NULL|Gear-Shift Bikes Limited|adventure-works\josé1|david19@adventure-works.com|653-555-0159|9FBD68B6-4626-4E37-AF6C-B6C0F127A40A
+29935|0|Ms.|Elsa|NULL|Leavitt|NULL|Frugal Bike Shop|adventure-works\shu0|elsa0@adventure-works.com|482-555-0174|70394DAC-8CBD-4C81-8A27-B1F8B5C041E8
+29936|0|Mr.|Michael|J.|Lee|NULL|Family Entertainment Center|adventure-works\pamela0|michael18@adventure-works.com|396-555-0139|91C863DB-F3F6-4EB6-B0F7-0A3EEF38E71B
+29937|0|Ms.|Marjorie|M.|Lee|NULL|Go-cart and Bike Specialists|adventure-works\jillian0|marjorie0@adventure-works.com|306-555-0166|B0E44FA0-449A-4BA2-8765-BB2EC784EB0F
+29938|0|Mr.|Frank|NULL|Campbell|NULL|Trailblazing Sports|adventure-works\shu0|frank4@adventure-works.com|491-555-0132|8739BCCD-A0F4-496D-875E-46963B2F9723
+29939|0|Mr.|Mark|NULL|Lee|NULL|Racing Partners|adventure-works\josé1|mark5@adventure-works.com|371-555-0112|5BA91047-0E9F-40F1-8D9C-2A493FC9343C
+29941|0|Ms.|Jolie|NULL|Lenehan|NULL|Exhibition Showroom|adventure-works\jae0|jolie0@adventure-works.com|1 (11) 500 555-0126|580D71E8-A211-4876-9C03-8EDC7D65F050
+29942|0|Mr.|Roger|NULL|Lengel|NULL|Authorized Bike Sales and Rental|adventure-works\pamela0|roger1@adventure-works.com|947-555-0143|E5CE6BE8-E780-4358-B521-8E4878B2AF04
+29943|0|NULL|A.|Francesca|Leonetti|NULL|Two-Seater Bikes|adventure-works\jillian0|a0@adventure-works.com|645-555-0193|49E6F552-FB89-4F3B-AE4D-37D9493415D3
+29944|0|Ms.|Bonnie|B.|Lepro|NULL|More Bikes!|adventure-works\linda3|bonnie2@adventure-works.com|354-555-0130|881137FC-AE6A-4FBD-B71A-4AF9C2F65914
+29946|0|Ms.|Linda|NULL|Leste|NULL|National Manufacturing|adventure-works\garrett1|linda7@adventure-works.com|493-555-0134|A578DDDD-4CAC-4D51-B60B-0C2F3B11AB13
+29948|0|Ms.|Elsie|L.|Lewin|NULL|Town Industries|adventure-works\jillian0|elsie0@adventure-works.com|803-555-0116|4BF3D7ED-265D-4058-B516-134083182BDB
+29949|0|Mr.|George|Z.|Li|NULL|Security Racks and Locks Wholesalers|adventure-works\shu0|george3@adventure-works.com|699-555-0183|67582572-8246-4544-A083-502A1EEF1FA0
+29950|0|Mr.|Yale|NULL|Li|NULL|Rapid Bikes|adventure-works\josé1|yale0@adventure-works.com|316-555-0138|0631F720-A96D-4505-A07C-11A954A67F6B
+29952|0|Ms.|Yuhong|NULL|Li|NULL|Nearby Sporting Goods|adventure-works\jae0|yuhong1@adventure-works.com|1 (11) 500 555-0176|2675B45B-5DB9-4118-AD66-D09806903C25
+29953|0|Mr.|Joseph|M.|Lique|NULL|Front Sporting Goods|adventure-works\pamela0|joseph2@adventure-works.com|119-555-0195|7C6C2B33-FAA3-493C-8A74-21DF759833A9
+29954|0|Mr.|Paulo|H.|Lisboa|NULL|Elite Bikes|adventure-works\jillian0|paulo0@adventure-works.com|380-555-0116|D0E449EF-513F-4264-B2A6-25D67CADFEB6
+29955|0|Mr.|David|J.|Liu|NULL|Catalog Store|adventure-works\michael9|david20@adventure-works.com|440-555-0132|B8A33E4F-4519-45E1-BCEA-25DC890B2387
+29956|0|NULL|Jinghao|NULL|Liu|NULL|Chic Department Stores|adventure-works\jillian0|jinghao1@adventure-works.com|928-555-0116|8D4EFA1A-BF3A-49A8-BE7B-A53FF3E9CB52
+29957|0|Mr.|Kevin|NULL|Liu|NULL|Eastside Department Store|adventure-works\linda3|kevin5@adventure-works.com|926-555-0164|E115475E-25DA-4139-8256-934F48C8453D
+29959|0|Mr.|Todd|R.|Logan|NULL|Cycle Merchants|adventure-works\garrett1|todd0@adventure-works.com|783-555-0110|8CAC7BF4-D851-49F6-AFC1-E7BDC398BE26
+29962|0|Ms.|Sharon|J.|Looney|NULL|Fitness Hotel|adventure-works\jillian0|sharon2@adventure-works.com|377-555-0132|A9627A12-C4EC-4C3E-B611-4B6EADCE91C4
+29964|0|Ms.|Anita|R.|Lucerne|NULL|Grand Industries|adventure-works\garrett1|anita0@adventure-works.com|164-555-0118|0616FFA0-9986-40CE-9FED-1ECBF7DEB9F0
+29967|0|Ms.|Judy|R.|Lundahl|NULL|Leading Sales & Repair|adventure-works\jillian0|judy1@adventure-works.com|260-555-0130|C8DBB680-FAEA-4732-8DB2-CD6AD1B5226A
+29969|0|Mr.|Robert|P.|Lyeba|NULL|Tandem Sales and Service|adventure-works\garrett1|robert8@adventure-works.com|631-555-0155|FAC812B2-C8B4-42FE-8641-F753856806B4
+29971|0|Mr.|Robert|NULL|Lyon|NULL|Reliable Retail Center|adventure-works\garrett1|robert9@adventure-works.com|666-555-0143|B60C30F0-35AE-4892-9825-426D28DB59EA
+29973|0|Ms.|Denise|R.|Maccietto|NULL|Friendly Bike Shop|adventure-works\michael9|denise1@adventure-works.com|537-555-0190|A83DCD3C-D7DE-47D4-AB2E-F14062E50A2E
+29974|0|Mr.|Scott|NULL|MacDonald|NULL|Yellow Bicycle Company|adventure-works\jillian0|scott7@adventure-works.com|470-555-0171|14036D92-CE29-4270-9C7C-51C8B443DD30
+29975|0|Mr.|Walter|J.|Mays|Sr.|Sports Products Store|adventure-works\linda3|walter1@adventure-works.com|245-555-0191|77083660-DDC4-4F13-877D-9E49E0854079
+29978|0|Mr.|Ajay|NULL|Manchepalli|NULL|Shipping Specialists|adventure-works\jae0|ajay0@adventure-works.com|1 (11) 500 555-0174|B6EF4AC3-0E63-4FB2-B284-E48B8CD64C73
+29980|0|Mr.|Tomas|M.|Manzanares|II|Authentic Sales and Service|adventure-works\jae0|tomas0@adventure-works.com|1 (11) 500 555-0178|BFFDC3C2-C552-4F0E-AC58-F7FE76B9E854
+29981|0|Ms.|Kathy|R.|Marcovecchio|NULL|Official Parts Shop|adventure-works\pamela0|kathy0@adventure-works.com|942-555-0141|E55500BB-3B2F-4082-9624-AB085BF73FE8
+29982|0|Ms.|Melissa|R.|Marple|NULL|Discount Tours|adventure-works\shu0|melissa0@adventure-works.com|685-555-0117|DA27541E-8F63-451D-8E58-EF11A02520A0
+29983|0|Ms.|Cecelia|L.|Marshall|NULL|Tire Exchange|adventure-works\josé1|cecelia0@adventure-works.com|394-555-0168|505C5789-F6A6-47C2-A700-E4F2506862EC
+29985|0|Ms.|Linda|NULL|Martin|NULL|Oils and Fluids Warehouse|adventure-works\jae0|linda8@adventure-works.com|1 (11) 500 555-0137|6C448FEE-B174-4E20-8DE0-7FF7F7F076DE
+29987|0|Mr.|Frank|NULL|Mart¡nez|NULL|Rally Master Company Inc|adventure-works\shu0|frank5@adventure-works.com|171-555-0147|7CB529E5-6532-4BB3-B38F-971C2E820A80
+29988|0|Mr.|Steve|NULL|Masters|NULL|Professional Cyclists|adventure-works\josé1|steve2@adventure-works.com|154-555-0115|AD1F9AE6-49EA-45F8-8C72-9CF84183FA9B
+29990|0|Ms.|Jennifer|J.|Maxham|NULL|Exclusive Bicycle Mart|adventure-works\jae0|jennifer1@adventure-works.com|1 (11) 500 555-0175|647BF848-E9FC-4CCD-ACB1-FF0EA9653B53
+29991|0|Mr.|Chris|NULL|Maxwell|NULL|City Manufacturing|adventure-works\pamela0|chris6@adventure-works.com|642-555-0187|EC942FE9-2F5B-4B5D-A289-A061D6C4B873
+29992|0|Ms.|Sandra|B.|Maynard|NULL|Bike Dealers Association|adventure-works\shu0|sandra4@adventure-works.com|993-555-0179|4C8D76ED-B55A-4DFF-B7C9-F6AA5AD83CBF
+29994|0|Ms.|Robin|M.|McGuigan|NULL|Health Spa, Limited|adventure-works\josé1|robin0@adventure-works.com|431-555-0153|2AA52DC6-2AE5-4729-9620-2D58100D2C6A
+29997|0|Ms.|Lola|M.|McCarthy|NULL|Closeout Boutique|adventure-works\david8|lola0@adventure-works.com|173-555-0151|DDBC698B-E010-4CF0-8DF6-E7062A29D4EA
+29998|0|Ms.|Jane|A.|McCarty|NULL|Bicycle Merchandise Warehouse|adventure-works\shu0|jane3@adventure-works.com|529-555-0195|511DF11A-B292-461D-B6CA-8991747096C2
+30000|0|Mr.|James|L.|McCoy|II|Leather Seat Factory|adventure-works\josé1|james12@adventure-works.com|191-555-0151|F979676F-80E7-4445-B894-CE8CEA7EA5E2
+30003|0|Ms.|Yvonne|NULL|McKay|NULL|Practical Bike Supply Company|adventure-works\jillian0|yvonne1@adventure-works.com|623-555-0144|A6FE5230-AFE5-4633-AD8B-84176A335960
+30004|0|Ms.|Nkenge|NULL|McLin|NULL|Some Discount Store|adventure-works\pamela0|nkenge0@adventure-works.com|158-555-0123|927B8F21-1238-41AE-99BE-193B64D6ED39
+30005|0|Ms.|Nancy|A.|McPhearson|NULL|Variety Cycling|adventure-works\jae0|nancy3@adventure-works.com|1 (11) 500 555-0195|0DF0ACF0-6D9C-4180-8577-46DB866C46C3
+30007|0|Ms.|Raquel|NULL|Mello|NULL|Remote Bicycle Specialists|adventure-works\josé1|raquel0@adventure-works.com|723-555-0124|326589DF-6F6C-4F62-8332-554288779009
+30008|0|Mr.|R. Morgan|L.|Mendoza|NULL|Friendly Neighborhood Bikes|adventure-works\jillian0|rmorgan0@adventure-works.com|963-555-0146|1E4996B9-004D-48AF-AB2E-F34064DDB2E1
+30010|0|Mr.|Stephen|A.|Mew|NULL|Recommended Bicycles|adventure-works\garrett1|stephen4@adventure-works.com|399-555-0114|38814541-7E2A-4A6A-911F-5ED76DD0E481
+30012|0|Ms.|Helen|M.|Meyer|NULL|Alpine Ski House|adventure-works\linda3|helen2@adventure-works.com|519-555-0112|6EEE2E6B-C439-4D87-AD95-25EECFB1672C
+30016|0|Mr.|Thomas|R.|Michaels|NULL|Seats and Saddles Company|adventure-works\garrett1|thomas2@adventure-works.com|162-555-0174|009F9CFC-23A3-4B66-92BE-BACCE90985DC
+30018|0|Ms.|Virginia|L.|Miller|NULL|All Cycle Shop|adventure-works\pamela0|virginia0@adventure-works.com|918-555-0127|84FC26A4-3A90-4CB9-A04D-BE85E95C1ACF
+30019|0|Mr.|Matthew|J.|Miller|NULL|Tachometers and Accessories|adventure-works\jae0|matthew5@adventure-works.com|1 (11) 500 555-0176|226D328B-23D4-4215-B9C4-3DA08F2E68DB
+30021|0|Mr.|Ben|NULL|Miller|NULL|Low Price Cycles|adventure-works\josé1|ben1@adventure-works.com|207-555-0167|1E32FA7F-E67B-4C0B-A58F-182B7D9560FE
+30022|0|Mr.|Dylan|NULL|Miller|NULL|Metropolitan Manufacturing|adventure-works\shu0|dylan1@adventure-works.com|140-555-0192|1AA7F7B6-5A35-463C-B744-E9F8955901E3
+30023|0|Mr.|Frank|NULL|Miller|NULL|Orange Bicycle Company|adventure-works\jillian0|frank6@adventure-works.com|118-555-0184|0EB59B8A-807F-4596-AF6B-4D73AB4D0C75
+30024|0|Ms.|Neva|M.|Mitchell|NULL|Riding Associates|adventure-works\pamela0|neva0@adventure-works.com|992-555-0134|CBF5C8D9-5718-4B1B-A066-19CDC432F4A8
+30025|0|Ms.|Linda|NULL|Mitchell|NULL|Essential Bike Works|adventure-works\jae0|linda9@adventure-works.com|1 (11) 500 555-0182|838ACD04-5B60-459C-88CC-EF5D1D696E05
+30027|0|Mr.|Joseph|P.|Mitzner|Jr.|Engineered Bike Systems|adventure-works\shu0|joseph4@adventure-works.com|129-555-0164|029C27B5-72E5-4024-A5FA-53BDB42B98BC
+30028|0|Ms.|Laura|C.|Steele|NULL|Professional Containers and Packaging Co.|adventure-works\shu0|laura3@adventure-works.com|741-555-0173|D2C24D1F-C84B-4D96-82B9-66B729B3F1DD
+30029|0|Ms.|Shanay|B.|Steelman|NULL|One Bike Company|adventure-works\josé1|shanay0@adventure-works.com|797-555-0118|8330F126-BD54-4F8C-9C16-FAB34B7CA54E
+30030|0|Mr.|Stefano|NULL|Stefani|NULL|Cycling Goods|adventure-works\jae0|stefano0@adventure-works.com|1 (11) 500 555-0115|7F98308D-CDBC-4143-A080-1C10053E1054
+30031|0|Mr.|Alan|NULL|Steiner|NULL|Cycle Clearance|adventure-works\pamela0|alan4@adventure-works.com|792-555-0194|8979685D-B1DF-450A-A296-423F1E2B1056
+30032|0|Mr.|Derik|NULL|Stenerson|NULL|Black Bicycle Company|adventure-works\jillian0|derik0@adventure-works.com|441-555-0144|2C8B69DF-E0B4-41F8-964E-7B0CD40B6BC8
+30033|0|Mr.|Vassar|J.|Stern|NULL|Transport Bikes|adventure-works\shu0|vassar0@adventure-works.com|328-555-0123|66193607-693C-4073-BE28-78E3892141A2
+30034|0|Ms.|Wathalee|R.|Steuber|NULL|Sellers of Cycles|adventure-works\pamela0|wathalee0@adventure-works.com|517-555-0120|5C37794C-6CE1-4C0E-A4E0-D616E6986B51
+30035|0|Ms.|Alice|M.|Steiner|NULL|Maintenance and Repair for Bicycles|adventure-works\jillian0|alice4@adventure-works.com|355-555-0180|E8796105-7273-4288-A7F4-6A0EC7092B9B
+30036|0|Ms.|Liza Marie|N.|Stevens|NULL|Fitness Department Stores|adventure-works\shu0|lizamarie0@adventure-works.com|366-555-0110|F98903D8-A633-4004-AD3B-C7EF0845616B
+30037|0|Mr.|Jim|NULL|Stewart|NULL|Famous Bike Shop|adventure-works\garrett1|jim5@adventure-works.com|226-555-0110|F1141256-0A49-42D0-AF3D-5D3E0FE6C05E
+30039|0|Mr.|Robert|B.|Stotka|NULL|Gift and Toy Store|adventure-works\jillian0|robert12@adventure-works.com|493-555-0185|4FF665F4-4CBF-42FF-AEDE-F0F73775B094
+30040|0|Ms.|Kayla|M.|Stotler|NULL|Major Sporting Goods|adventure-works\linda3|kayla0@adventure-works.com|315-555-0131|E6D036B6-1FAA-44C9-8AEC-6C9433BEBAB3
+30042|0|Ms.|Ruby Sue|R.|Styles|NULL|Major Cycling|adventure-works\josé1|rubysue0@adventure-works.com|512-555-0122|A2B42E44-F4A3-4832-98F5-76BC1B928CF8
+30044|0|Mr.|Gary|J.|Suess|NULL|Downhill Bicycle Specialists|adventure-works\jae0|gary5@adventure-works.com|1 (11) 500 555-0199|BA59C532-D2BA-4613-837F-893022F6E155
+30045|0|Ms.|Ruth|J.|Suffin|NULL|Bike Experts|adventure-works\pamela0|ruth2@adventure-works.com|924-555-0195|4C70024F-CAF8-4349-9E00-435661769812
+30046|0|Ms.|Elizabeth|J.|Sullivan|NULL|Extraordinary Bike Works|adventure-works\jillian0|elizabeth4@adventure-works.com|306-555-0112|C84E8115-5454-4FF6-A6F6-5342A4A01B6C
+30047|0|Mr.|Michael|NULL|Sullivan|NULL|Valley Bicycle Distributors|adventure-works\shu0|michael24@adventure-works.com|323-555-0113|BE9B7B8E-80AC-4DDD-A35B-4D70E3631AA2
+30048|0|Ms.|Marcia|J.|Sultan|NULL|Top Sports Supply|adventure-works\josé1|marcia0@adventure-works.com|613-555-0116|435C6A1B-180C-4E92-96AA-6E8CB6C769CD
+30050|0|Mr.|Krishna|NULL|Sunkammurali|NULL|Metropolitan Bicycle Supply|adventure-works\jae0|krishna1@adventure-works.com|1 (11) 500 555-0177|2492E57F-C37B-4AEB-A038-C3F897111232
+30051|0|Mr.|Brad|NULL|Sutton|NULL|Honest Repair Service|adventure-works\pamela0|brad0@adventure-works.com|688-555-0115|CBA8A194-7D3A-45DF-ADDA-4A4B6C8FCC95
+30052|0|Mr.|Abraham|L.|Swearengin|NULL|Wheel Gallery|adventure-works\shu0|abraham0@adventure-works.com|926-555-0136|C8C9C968-F0C6-44B1-9D44-7E0AA9D39260
+30053|0|Ms.|Katherine|K.|Swan|NULL|Top Bike Market|adventure-works\garrett1|katherine1@adventure-works.com|421-555-0192|6ED7E1B6-3749-485C-BFED-92AE1CA427B3
+30055|0|Ms.|Julie|NULL|Taft-Rider|NULL|Bicycle Lines Distributors|adventure-works\jillian0|julie1@adventure-works.com|145-555-0194|D075A674-CAC6-482E-BF78-5093DDBB23E7
+30056|0|Mr.|Clarence|R.|Tatman|NULL|Sparkling Paint and Finishes|adventure-works\linda3|clarence0@adventure-works.com|787-555-0128|89324B36-4A2E-470C-823A-93D3C1E6F3B0
+30058|0|Mr.|Mike|M.|Taylor|NULL|Plastic Parts Company|adventure-works\garrett1|mike6@adventure-works.com|204-555-0189|0C873F42-B527-4A71-A793-5B20F566E1D0
+30061|0|Mr.|Chad|J.|Tedford|NULL|Big Cycle Mall|adventure-works\jillian0|chad1@adventure-works.com|588-555-0128|6D42EC9D-BBDC-4CEE-AF72-306A3BD800C2
+30063|0|Ms.|Vanessa|J.|Tench|NULL|Eighth Bike Store|adventure-works\shu0|vanessa0@adventure-works.com|785-555-0163|2A6FC73A-ECAF-4E0C-BE76-16C011A6E27D
+30064|0|Ms.|Judy|J.|Thames|NULL|Demand Distributors|adventure-works\david8|judy3@adventure-works.com|799-555-0118|14E2DDF8-D5FA-4BEB-A103-75BBF747F14D
+30067|0|Ms.|Phyllis|A.|Thomas|NULL|Red Bicycle Company|adventure-works\josé1|phyllis2@adventure-works.com|667-555-0112|67FCFC2C-8E14-45E7-B72D-2D4D7558C454
+30069|0|Mr.|Donald|M.|Thompson|NULL|Trendy Department Stores|adventure-works\shu0|donald1@adventure-works.com|273-555-0111|FFE5DE91-A621-482D-BD73-7D6B86DB4F18
+30070|0|Ms.|Kendra|N.|Thompson|NULL|Vintage Sport Boutique|adventure-works\david8|kendra0@adventure-works.com|464-555-0188|DF8629B4-8A88-4979-9A0B-1390939662C0
+30071|0|Mr.|Daniel|P.|Thompson|NULL|Travel Sports|adventure-works\pamela0|daniel2@adventure-works.com|247-555-0197|7632AB5E-B59A-48D9-BD6E-DBBC7FA58914
+30072|0|Ms.|Andrea|A.|Thomsen|NULL|West Side Mart|adventure-works\jae0|andrea1@adventure-works.com|1 (11) 500 555-0120|9BBBDDC1-8E1A-4EDF-AA2F-A8ABEA78C940
+30074|0|Ms.|Yuping|NULL|Tian|NULL|Tenth Bike Store|adventure-works\josé1|yuping0@adventure-works.com|744-555-0123|55E89B26-C63C-435D-AB1A-99C96771493B
+30076|0|Ms.|Diane|NULL|Tibbott|NULL|Fun Times Club|adventure-works\shu0|diane5@adventure-works.com|847-555-0184|98B44E06-1ED0-47C0-8396-31AB241EE995
+30080|0|Ms.|Delia|B.|Toone|NULL|Wingtip Toys|adventure-works\david8|delia0@adventure-works.com|328-555-0192|E092FFA5-31E5-471E-B2C5-653730617416
+30083|0|Mr.|Glenn|J.|Track|II|Active Life Toys|adventure-works\josé1|glenn0@adventure-works.com|907-555-0170|B55CB46C-7C76-4723-A120-DAF3CA003009
+30087|0|Mr.|Billy|J.|Trent|NULL|Quick Parts and Service|adventure-works\garrett1|billy0@adventure-works.com|882-555-0115|A48662D5-C698-4048-9546-C562DF2AC4E8
+30089|0|Mr.|Michael John|R.|Troyer|NULL|Thrifty Parts and Sales|adventure-works\linda3|michaeljohn0@adventure-works.com|308-555-0175|8D6AF1E8-5082-4E5C-9F15-DFD04E64FD95
+30090|0|Ms.|Christie|J.|Trujillo|NULL|A Typical Bike Shop|adventure-works\jillian0|christie0@adventure-works.com|686-555-0180|76A81A79-27AC-4375-BB24-2A360B9471EE
+30093|0|Ms.|Phyllis|B.|Tuffield|NULL|Fasteners & Bolts Outlet|adventure-works\garrett1|phyllis3@adventure-works.com|277-555-0182|0F8FB794-1025-4BFF-8219-2F19E09DC4AB
+30094|0|Mr.|Sairaj|NULL|Uddin|NULL|Quantity Discounts|adventure-works\linda3|sairaj1@adventure-works.com|767-555-0193|091CE76C-504B-46B9-9BBC-924CDC0C7B8D
+30095|0|Mr.|Sunil|NULL|Uppal|NULL|Swift Cycles|adventure-works\jillian0|sunil0@adventure-works.com|184-555-0187|F4038305-63BC-4AAD-861C-30583BE7FDE7
+30098|0|Ms.|Esther|K.|Valle|NULL|Large Bike Shop|adventure-works\garrett1|esther0@adventure-works.com|481-555-0131|8EA3BF8E-37A9-439E-90AC-DA1F8F8FA6F3
+30100|0|Mr.|Jessie|E.|Valerio|NULL|Wire Baskets and Parts|adventure-works\linda3|jessie0@adventure-works.com|103-555-0179|ABC5D37C-0DAB-42C0-AA94-3C688C6EAE0E
+30102|0|Mr.|Roger|NULL|Van Houten|NULL|Sports Store|adventure-works\jae0|roger2@adventure-works.com|1 (11) 500 555-0110|0EE7E95D-F12D-4D0D-8C6E-C64A0DDA719A
+30104|0|Ms.|Rose|M.|Vandenouer|NULL|Extended Tours|adventure-works\jae0|rose1@adventure-works.com|1 (11) 500 555-0140|AA874CB8-C96F-44DE-93BF-C1311238BD1D
+30105|0|Mr.|Gregory|T.|Vanderbout|Jr.|Convenient Sales and Service|adventure-works\pamela0|gregory1@adventure-works.com|684-555-0134|67CA966E-B20F-4230-B81C-42F0919D3EE6
+30106|0|Mr.|Michael|NULL|Vanderhyde|NULL|Solid Bike Parts|adventure-works\jillian0|michael25@adventure-works.com|918-555-0141|CA0D950A-A3FE-41C6-9B1A-125A5002DAFA
+30107|0|Ms.|Margaret|J.|Vanderkamp|NULL|Permanent Finish Products|adventure-works\shu0|margaret2@adventure-works.com|265-555-0143|AC07DA4A-9FB0-4832-8219-5B6D43DD13D8
+30108|0|Ms.|Kara|N.|Vanderlinden|NULL|Mercantile Outlet|adventure-works\josé1|kara0@adventure-works.com|680-555-0160|A588EE77-50EE-445F-989B-E8DD9B31D587
+30109|0|Mr.|Nieves|J.|Vargas|II|Exhilarating Cycles|adventure-works\michael9|nieves0@adventure-works.com|371-555-0184|71F5E3BB-78BD-426F-B75A-EEB76DC21473
+30110|0|Mr.|Gary|T|Vargas|NULL|Exercise Center|adventure-works\shu0|gary6@adventure-works.com|112-555-0176|4460C7AA-FE06-4D56-98CB-6DE6E050D73A
+30111|0|Mr.|Ranjit|Rudra|Varkey Chudukatil|NULL|Great Bicycle Supply|adventure-works\jillian0|ranjit1@adventure-works.com|810-555-0160|D414D91F-8ABE-47DE-A576-DDD881E955DC
+30112|0|Ms.|Patricia|M.|Vasquez|NULL|Mail-Order Outlet|adventure-works\pamela0|patricia2@adventure-works.com|490-555-0132|B2E90958-4A9B-40F9-A8D8-091600B856B2
+30113|0|Mr.|Raja|D.|Venugopal|NULL|Nearby Cycle Shop|adventure-works\jae0|raja0@adventure-works.com|1 (11) 500 555-0195|84975C44-DC82-49D3-BFC4-8F31B4C8E994
+30115|0|Ms.|Dora|P.|Verdad|NULL|Retreat Inn|adventure-works\josé1|dora0@adventure-works.com|155-555-0140|E4CF8FD5-30A4-4B8E-8FD8-47032E255778
+30116|0|Ms.|Wanda|F.|Vernon|NULL|Technical Parts Manufacturing|adventure-works\shu0|wanda0@adventure-works.com|433-555-0168|EC409609-D25D-41B8-9D15-A1AA6E89FC77
+30117|0|Mr.|Robert|R.|Vessa|NULL|Totes & Baskets Company|adventure-works\jillian0|robert13@adventure-works.com|560-555-0171|6F08E2FB-1CD3-4F6E-A2E6-385669598B19
+30118|0|Ms.|Caroline|A.|Vicknair|NULL|World of Bikes|adventure-works\jillian0|caroline0@adventure-works.com|695-555-0158|2495B4EB-FE8B-459E-A1B6-DBA25C04E626
