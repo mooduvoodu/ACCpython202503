@@ -1,16 +1,12 @@
-import math
-from president import Prez
+
+def func1(name, msg = 'message')
+    pass
 
 
-print('hello')
+nameparam = 'myname'
 
+func1('myname')
+func1(nameparam, 'mymsg')
 
-mynewprez = Prez()
-mynewprez2 = Prez()
+func1(name = nameparam, msg = 'mymessage')
 
-mynewprez.name = "Trump"
-mystring = 'somebill509'
-mynewprez.veto(mystring)
-
-
-print(mynewprez.name)
