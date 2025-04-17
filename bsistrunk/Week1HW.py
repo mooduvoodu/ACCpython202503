@@ -1,45 +1,49 @@
 #Exercise 1
 # messy code
-Amt= 100
-DEF calc_tax(amount):
-    rate=0.1
-    Tax= amount * rate
-    print("tax:",Tax)
-calc_tax(Amt)
+#Amt= 100
+#DEF calc_tax(amount):
+#    rate=0.1
+#    Tax= amount * rate
+#    print("tax:",Tax)
+#calc_tax(Amt)
 
 
 # cleaned code
 amount = 100
 def calc_tax(amount):
-    rate=0.1
+    rate = 0.1
     tax = amount * rate
     print("Tax:",tax)
 calc_tax(amount)
 
+#------------------------------------------------------------------------
 
 #Exercise 2
 months = 12
 temperature = 36.6
-message = 'Hello'
-colors = ['blue','maroon','white']
-book = {"title":"Harry Potter & The Sorcerer's Stone", "author":"J.K. Rowling", "year":"1998"}
+message = "Hello"
+colors = ["blue","maroon","white"]
+book = {"title":"Harry Potter and the Sorcerer's Stone", "author":"J.K. Rowling", "year":"1996"}
 
 print(months)
-print(temprerature)
+print(temperature)
 print(message)
 print(colors)
 print(book)
 
+#------------------------------------------------------------------------
 
 #Exercise 3
-total_cost - Valid
-3d_model - Invalid
-playerOne - Valid
-def - Invalid
-email_address - Valid
-first-name - Invalid
-PI - Valid
+#total_cost - Valid
+#3d_model - Invalid
+#playerOne - Valid
+#def - Invalid
+#email_address - Valid
+#first-name - Invalid
+#PI - Valid
 
+
+#------------------------------------------------------------------------
 
 #Exercise 4
 length_str = "15"
@@ -52,21 +56,19 @@ area = length * width
 
 print("Area:", area)
 
+#------------------------------------------------------------------------
 
 #Exercise 5
 allowed_users = ["alice", "bob", "charlie"]
 email = "bob@example.com"
 info = {"email": "bob@example.com", "age": 25, "member": True}
 
-#1.	Check if the string "bob" is in the allowed_users list.
-print('bob' in allowed_users)
-#2.	Check if the substring "@" is in the email string.
-print('@' in email)
-#3.	Check if the key "age" is in the info dictionary.
-print('age' in info)
-#4.	Check if the value False is in the info dictionary.
-print('False' in info)
+print("bob" in allowed_users)
+print("@" in email)
+print("age" in info)
+print("False" in info)
 
+#------------------------------------------------------------------------
 
 #Exercise 6
 data = [10, 20, 30, 40, 50, 60]
@@ -84,34 +86,39 @@ print(s[2:5])
 print(s[::-1])
 
 
+#------------------------------------------------------------------------
+
 #Exercise 7
 temp_c = -5
 
-if temp_c < 0:
+if (temp_c < 0):
     print("Frozen (ice)")
-elif temp_c > 100:
-    print("Gas(steam)")
+elif (temp_c > 100):
+    print("Gas (steam)")
 else:
-    print("Liquid(water)")
+    print("Liquid (water)")
+
 
 temp_c = 25
 
-if temp_c < 0:
+if (temp_c < 0):
     print("Frozen (ice)")
-elif temp_c > 100:
-    print("Gas(steam)")
+elif (temp_c > 100):
+    print("Gas (steam)")
 else:
-    print("Liquid(water)")
+    print("Liquid (water)")
+
 
 temp_c = 105
 
-if temp_c < 0:
+if (temp_c < 0):
     print("Frozen (ice)")
-elif temp_c > 100:
-    print("Gas(steam)")
+elif (temp_c > 100):
+    print("Gas (steam)")
 else:
-    print("Liquid(water)")
+    print("Liquid (water)")
 
+#------------------------------------------------------------------------
 
 #Exercise 8
 values = [3, 7, 1, 12, 9]
@@ -120,6 +127,7 @@ for num in values:
     total += num
 print("Sum:", total)
 
+#------------------------------------------------------------------------
 
 #Exercise 9
 counter = 1
@@ -127,16 +135,18 @@ while counter <= 5:
     print(counter)
     counter += 1
 
+#------------------------------------------------------------------------
 
 #Exericse 10
-def square(x: (int, float)):
+def square(x: (int,float))->(int,float):
     if not isinstance(x, (int, float)):
         print("Error: x must be a number (int or float)")
         return None
     return x * x
 
-print(square(2.5))
+print(square(5))
 
+#------------------------------------------------------------------------
 
 #Exercise 11
 class Book:
@@ -149,6 +159,7 @@ class Book:
 my_book = Book("To Kill a Mockingbird", "Harper Lee")
 print(my_book.description())
 
+#------------------------------------------------------------------------
 
 #Exercise 12
 a = [100, 200, [300, 400]]
@@ -157,15 +168,21 @@ c = a.copy()
 
 #1.	What will happen to a, b, and c if you execute a[0] = 111?
     #a = [111, 200, [300, 400]]
+    #b = [111, 200, [300, 400]]
+    #c = [100, 200, [300, 400]]
 #2.	What will happen to a, b, and c if you execute a[2].append(500)?
     #a = [111, 200, [300, 400, 500]]
+    #b = [111, 200, [300, 400, 500]]
+    #c = [100, 200, [300, 400, 500]]
 
+#------------------------------------------------------------------------
 
 #Exercise 13
 nums = [5, 8, 12, 15, 7, 1]
 greater_than_10 = list(filter(lambda n: n > 10, nums))
 print(greater_than_10)
 
+#------------------------------------------------------------------------
 
 #Exercise 14
 value = 100
