@@ -67,7 +67,7 @@ print("\n--- Row Subsetting ---")
 # .loc[] example (rows with UnitPrice > 20)
 loc_subset = df.loc[df['UnitPrice'] > 20, ['SalesOrderID', 'UnitPrice', 'OrderQty']]
 print("\n.loc subset (UnitPrice > 20):")
-print(loc_subset.head())
+display(loc_subset)
 
 # .loc specific row indices (labels)
 loc_specific = df.loc[[0, 2, 4], ['SalesOrderDetailID', 'LineTotal']]
@@ -93,7 +93,7 @@ print("\n--- Boolean Row Selection ---")
 # Single condition (OrderQty > 10)
 qty_over_10 = df[df['OrderQty'] > 10]
 print("\nRows with OrderQty > 10:")
-print(qty_over_10.head())
+display(qty_over_10)
 
 # Multiple conditions with AND (&)
 high_price_and_qty = df[(df['UnitPrice'] > 20) & (df['OrderQty'] > 5)]
@@ -236,11 +236,13 @@ print("\n--- GroupBy Multiple Columns and Flatten with reset_index() ---")
 # Step 1: Perform Multi-column GroupBy
 grouped = df.groupby(['ProductID', 'OrderQty'])['LineTotal'].sum()
 
-print("\nGrouped data BEFORE reset_index (Multi-index):")
-print(grouped.head())
+display(grouped)
+print(grouped.info())
 
 # Step 2: Flatten the multi-index result using reset_index()
 grouped_flattened = grouped.reset_index()
+display(grouped_flattened)
+
 
 print("\nGrouped data AFTER reset_index (Flattened DataFrame):")
 print(grouped_flattened.head())
