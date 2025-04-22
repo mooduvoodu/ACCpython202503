@@ -85,3 +85,55 @@ print(s[2:5])  # output: cde
 print(s[::-1])  # output: gfedcba
 
 # Exercise 7
+temp_c = 150
+
+if temp_c < 0:
+    print("Frozen (ice)")
+elif temp_c > 100:
+    print("Gas (steam)")
+else:
+    print("Liquid")
+
+# Output: temp_c = -5, Frozen (ice)
+# Output: temp_c = 150, Gas (steam)
+# Output: temp_c = 6, Liquid
+
+# Exercise 8
+# calculate the sum of all numbers in the list values = [3, 7, 1, 12, 9]. Print the sum after the loop.
+values = [3, 7, 1, 12, 9]
+total = 0
+
+for n in values:
+    total += n
+
+print ("Sum: ", total) #output: 32
+
+# Exercise 9
+n = 1
+while n <= 5:
+    print (n)
+    n += 1
+
+# output: 1, 2, 3, 4, 5
+
+# Exercise 10
+
+def square(x: (int,float)) -> (int,float):
+
+    if not isinstance(x, (int,float)):
+        print("Error, x must be an interger or float")
+        return None
+    return x*x
+
+print(square(5))
+print(square(2.5))
+print(square("5"))
+
+# output: 25, 6.25, Error, x must be an interger or float, None
+
+# Exercise 11
+
+
+
+
+
