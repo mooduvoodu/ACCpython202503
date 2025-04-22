@@ -204,7 +204,7 @@ prod_color = product[(product['Color'] == 'Black') & (product['StandardCost'] < 
 prod_size = product[product['Size'].isin(['M','L'])]
 
 # Color is not null
-prod_not_null = product[product['Color'].notna()] #Why notna instead of notnull?
+prod_not_null = product[product['Color'].notna()]
 
 # 3.2 Order Header
 # Orders in calendar year 2020

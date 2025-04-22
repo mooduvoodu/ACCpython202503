@@ -138,7 +138,8 @@ while counter <= 5:
 #------------------------------------------------------------------------
 
 #Exericse 10
-def square(x: (int,float))->(int,float):
+def square(x: (int, float)) -> (int, float):
+    # Optionally enforce type at runtime
     if not isinstance(x, (int, float)):
         print("Error: x must be a number (int or float)")
         return None
