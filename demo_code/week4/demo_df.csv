@@ -1,0 +1,5 @@
+,int_col,float_col,bool_col,date_str,cat_col,obj_col,bool_as_int,float_as_str,date_dt,aligned_add,misaligned_add,scalar_mult
+row1,1,0.1,True,2025-02-01,A,foo,1,0.1,2025-02-01,11,6.0,10.0
+row2,2,0.2,False,2025-02-05,B,bar,0,0.2,2025-02-05,22,,20.0
+row3,3,0.3,True,2025-02-10,A,baz,1,0.3,2025-02-10,33,18.0,30.0
+row4,4,0.4,False,2025-02-15,C,qux,0,0.4,2025-02-15,44,,40.0

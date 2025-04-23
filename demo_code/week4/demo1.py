@@ -66,6 +66,8 @@ df['misaligned_add'] = df['int_col'] + s_misal
 df['scalar_mult'] = df['float_col'] * 100
 # multiplies each float_col value by 100.
 
+df_v2 = df * 100;
+
 # 6d. DataFrame + DataFrame with shifted index
 df2 = df[['int_col', 'float_col']].copy()
 df2.index = ['row2','row3','row4','row5']  
