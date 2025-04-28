@@ -20,7 +20,7 @@ params = {
     "active": "true",
     "order": "asc",
     "limit": 1000,  
-    "type": "CS",            # Polygon allows up to 1000 per page
+    "type": "",            # Polygon allows up to 1000 per page
     "sort": "ticker",
     "apiKey": API_KEY        # always include your key
 }
@@ -61,3 +61,10 @@ print(df.head())
 print(f"\nTotal tickers retrieved: {len(df):,}")
 
 display(df)
+
+
+
+# get time series aggregate for stock data over the last few months with 1 minute aggr
+
+# next file week5b.py
+
