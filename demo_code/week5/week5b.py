@@ -83,7 +83,7 @@ print(df_bars.head())
 print(f"\nFetched {len(df_bars)} rows of 1-min bars for {symbol}.")
 
 # 5. Write to pickle
-out_dir = "/workspaces/ACCpython202503/assignments"
+out_dir = "/workspaces/ACCpython202503/demo_code/week5/"
 os.makedirs(out_dir, exist_ok=True)
 pickle_path = os.path.join(out_dir, f"{symbol}_1min_aggregates.pkl")
 df_bars.to_pickle(pickle_path)
