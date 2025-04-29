@@ -1,11 +1,11 @@
 # Exercise 1:
-amount = 100
-def calc_tax:
+# amount = 100
+#def calc_tax:
     # Amount tax rate
-    rate = 0.1
-    tax = float(amount) * float(rate)
-    print ("Tax: ",tax)
-calc_tax = (amount)
+    #rate = 0.1
+    #tax = float(amount) * float(rate)
+    #print ("Tax: ",tax)
+#calc_tax = (amount)
 
 # Excercise 2:
 #1.  An integer variable named months with the value 12.
