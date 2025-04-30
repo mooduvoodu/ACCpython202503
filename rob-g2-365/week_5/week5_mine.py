@@ -4,6 +4,7 @@ import pandas as pd
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 import json
+from stocks import *
 
 # Replace with your actual Polygon.io API key
 # API_KEY = os.environ.get('POLYGON_API_KEY')
@@ -17,21 +18,7 @@ MULTIPLIER = 1
 NOW = datetime.now()
 TODAY = NOW.strftime("%Y-%m-%d")
 START = NOW - relativedelta(months=3)
-# START = NOW - relativedelta(days=1)
-# FILE_NAME = f"aapl_1min_ticker_{TODAY}.json"
-
 client = RESTClient(API_KEY)
-RCL = {'name': 'Royal Caribbean', 'symbol': 'RCL'}
-CCL = {'name': 'Carnival Cruise', 'symbol': 'CCL'}
-NCLH = {'name': 'Norwegian Cruise Line', 'symbol': 'NCLH'}
-AWX = {'name':'Avalon Holdings Corporation', 'symbol': 'AWX' }
-LIND = {'name': 'Lindblad Expeditions Holdings', 'symbol': 'LIND'}
-# AGYS = {'name':'Agilysys Inc.', 'symbol': ' AGSYS'}
-OSW = {'name': 'OneSpaWorld Holdings', 'symbol': 'OSW'}
-WKC = {'name': 'World kinect Corp','symbol': 'WKC'}
-QQQ = {'name': 'Nasdaq', 'symbol': 'QQQ'}
-
-STOCKS = [RCL, CCL, NCLH, AWX, LIND, OSW, WKC, QQQ]
 
 def get_ticker(symbol, start, end):
   try:
@@ -63,17 +50,16 @@ def get_all_stocks():
 
     print(ticker_df.columns)
     symbol = stock['symbol']
-    pickle_path = f"{symbol}_1min_aggregates.pkl"
+    pickle_path = get_pkl_file_name(symbol)
     print(pickle_path)
     ticker_df.to_pickle(pickle_path)
     print(f"DataFrame saved to: {pickle_path}")    
 
-    csv_path = f"{symbol}_1min_aggregates.csv"
+    csv_path = get_csv_file_name(symbol)
     ticker_df.to_csv(csv_path)
     print(f"DataFrame saved to: {csv_path}")    
-
     ticker_array.append( {'symbol':stock['symbol'], 'ticker':ticker_df})
-  
+
   return df
 
 
