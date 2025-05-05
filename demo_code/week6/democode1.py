@@ -7,14 +7,11 @@ import numpy as np
 pd.set_option("display.max_columns", 0)      # keep printed output tidy
 pd.set_option("display.width", 120)
 
-# Helper ──────────────────────────────────────────────────────
-def banner(title: str):
-    print(f"\n{'='*len(title)}\n{title}\n{'='*len(title)}")
 
 # ------------------------------------------------------------
 # 1 Load the pipe-delimited files
 # ------------------------------------------------------------
-banner("1. Load data")
+
 customers   = pd.read_csv("C:\\courses\\reposource\\ACCpython202503\\datasets\\customers.csv",   sep="|", encoding="latin1")
 orderdetail = pd.read_csv("C:\\courses\\reposource\\ACCpython202503\\datasets\\orderdetails.csv", sep="|")
 orderheader = pd.read_csv("C:\\courses\\reposource\\ACCpython202503\\datasets\\orderheader.csv", sep="|")
@@ -28,7 +25,7 @@ print("customers →", customers.shape,
 # ------------------------------------------------------------
 # 2 Missing-data mechanics (NaN / pd.NA)
 # ------------------------------------------------------------
-banner("2. Missing data basics")
+
 # -- quick audit
 for name, df in {"customers": customers,
                  "orderheader": orderheader,
@@ -42,11 +39,11 @@ print(mask_gt_100.head(8))
 
 
 # ― Locate & count NaNs ―
-banner("Locate / count missing")
+
 print(product[["Size", "Weight"]].isna().sum())       # per-column count
 
 # ― Cleaning options ―
-banner("Cleaning missing data")
+
 clean_prod = (product
               .assign(Size = product["Size"].replace("", np.nan))     # recode
               .fillna({"Color":   "Unknown",                         # scalar fill
@@ -62,20 +59,20 @@ order_no_cc = orderheader.dropna(subset=["CreditCardApprovalCode"])
 print("\nRows kept after dropping NULL credit approvals →", len(order_no_cc))
 
 # ― Calculations automatically skip NaNs unless skipna=False ―
-banner("Math with NaNs")
+
 print("Mean list price (skip Na):", product["ListPrice"].mean())
 print("Mean list price (do NOT skip Na):",
       product["ListPrice"].mean(skipna=False))
 
 # ― pd.NA & nullable dtypes ―
-banner("pd.NA demo")
+
 qty_nullable = orderdetail["OrderQty"].astype("Int64")          # capital “I”
 print(pd.concat([qty_nullable.head(), pd.Series([pd.NA], dtype="Int64")]))
 
 # ------------------------------------------------------------
 # 3c  Practical categorical examples using your datasets
 # ------------------------------------------------------------
-banner("3c. Practical categoricals — Product.Size & Product.Color")
+
 
 # -----------------------------------------------------------------
 # EXAMPLE A  ▸  Ordered categorical for garment size
@@ -124,7 +121,7 @@ print(product[["ColorSimple", "ColorCode"]].head())
 # ------------------------------------------------------------
 # 4 String & text operations
 # ------------------------------------------------------------
-banner("4. String operations")
+
 cust = customers.copy()
 
 # — Subset & slice phone numbers —
@@ -147,7 +144,7 @@ print(cust[["Phone","PhoneValid"]].head())
 # ------------------------------------------------------------
 # 5 Date, time, timedelta, time-zones
 # ------------------------------------------------------------
-banner("5. Datetime basics")
+
 oh = orderheader.copy()
 
 # Convert to datetime
@@ -174,7 +171,7 @@ print(oh[["OrderDate","OrderDate_UTC"]].head())
 # ------------------------------------------------------------
 # 2b  Deeper missing-data techniques
 # ------------------------------------------------------------
-banner("2b. More missing-data patterns")
+
 
 # ❶  value_counts INCLUDING NaNs (helpful QA metric)
 print("Color frequencies (NaN kept):")
@@ -204,7 +201,7 @@ print("\nPolynomial interpolation example:", poly.head(8).values)
 # ------------------------------------------------------------
 # 3b  Extra dtype / categorical examples
 # ------------------------------------------------------------
-banner("3b. Categorical tricks & type coercion")
+
 
 # ❶  Create NEW category level on the fly
 product["Size"] = product["Size"].cat.add_categories("OneSize")
@@ -231,17 +228,17 @@ print("Mixed dtype conversion complete — sample dtypes:\n",
 # ------------------------------------------------------------
 # 4b  Richer string / text operations
 # ------------------------------------------------------------
-banner("4b. Advanced string operations")
 
-# ❶  Regex extract() — grab area code
+
+#  Regex extract() — grab area code
 customers["AreaCode"] = customers["Phone"].str.extract(r"^(\d{3})")
 print(customers[["Phone", "AreaCode"]].head())
 
-# ❷  contains & case normalization
+#  contains & case normalization
 gmail_users = customers["EmailAddress"].str.lower().str.contains("@gmail")
 print("\nGmail ratio:", gmail_users.mean().round(3))
 
-# ❸  str.split & explode to normalise multivalued column
+#  str.split & explode to normalise multivalued column
 prod3 = product.copy()
 prod3["Tags"] = prod3["Color"].str.replace("/", "|", regex=False)   # fake tag list
 prod_tags = (prod3
@@ -250,18 +247,18 @@ prod_tags = (prod3
              .reset_index(drop=True))
 print("\nExploded Tags preview:\n", prod_tags[["ProductID", "Tags"]].head())
 
-# ❹  vectorised number-to-string formatting
+#  vectorised number-to-string formatting
 product["PriceFmt"] = product["ListPrice"].map("${:,.2f}".format)
 print("\nFormatted price example:", product["PriceFmt"].head(3).tolist())
 
-# ❺  str.get_dummies for one-hot encoding
+# str.get_dummies for one-hot encoding
 color_OHE = product["Color"].str.get_dummies()
 print("\nOne-hot columns created:", color_OHE.columns.tolist()[:5], "...")
 
 # ------------------------------------------------------------
 # 5b  Expanded datetime / timedelta demos
 # ------------------------------------------------------------
-banner("5b. DateTime power-ups")
+
 
 # ❶  Resample: daily → weekly revenue
 daily_rev = (orderdetail
