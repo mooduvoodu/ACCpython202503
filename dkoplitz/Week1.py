@@ -1,11 +1,11 @@
 # Exercise 1:
-amount = 100
-def calc_tax:
+# amount = 100
+#def calc_tax:
     # Amount tax rate
-    rate = 0.1
-    tax = float(amount) * float(rate)
-    print ("Tax: ",tax)
-def calc_tax = (amount)
+    #rate = 0.1
+    #tax = float(amount) * float(rate)
+    #print ("Tax: ",tax)
+#calc_tax = (amount)
 
 # Excercise 2:
 #1.  An integer variable named months with the value 12.
@@ -132,8 +132,61 @@ print(square("5"))
 # output: 25, 6.25, Error, x must be an interger or float, None
 
 # Exercise 11
+class Book:
+    def __init__ (self, title, author):
+        self.author = author 
+        self.title = title
 
+    def greet(self):
+        print(f"My favorite books are {self.title} by {self.author}.")
 
+# Create instances of a book.
+b1 = Book ("The Devil in the White City", "Erik Larson")
+b2 = Book ("Harry Potter", "J.K. Rowling")
 
+print(b1.title)
+print(b2.author)
 
+b1.greet()
+b2.greet()
 
+# output: The Devil in the White City
+# J.K. Rowling
+# My favorite books are The Devil in the White City by Erik Larson.
+# My favorite books are Harry Potter by J.K. Rowling.
+
+# Exercise 12
+
+import copy
+
+original = [1, 2, [3, 4]]
+assigned = original
+shallow_copy = original.copy()
+deep_copy = copy.deepcopy(original)
+
+original[2].append(5)
+
+print("Original:", original)
+print("Assigned:", assigned)
+print("Shallow Copy:", shallow_copy)
+print("Deep Copy: ", deep_copy)
+
+# Actual exercise
+a = [100, 200, [300, 400]]
+b = a
+c = a.copy()
+d = copy.deepcopy(a)
+
+a[0] = 111
+a[2].append(500)
+
+print(a, b, c, d)
+
+# Response: 
+# 1.	What will happen to a, b, and c if you execute a[0] = 111? 
+#    - a[0] becomes 111 instead of 100
+# 2.	What will happen to a, b, and c if you execute a[2].append(500)?
+#    - a will become [100, 200, 500, [300, 400]]
+# b will be the same as a and c will show original a list and 500.
+
+# Exercise 13
